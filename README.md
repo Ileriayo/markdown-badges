@@ -1,5 +1,5 @@
- # Markdown Tech Badges
-Add badges to your Profile or Projects.
+# Markdown Badges
+Add badges to your Profile and Projects.
 
 ## How to Use
 - Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `README.md`)
@@ -39,4 +39,4 @@ Add badges to your Profile or Projects.
 3. Send in a PR with badges for other tools/technologies and I'd be happy to merge.
 
 ## License
-[MIT]('./LICENSE')
+[MIT](./LICENSE)
