@@ -58,6 +58,7 @@ Add badges to your Profile and Projects.
 | Bitbucket   | <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>       | `<img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>`       |
 
 ### Social
+*Coming soon...*
 
 ### Hosting/SaaS
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
@@ -77,6 +78,7 @@ Add badges to your Profile and Projects.
 | Jenkins     | <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>           | `<img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>`           |
 
 ### Databases
+*Coming soon...*
 
 ### CI
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
@@ -92,8 +94,6 @@ Add badges to your Profile and Projects.
 | Rancher     | <img src="https://img.shields.io/badge/rancher%20-%230075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white"/>           | `<img src="https://img.shields.io/badge/rancher%20-%230075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white"/>`           |
 | Vagrant     | <img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>           | `<img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>`           |
 | Ansible     | <img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>           | `<img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>`           |
-
-
 
 ## Contribution
 1. Fork this repo
