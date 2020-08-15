@@ -30,6 +30,7 @@ Add badges to your Profile and Projects.
 | Perl       | <img src="https://img.shields.io/badge/perl%20-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white"/>                 | `<img src="https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white"/>`                    |
 | Elixir     | <img src="https://img.shields.io/badge/elixir%20-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>             | `<img src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>`                |
 | Markdown   | <img src="https://img.shields.io/badge/markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>         | `<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>`            |
+| Shell Script | <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   | `<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>`     |
 
 ### Frameworks
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
@@ -86,7 +87,7 @@ Add badges to your Profile and Projects.
 | MySQL    | <img src="https://img.shields.io/badge/mysql-%2300000f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>          | `<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>`                   |
 | Postgres | <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  | `<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>`           |
 | MongoDB  | <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>      | `<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>`               |
-| SQLite   | <img src="https://img.shields.io/badge/sqllite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>       | `<img src ="https://img.shields.io/badge/sqllite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>`                |
+| SQLite   | <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>        | `<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>`                 |
 
 
 
