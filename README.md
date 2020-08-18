@@ -62,7 +62,7 @@ Add badges to your Profile and Projects.
 ### Social
 | Name      | Badge                                                                                                                    | Markdown                                                                                                                   |
 | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| Instagram | <img src="https://img.shields.io/badge/handle%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>    | `<img src="https://img.shields.io/badge/handle%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>`             |
+| Instagram | <img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>    | `<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>`             |
 
 ### Hosting/SaaS
 | Name         | Badge                                                                                                                            | Markdown                                                                                                                            |
