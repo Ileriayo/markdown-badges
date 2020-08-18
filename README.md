@@ -39,8 +39,8 @@ Add badges to your Profile and Projects.
 | React       | <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>           | `<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>`           |
 | Vue.js      | <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>          | `<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>`          |
 | Angular     | <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>           | `<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>`           |
-| Angular.js  | <img src="https://img.shields.io/badge/angular-js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>      | `<img src="https://img.shields.io/badge/angular-js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>`      |
-| TailwindCSS | <img src="https://img.shields.io/badge/tailwind-css%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/> | `<img src="https://img.shields.io/badge/tailwind-css%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>` |
+| Angular.js  | <img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>      | `<img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>`      |
+| TailwindCSS | <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/> | `<img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>` |
 | Bootstrap   | <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>       | `<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>`       |
 | Material UI | <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/> | `<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>` |
 | Redux       | <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>               | `<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>`               |
@@ -60,7 +60,9 @@ Add badges to your Profile and Projects.
 | Bitbucket | <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/> | `<img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>` |
 
 ### Social
-*Coming soon...*
+| Name      | Badge                                                                                                                    | Markdown                                                                                                                   |
+| --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| Instagram | <img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>    | `<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>`             |
 
 ### Hosting/SaaS
 | Name         | Badge                                                                                                                            | Markdown                                                                                                                            |
@@ -94,7 +96,7 @@ Add badges to your Profile and Projects.
 ### CI
 | Name     | Badge                                                                                                                  | Markdown                                                                                                                 |
 | -------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| TravisCI | <img src="https://img.shields.io/badge/travis-ci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>  | `<img src="https://img.shields.io/badge/travis-ci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>`  |
+| TravisCI | <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>  | `<img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>`  |
 | CircleCI | <img src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/> | `<img src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/>` |
 
 ### Other
