@@ -110,6 +110,7 @@ Add badges to your Profile and Projects.
 | Rancher    | <img src="https://img.shields.io/badge/rancher%20-%230075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white"/>       | `<img src="https://img.shields.io/badge/rancher%20-%230075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white"/>`       |
 | Vagrant    | <img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>       | `<img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>`       |
 | Ansible    | <img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>       | `<img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>`       |
+| Jupyter    | <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />      | `<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />`       |
 
 ## Contribution
 1. Fork this repo
