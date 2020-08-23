@@ -4,6 +4,23 @@ Add badges to your Profile and Projects.
 ## How to Use
 - Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `README.md`)
 
+## Shortcuts
+- [Markdown Badges](#markdown-badges)
+  - [How to Use](#how-to-use)
+  - [Shortcuts](#shortcuts)
+    - [Programming Languages](#programming-languages)
+    - [Frameworks](#frameworks)
+    - [Version Control](#version-control)
+    - [Social](#social)
+    - [Hosting/SaaS](#hostingsaas)
+    - [Servers](#servers)
+    - [Databases](#databases)
+    - [CI](#ci)
+    - [Deep Learning Frameworks](#deep-learning-frameworks)
+    - [Other](#other)
+  - [Contribution](#contribution)
+  - [License](#license)
+
 ### Programming Languages
 | Name       | Badge                                                                                                                          | Markdown                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
