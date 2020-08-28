@@ -18,6 +18,7 @@ Add badges to your Profile and Projects.
     - [CI](#ci)
     - [Deep Learning Frameworks](#deep-learning-frameworks)
     - [Other](#other)
+    - [Design](#design)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -147,6 +148,14 @@ Add badges to your Profile and Projects.
 | Vagrant    | <img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>       | `<img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>`       |
 | Ansible    | <img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>       | `<img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>`       |
 | Jupyter    | <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />      | `<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />`       |
+
+### Design
+| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Adobe Illustrator     | <img src="https://img.shields.io/badge/Illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=323232"/>         | `<img src="https://img.shields.io/badge/Illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=323232"/>`         |
+| Adobe Photoshop     | <img src="https://img.shields.io/badge/Illustrator%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=323232"/>         | `<img src="https://img.shields.io/badge/Illustrator%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=323232"/>`         |
+| Adobe XD     | <img src="https://img.shields.io/badge/Illustrator%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe-xd&logoColor=323232"/>         | `<img src="https://img.shields.io/badge/Illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=323232"/>`         |
+| Adobe InDesign     | <img src="https://img.shields.io/badge/Illustrator%20-%23EE3D8F.svg?&style=for-the-badge&logo=adobe-indesign&logoColor=323232"/>         | `<img src="https://img.shields.io/badge/Illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=323232"/>`         |
 
 ## Contribution
 1. Fork this repo
