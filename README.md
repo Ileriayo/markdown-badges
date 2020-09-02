@@ -155,6 +155,7 @@ Add badges to your Profile and Projects.
 | Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Battle<i></i>.net    | <img src="https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/> | `<img src="https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>` |
+| Steam    | <img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> | `<img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>` |
 
 
 ### Other
