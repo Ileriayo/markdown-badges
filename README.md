@@ -156,6 +156,7 @@ Add badges to your Profile and Projects.
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Battle<i></i>.net    | <img src="https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/> | `<img src="https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>` |
 | Steam    | <img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> | `<img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>` |
+| Epic Games    | <img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/> | `<img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>` |
 
 
 ### Other
