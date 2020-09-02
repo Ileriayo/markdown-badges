@@ -160,6 +160,7 @@ Add badges to your Profile and Projects.
 | Steam    | <img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> | `<img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>` |
 | Epic Games    | <img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/> | `<img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>` |
 | EA    | <img src="https://img.shields.io/badge/ea%20-%23000000.svg?&style=for-the-badge&logo=ea&logoColor=white"/> | `<img src="https://img.shields.io/badge/ea%20-%23000000.svg?&style=for-the-badge&logo=ea&logoColor=white"/>` |
+| XBOX    | <img src="https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white"/> | `<img src="https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white"/>` |
 
 
 ### Other
