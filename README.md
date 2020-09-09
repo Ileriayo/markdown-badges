@@ -50,6 +50,7 @@ Add badges to your Profile and Projects.
 | Elixir     | <img src="https://img.shields.io/badge/elixir%20-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>             | `<img src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>`                |
 | Markdown   | <img src="https://img.shields.io/badge/markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>         | `<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>`            |
 | Shell Script | <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   | `<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>`     |
+| LaTeX | <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>   | `<img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>`     |
 
 ### Frameworks
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
