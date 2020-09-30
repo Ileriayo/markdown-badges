@@ -110,7 +110,7 @@ Add badges to your Profile and Projects.
 | Xbox      | <img src="https://img.shields.io/badge/<handle>%20-%23107C10.svg?&style=for-the-badge&logo=Xbox&logoColor=white"/>    | `<img src="https://img.shields.io/badge/<handle>%20-%23107C10.svg?&style=for-the-badge&logo=Xbox&logoColor=white"/>`             |
 | Youtube   | <img src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>    | `<img src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>`             |
 | LinkedIn  | <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>    | `<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>`             |
-| Hackerrank  | <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/>    | `<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/>`             |
+| Hackerrank  | <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>    | `<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>`             |
 | Discord  | <img src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    | `<img src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>`             |
 
 
