@@ -78,6 +78,7 @@ Add badges to your Profile and Projects.
 | NuxtJS      | <img src="https://img.shields.io/badge/NuxtJs%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>                   | `<img src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>` |
 | Stylus      | <img src="https://img.shields.io/badge/stylus%20-%23333333.svg?&style=for-the-badge&logo=stylus&logoColor=white"/>             | `<img src="https://img.shields.io/badge/stylus%20-hotpink.svg?&style=for-the-badge&logo=stylus&logoColor=white"/>` |
 | Webpack     | <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />          | `<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />` |
+| NestJS      | <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />          | `<img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />` |
 
 
 ### Design
@@ -145,6 +146,7 @@ Add badges to your Profile and Projects.
 | Postgres | <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  | `<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>`           |
 | MongoDB  | <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>      | `<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>`               |
 | SQLite   | <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>        | `<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>`                 |
+| Oracle   | <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />                   | `<img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />`                        |
 
 
 
