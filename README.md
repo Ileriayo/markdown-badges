@@ -51,7 +51,6 @@ Add badges to your Profile and Projects.
 | Markdown   | <img src="https://img.shields.io/badge/markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>         | `<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>`            |
 | Shell Script | <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   | `<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>`     |
 | LaTeX | <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>   | `<img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>`     |
-| GraphQL | <img src="https://img.shields.io/badge/graphql%20-%23de5da6.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>   | `<img src="https://img.shields.io/badge/graphql%20-%23de5da6.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>`     |
 
 ### Frameworks
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
@@ -81,6 +80,7 @@ Add badges to your Profile and Projects.
 | Webpack     | <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />          | `<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />` |
 | NestJS      | <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />          | `<img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />` |
 | Strapi      | <img src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />          | `<img src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />` |
+| Meteor Js   | <img src="https://img.shields.io/badge/meteor%20js%20-%23d74c4c.svg?&style=for-the-badge&logo=meteor&logoColor=white"/>   | `<img src="https://img.shields.io/badge/meteor%20js%20-%23d74c4c.svg?&style=for-the-badge&logo=meteor&logoColor=white"/>` |
 
 ### Design
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
