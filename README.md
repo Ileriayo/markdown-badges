@@ -51,6 +51,7 @@ Add badges to your Profile and Projects.
 | Markdown   | <img src="https://img.shields.io/badge/markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>         | `<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>`            |
 | Shell Script | <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   | `<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>`     |
 | LaTeX | <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>   | `<img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>`     |
+| GraphQL | <img src="https://img.shields.io/badge/graphql-%23de5da6.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>   | `<img src="https://img.shields.io/badge/graphql-%23de5da6.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>`     |
 
 ### Frameworks
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
