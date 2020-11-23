@@ -80,8 +80,9 @@ Add badges to your Profile and Projects.
 | Webpack     | <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />          | `<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />` |
 | NestJS      | <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />          | `<img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />` |
 | Strapi      | <img src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />          | `<img src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />` |
-| Meteor Js   | <img src="https://img.shields.io/badge/meteor%20js%20-%23d74c4c.svg?&style=for-the-badge&logo=meteor&logoColor=white"/>   | `<img src="https://img.shields.io/badge/meteor%20js%20-%23d74c4c.svg?&style=for-the-badge&logo=meteor&logoColor=white"/>` |
+| Meteor JS   | <img src="https://img.shields.io/badge/meteor%20js%20-%23d74c4c.svg?&style=for-the-badge&logo=meteor&logoColor=white"/>   | `<img src="https://img.shields.io/badge/meteor%20js%20-%23d74c4c.svg?&style=for-the-badge&logo=meteor&logoColor=white"/>` |
 | Svelte   | <img src="https://img.shields.io/badge/svelte%20-%23f1413d.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>   | `<img src="https://img.shields.io/badge/svelte%20-%23f1413d.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>` |
+| Next JS   | <img src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>   | `<img src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>` |
 
 ### Design
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
