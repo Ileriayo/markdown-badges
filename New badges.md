@@ -13,6 +13,7 @@
 ![Devpost](https://img.shields.io/badge/Devpost%20-%23003E54.svg?&style=for-the-badge&logo=Devpost&logoColor=white)
 
 ### Newton School
+
 ![Newton School](https://img.shields.io/badge/Newton%20School%20-%23719DE6.svg?&style=for-the-badge&logo=Newton%20School&logoColor=56CAD1)
 
 ### Devfolio
@@ -32,6 +33,7 @@
 ![Duolingo](https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white)
 
 ### Bitdegree
+
 ![BitDegree](https://img.shields.io/badge/Bitdegree%20-%23000000.svg?&style=for-the-badge&logo=BitDegree&logoColor=white)
 
 ### Udemy
