@@ -131,10 +131,10 @@ Add badges to your Profile and Projects.
 
 #### Education
 
-| Name         | Badge                                                                                                                                                   | Markdown                                                                                                                             |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Udemy        | <img src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"  />                          | `<img src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>`                   |
-| Duolingo     | <img src="https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo"  />                 | `<img src="https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/>`             |
+| Name         | Badge                                                        | Markdown                                                     |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Udemy        | <img src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"  /> | `<img src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>` |
+| Duolingo     | <img src="https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo"  /> | `<img src="https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/>` |
 | Khan Academy | <img src="https://img.shields.io/badge/Khan%20Academy%20-%2314BF96.svg?&style=for-the-badge&logo=Khan%20Academy&logoColor=white" alt="Khan Academy"  /> | `<img src="https://img.shields.io/badge/Khan%20Academy%20-%2314BF96.svg?&style=for-the-badge&logo=Khan%20Academy&logoColor=white"/>` |
 
 #### Developer/Forums
