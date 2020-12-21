@@ -23,6 +23,7 @@ Add badges to your Profile and Projects.
     - [ML/DL](#mldl)
     - [Gaming](#gaming)
     - [Other](#other)
+    - [Design](#design)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -226,6 +227,14 @@ Add badges to your Profile and Projects.
 | Jupyter    | <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />      | `<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />`       |
 | Raspberry Pi | <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>                   | `<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>`                 |
 | Arduino    | <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>                 | `<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>`                 |
+
+### Design
+| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Adobe Illustrator     | <img src="https://img.shields.io/badge/Illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>         | `<img src="https://img.shields.io/badge/Illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>`         |
+| Adobe Photoshop     | <img src="https://img.shields.io/badge/Photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>         | `<img src="https://img.shields.io/badge/Photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/> `         |
+| Adobe XD     | <img src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white"/>         | `<img src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white"/> `         |
+| Adobe InDesign     | <img src="https://img.shields.io/badge/InDesign%20-%23EE3D8F.svg?&style=for-the-badge&logo=adobe-indesign&logoColor=white"/>         | `<img src="https://img.shields.io/badge/InDesign%20-%23EE3D8F.svg?&style=for-the-badge&logo=adobe-indesign&logoColor=white"/>`         |
 
 ## Contribution
 
