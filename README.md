@@ -25,6 +25,7 @@ Add badges to your Profile and Projects.
     - [Operating System](#operating-system)
     - [Other](#other)
   - [Contribution](#contribution)
+  - [Contact](#contact)
   - [License](#license)
 
 ### Programming Languages
@@ -239,11 +240,16 @@ Add badges to your Profile and Projects.
 
    Markdown Format:
    ```
-   <img alt="" src="https://img.shields.io/badge/<badge>%20-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>"/>
+   <img alt="" src="https://img.shields.io/badge/<badge>%20-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
    ```
    Replace the following: `<badge>`, `<badge-color>`, `<logo-color>`
 
 3. Send in a PR with badges for other tools/technologies and I'd be happy to merge.
+
+Thanks to ALL the amazing contributors!
+
+## Contact
+You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ## License
 [MIT](./LICENSE)
