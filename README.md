@@ -81,6 +81,8 @@ Add badges to your Profile and Projects.
 | NestJS      | <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />          | `<img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />` |
 | Strapi      | <img src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />          | `<img src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />` |
 | Gatsby      | <img src="https://img.shields.io/badge/gatsby%20-%23663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />          | `<img src="https://img.shields.io/badge/gatsby%20-%23663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />` |
+| .NET        | <img src="https://img.shields.io/badge/.net%20-%235C2D91.svg?&style=for-the-badge&logo=&logoColor=white" />        | `<img src="https://img.shields.io/badge/.net%20-%235C2D91.svg?&style=for-the-badge&logo=&logoColor=white" />` |
+
 
 ### Design
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
