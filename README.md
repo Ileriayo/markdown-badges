@@ -80,6 +80,7 @@ Add badges to your Profile and Projects.
 | Webpack     | <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />          | `<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />` |
 | NestJS      | <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />          | `<img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />` |
 | Strapi      | <img src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />          | `<img src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />` |
+| .NET        | <img src="https://img.shields.io/badge/.net%20-%235C2D91.svg?&style=for-the-badge&logo=&logoColor=white" />        | `<img src="https://img.shields.io/badge/.net%20-%235C2D91.svg?&style=for-the-badge&logo=&logoColor=white" />` |
 
 ### Design
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
