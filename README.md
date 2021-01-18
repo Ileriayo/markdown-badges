@@ -29,7 +29,7 @@ Add badges to your Profile and Projects.
   - [License](#license)
 
 ### Programming Languages
-| Name       | Badge                                                                                                                          | Markdown                                                                                                                         |
+| Name       | Badge                                                                                                                          | HTML                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Node.js    | <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>           | `<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>`           |
 | JavaScript | <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> | `<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>` |
@@ -58,7 +58,7 @@ Add badges to your Profile and Projects.
 | LaTeX | <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>   | `<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>`     |
 
 ### Frameworks
-| Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
+| Name        | Badge                                                                                                                          | HTML                                                                                                                         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Express.js  | <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>                                     | `<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>`                                     |
 | React       | <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>           | `<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>`           |
@@ -87,7 +87,7 @@ Add badges to your Profile and Projects.
 | Strapi      | <img alt="Strapi" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />          | `<img alt="Strapi" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />` |
 
 ### Design
-| Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
+| Name        | Badge                                                                                                                          | HTML                                                                                                                         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Adobe       | <img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/> | `<img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>` |
 | Adobe XD    | <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/> | `<img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>` |
@@ -98,7 +98,7 @@ Add badges to your Profile and Projects.
 
 
 ### Version Control
-| Name      | Badge                                                                                                                    | Markdown                                                                                                                   |
+| Name      | Badge                                                                                                                    | HTML                                                                                                                   |
 | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | Git       | <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>             | `<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>`             |
 | GitLab    | <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>       | `<img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>`       |
@@ -106,7 +106,7 @@ Add badges to your Profile and Projects.
 | Bitbucket | <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/> | `<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>` |
 
 ### Social
-| Name      | Badge                                                                                                                    | Markdown                                                                                                                   |
+| Name      | Badge                                                                                                                    | HTML                                                                                                                   |
 | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | Instagram | <img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>    | `<img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>`             |
 | Skype     | <img alt="Skype" src="https://img.shields.io/badge/<handle>%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>    | `<img alt="Skype" src="https://img.shields.io/badge/<handle>%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>`             |
@@ -132,7 +132,7 @@ Add badges to your Profile and Projects.
 | Reddit | <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /> | `<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />` |
 ||
 ### Hosting/SaaS
-| Name         | Badge                                                                                                                            | Markdown                                                                                                                            |
+| Name         | Badge                                                                                                                            | HTML                                                                                                                            |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | AWS          | <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>              | `<img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> `              |
 | Google Cloud | <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> | `<img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> ` |
@@ -146,14 +146,14 @@ Add badges to your Profile and Projects.
 | Scaleway     | <img alt="Scaleway" src="https://img.shields.io/badge/SCALEWAY%20-%234f0599.svg?&style=for-the-badge&logo=scaleway&logoColor=white"/>                           | `<img alt="Scaleway" src="https://img.shields.io/badge/SCALEWAY%20-%234f0599.svg?&style=for-the-badge&logo=scaleway&logoColor=white"/>`                            |
 
 ### Servers
-| Name    | Badge                                                                                                                | Markdown                                                                                                               |
+| Name    | Badge                                                                                                                | HTML                                                                                                               |
 | ------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Apache  | <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>   | `<img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>`   |
 | Nginx   | <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>     | `<img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>`     |
 | Jenkins | <img alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/> | `<img alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>` |
 
 ### Databases
-| Name     | Badge                                                                                                                  | Markdown                                                                                                                 |
+| Name     | Badge                                                                                                                  | HTML                                                                                                                 |
 | -------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | MySQL    | <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300000f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>          | `<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>`                   |
 | Postgres | <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  | `<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>`           |
@@ -164,14 +164,14 @@ Add badges to your Profile and Projects.
 
 
 ### CI
-| Name     | Badge                                                                                                                  | Markdown                                                                                                                 |
+| Name     | Badge                                                                                                                  | HTML                                                                                                                 |
 | -------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | TravisCI | <img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>  | `<img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>`  |
 | CircleCI | <img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/> | `<img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/>` |
 | GitHub Actions | <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/> | `<img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>` |
 
 ### ML/DL
-| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| Name       | Badge                                                                                                                      | HTML                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Keras      | <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>               | `<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>` |
 | TensorFlow | <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />    | `<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />` |
@@ -181,7 +181,7 @@ Add badges to your Profile and Projects.
 
 
 ### Gaming
-| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| Name       | Badge                                                                                                                      | HTML                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Unreal Engine    | <img alt="Unreal Engine " src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/> | `<img alt="Unreal Engine " src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>` |
 | Unity    | <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> | `<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>` |
@@ -192,20 +192,20 @@ Add badges to your Profile and Projects.
 | XBOX    | <img alt="XBOX" src="https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white"/> | `<img alt="XBOX" src="https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white"/>` |
 
 ### Store
-| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| Name       | Badge                                                                                                                      | HTML                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Play Store | <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> | `<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> `
 | App Store | <img alt="App Stor" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /> | `<img alt="App Stor" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />`
 
 ### Music
-| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| Name       | Badge                                                                                                                      | HTML                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Spotify | <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> | ` <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />` |
 | Deezer | <img alt="Dezzer" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />  | `<img alt="Dezzer" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />` | 
 | Apple Music | <img alt="apple music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />| ` <img alt="apple music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />` |
 
 ### Funding
-| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| Name       | Badge                                                                                                                      | HTML                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Paypal | <img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> | ` <img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />` |
 | LiberaPay |<img alt="LiberaPay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" />| `<img alt="LiberaPay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" />` |
@@ -214,14 +214,14 @@ Add badges to your Profile and Projects.
 | Ko-Fi | <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> | `<img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> ` |
 
 ### Operating System
-| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| Name       | Badge                                                                                                                      | HTML                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Ubuntu | <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />| `<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />`|
 | Windows | <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />| `<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />` |
 | Android | <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />| `<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />` |
 | IOS | <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"> | `<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">` |
 ### Other
-| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| Name       | Badge                                                                                                                      | HTML                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Docker     | <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>         | `<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>`         |
 | Kubernetes | <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> | `<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>` |
@@ -238,7 +238,7 @@ Add badges to your Profile and Projects.
 
 2. Update a local clone or make changes directly on the forked repo, adding a badge with its appropriate hex-color
 
-   Markdown Format:
+   HTML Format:
    ```
    <img alt="" src="https://img.shields.io/badge/<badge>%20-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
    ```
