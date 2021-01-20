@@ -1,10 +1,13 @@
 # Markdown Badges
+
 Add badges to your Profile and Projects.
 
 ## How to Use
+
 - Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `README.md`)
 
 ## Shortcuts
+
 - [Markdown Badges](#markdown-badges)
   - [How to Use](#how-to-use)
   - [Shortcuts](#shortcuts)
@@ -13,10 +16,13 @@ Add badges to your Profile and Projects.
     - [Design](#design)
     - [Version Control](#version-control)
     - [Social](#social)
+      - [Education](#education)
+      - [Developer/Forums](#developerforums) 
     - [Hosting/SaaS](#hostingsaas)
     - [Servers](#servers)
     - [Databases](#databases)
     - [CI](#ci)
+    - [Testing](#testing)
     - [ML/DL](#mldl)
     - [Gaming](#gaming)
     - [Store](#store)
@@ -25,7 +31,9 @@ Add badges to your Profile and Projects.
     - [Operating System](#operating-system)
     - [Blog](#blog)
     - [Other](#other)
+    - [Design](#design)
   - [Contribution](#contribution)
+  - [Contact](#contact)
   - [License](#license)
 
 ### Programming Languages
@@ -56,6 +64,7 @@ Add badges to your Profile and Projects.
 | Markdown   | <img alt="Markdown" src="https://img.shields.io/badge/markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>         | `<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>`            |
 | Shell Script | <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   | `<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>`     |
 | LaTeX | <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>   | `<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>`     |
+| GraphQL    | <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>                 | `<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>`                 |
 
 ### Frameworks
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
@@ -85,7 +94,14 @@ Add badges to your Profile and Projects.
 | Webpack     | <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />          | `<img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />` |
 | NestJS      | <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />          | `<img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />` |
 | Strapi      | <img alt="Strapi" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />          | `<img alt="Strapi" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />` |
-
+| RxJS        | <img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?&style=for-the-badge&logo=reactivex&logoColor=white" />          | `<img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?&style=for-the-badge&logo=reactivex&logoColor=white" />` |
+| Jasmine     | <img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?&style=for-the-badge&logo=jasmine&logoColor=white" />          | `<img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?&style=for-the-badge&logo=jasmine&logoColor=white" />` |
+| Meteor JS    | <img alt="Metero JS" src="https://img.shields.io/badge/meteor%20js%20-%23d74c4c.svg?&style=for-the-badge&logo=meteor&logoColor=white"/> | `<img alt= "Meteor JS" src="https://img.shields.io/badge/meteor%20js%20-%23d74c4c.svg?&style=for-the-badge&logo=meteor&logoColor=white"/>` |
+| Svelte       | <img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23f1413d.svg?&style=for-the-badge&logo=svelte&logoColor=white"/> | `<img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23f1413d.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>` |
+| Next JS      | <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> | `<img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>` |
+| TypeGraphQL    | <img alt="Type-graphql" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=for-the-badge"/>                 | `<img alt="Type-graphql" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=for-the-badge"/>`                 |
+| Ant Design    | <img alt="Ant-Design" src="https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white"/>                 | `<img alt="Ant-Design" src="https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white"/>`                 |
+| Apollo GraphQL    | <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>                 | `<img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>`                 |
 ### Design
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -95,9 +111,11 @@ Add badges to your Profile and Projects.
 | Adobe Illustrator | <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> | `<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>` |
 | Figma | <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> | `<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>` |
 | Blender | <img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/> | `<img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>` |
+| Canva             | <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> | `<img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>` |
 
 
 ### Version Control
+
 | Name      | Badge                                                                                                                    | Markdown                                                                                                                   |
 | --------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | Git       | <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>             | `<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>`             |
@@ -111,7 +129,7 @@ Add badges to your Profile and Projects.
 | Instagram | <img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>    | `<img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>`             |
 | Skype     | <img alt="Skype" src="https://img.shields.io/badge/<handle>%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>    | `<img alt="Skype" src="https://img.shields.io/badge/<handle>%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>`             |
 | Snapchat  | <img alt="Snapchat" src="https://img.shields.io/badge/<handle>%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>    | `<img alt="" src="https://img.shields.io/badge/<handle>%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>`             |
-| TikTok    | <img alt="TikTok" src="https://img.shields.io/badge/<handle>%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>    | `<img alt="TikTok" src="https://img.shields.io/badge/<handle>%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>`
+| TikTok    | <img alt="TikTok" src="https://img.shields.io/badge/<handle>%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>    | `<img alt="TikTok" src="https://img.shields.io/badge/<handle>%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>`|
 | Tumblr    | <img alt="Tumblr" src="https://img.shields.io/badge/<handle>%20-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/>    | `<img alt="Tumblr" src="https://img.shields.io/badge/<handle>%20-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/>`             |
 | Twitch    | <img alt="Twitch" src="https://img.shields.io/badge/<handle>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>    | `<img alt="Twitch" src="https://img.shields.io/badge/<handle>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>`             |
 | Gmail | <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `<img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />`|
@@ -122,15 +140,39 @@ Add badges to your Profile and Projects.
 | Xbox      | <img alt="Xbox" src="https://img.shields.io/badge/<handle>%20-%23107C10.svg?&style=for-the-badge&logo=Xbox&logoColor=white"/>    | `<img alt="Xbox" src="https://img.shields.io/badge/<handle>%20-%23107C10.svg?&style=for-the-badge&logo=Xbox&logoColor=white"/>`             |
 | Youtube   | <img alt="Youtube" src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>    | `<img alt="Youtube" src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>`             |
 | LinkedIn  | <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>    | `<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>`             |
-| HackerRank  | <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>    | `<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>`             |
-| StackoverFlow  | <img alt="StackOverFlow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>    | `<img alt="StackOverFlow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>`             |
 | Discord  | <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    | `<img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>`             |
 | WhatsApp | <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> | `<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>`|
 | Telegram | <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> | `<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />` |
 | Slack | <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> | `<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />`|
 | Zoom | <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /> | `<img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />`|
 | Reddit | <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /> | `<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />` |
-||
+| Facebook  | <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"  /> | `<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>` |
+| Pinterest | <img alt="Pinterest" src="https://img.shields.io/badge/<handle  >%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"  /> | `<img alt="Pinterest" src="https://img.shields.io/badge/<handle >%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>` |
+| Medium    | <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"  /> | `<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>` |
+| WordPress | <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"   /> | `<img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>` |
+
+#### Education
+
+| Name         | Badge                                                        | Markdown                                                     |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Udemy        | <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white" /> | `<img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>` |
+| Duolingo     | <img alt="Duolingo" src="https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"  /> | `<img alt="Duolingo" src="https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/>` |
+| Khan Academy | <img alt="Khan Academy" src="https://img.shields.io/badge/Khan%20Academy%20-%2314BF96.svg?&style=for-the-badge&logo=Khan%20Academy&logoColor=white"  /> | `<img alt="Khan Academy" src="https://img.shields.io/badge/Khan%20Academy%20-%2314BF96.svg?&style=for-the-badge&logo=Khan%20Academy&logoColor=white"/>` |
+| Repl.it      | <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/> | `<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>` |
+
+#### Developer/Forums
+
+| Name           | Badge                                                        | Markdown                                                     |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Quora          | <img alt="Quora" src="https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"  /> | `<img alt="Quora" src="https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>` |
+| Reddit         | <img alt="Reddit" src="https://img.shields.io/badge/Reddit%20-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white"   /> | `<img alt="Reddit" src="https://img.shields.io/badge/Reddit%20-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white"/>` |
+| XDA Developers | <img alt="XDA Developers" src="https://img.shields.io/badge/XDA-Developers%20-%23AC6E2F.svg?&style=for-the-badge&logo=XDA-Developers&logoColor=white"   /> | `<img alt="XDA Developers" src="https://img.shields.io/badge/XDA-Developers%20-%23AC6E2F.svg?&style=for-the-badge&logo=XDA-Developers&logoColor=white"/>` |
+| OnePlus Forums | <img alt="OnePlus Forums" src="https://img.shields.io/badge/OnePlus%20Forums%20-%23EB0028.svg?&style=for-the-badge&logo=OnePlus&logoColor=white"   /> | `<img alt="OnePlus Forums" src="https://img.shields.io/badge/OnePlus%20Forums%20-%23EB0028.svg?&style=for-the-badge&logo=OnePlus&logoColor=white"/>` |
+| Stack Overflow | <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> | `<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>` |
+| Stack Exchange | <img alt="Stack Exchange" src="https://img.shields.io/badge/Stack%20Exchange%20-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white" /> | `<img alt="Stack Exchange" src="https://img.shields.io/badge/Stack%20Exchange%20-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white"/>` |
+| HackerRank     | <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> | `<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>` |
+| Hacker Earth   | <img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth%20-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"   /> | `<img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth%20-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/>` |
+
 ### Hosting/SaaS
 | Name         | Badge                                                                                                                            | Markdown                                                                                                                            |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -146,6 +188,7 @@ Add badges to your Profile and Projects.
 | Scaleway     | <img alt="Scaleway" src="https://img.shields.io/badge/SCALEWAY%20-%234f0599.svg?&style=for-the-badge&logo=scaleway&logoColor=white"/>                           | `<img alt="Scaleway" src="https://img.shields.io/badge/SCALEWAY%20-%234f0599.svg?&style=for-the-badge&logo=scaleway&logoColor=white"/>`                            |
 
 ### Servers
+
 | Name    | Badge                                                                                                                | Markdown                                                                                                               |
 | ------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Apache  | <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>   | `<img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>`   |
@@ -162,13 +205,20 @@ Add badges to your Profile and Projects.
 | Oracle   | <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />                   | `<img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />`                        |
 
 
-
 ### CI
 | Name     | Badge                                                                                                                  | Markdown                                                                                                                 |
 | -------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | TravisCI | <img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>  | `<img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>`  |
 | CircleCI | <img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/> | `<img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/>` |
 | GitHub Actions | <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/> | `<img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>` |
+
+### Testing
+| Name     | Badge                                                                                                                  | Markdown                                                                                                                 |
+| -------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Testing Library    | <img alt="Testing-Library" src="https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"/>                 | `<img alt="Testing-Library" src="https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"/>`                 |
+| Jest    | <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>                 | `<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>`                 |
+| Mocha    | <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>                 | `<img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>`                 |
+| Jasmine    | <img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-%238A4182?&style=for-the-badge&logo=Jasmine&logoColor=white"/>                 | `<img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-%238A4182?&style=for-the-badge&logo=Jasmine&logoColor=white"/>`                 |
 
 ### ML/DL
 | Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
@@ -181,28 +231,41 @@ Add badges to your Profile and Projects.
 
 
 ### Gaming
-| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Unreal Engine    | <img alt="Unreal Engine " src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/> | `<img alt="Unreal Engine " src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>` |
-| Unity    | <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> | `<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>` |
-| Battle<i></i>.net    | <img alt="Battle.net" src="https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/> | `<img alt="Battle.net" src="https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>` |
-| Steam    | <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> | `<img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>` |
-| Epic Games    | <img alt="Epic Games" src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/> | `<img alt="Epic Games" src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>` |
-| EA    | <img alt="EA" src="https://img.shields.io/badge/ea%20-%23000000.svg?&style=for-the-badge&logo=ea&logoColor=white"/> | `<img alt="EA" src="https://img.shields.io/badge/ea%20-%23000000.svg?&style=for-the-badge&logo=ea&logoColor=white"/>` |
-| XBOX    | <img alt="XBOX" src="https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white"/> | `<img alt="XBOX" src="https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white"/>` |
+| Name                | Badge                                                        | Markdown                                                     |
+| ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Unreal Engine       | <img alt="Unreal Engine" src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/> | `<img alt="Unreal Engine" src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>` |
+| Unity               | <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> | `<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>` |
+| Battle<i></i>.net   | <img alt="Battle.net" src="https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/> | `<img alt="Battle.net" src="https://img.shields.io/badge/battle.net%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>` |
+| Steam               | <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> | `<img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>` |
+| Epic Games          | <img alt="Epic Games" src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/> | `<img alt="Epic Games" src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>` |
+| EA                  | <img alt="EA" src="https://img.shields.io/badge/ea%20-%23000000.svg?&style=for-the-badge&logo=ea&logoColor=white"/> | `<img alt="EA" src="https://img.shields.io/badge/ea%20-%23000000.svg?&style=for-the-badge&logo=ea&logoColor=white"/>` |
+| Xbox                | <img alt="Xbox" src="https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white"/> | `<img alt="Xbox" src="https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white"/>` |
+| Ubisoft             | <img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft%20-%23F5F5F5.svg?&style=for-the-badge&logo=Ubisoft&logoColor=black" alt="Ubisoft"  /> | `<img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft%20-%23F5F5F5.svg?&style=for-the-badge&logo=Ubisoft&logoColor=black"/>` |
+| PlayStation Network | <img alt="PlayStation Network" src="https://img.shields.io/badge/PSN%20-%230070D1.svg?&style=for-the-badge&logo=Playstation&logoColor=white" alt="Playstation Network"  /> | `<img alt="PlayStation Network" src="https://img.shields.io/badge/PSN%20-%230070D1.svg?&style=for-the-badge&logo=Playstation&logoColor=white"/>` |
+| Square Enix         | <img alt="Square Enix" src="https://img.shields.io/badge/Square%20Enix%20-%23ED1C24.svg?&style=for-the-badge&logo=Square%20Enix&logoColor=white" alt="Square Enix"  /> | `<img alt="Square Enix" src="https://img.shields.io/badge/Square%20Enix%20-%23ED1C24.svg?&style=for-the-badge&logo=Square%20Enix&logoColor=white"/>` |
+| nVIDIA              | <img alt="nVIDIA" src="https://img.shields.io/badge/nVIDIA%20-%2376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white" alt="Nvidia"  /> | `<img alt="nVIDIA" src="https://img.shields.io/badge/nVIDIA%20-%2376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white"/>` |
+| Itch.io             | <img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io"  /> | `<img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/>` |
+| Humble Bundle       | <img alt="Humble Bundle" src="https://img.shields.io/badge/Humble%20Bundle%20-%23494F5C.svg?&style=for-the-badge&logo=Humble%20Bundle&logoColor=white"/> | `<img alt="Humble Bundle" src="https://img.shields.io/badge/Humble%20Bundle%20-%23494F5C.svg?&style=for-the-badge&logo=Humble%20Bundle&logoColor=white"/>` |
+
+### Cloud storage
+| Name    | Badge                                                        | Markdown                                                     |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Dropbox | <img alt="Dropbox" src="https://img.shields.io/badge/Dropbox%20-%233B4D98.svg?&style=for-the-badge&logo=Dropbox&logoColor=white"/> | `<img alt="Dropbox" src="https://img.shields.io/badge/Dropbox%20-%233B4D98.svg?&style=for-the-badge&logo=Dropbox&logoColor=white"/>` |
+| Mega.nz | <img alt="Mega.nz" src="https://img.shields.io/badge/Mega%20-%23D90007.svg?&style=for-the-badge&logo=Mega&logoColor=white"/> | `<img alt="Mega.nz" src="https://img.shields.io/badge/Mega%20-%23D90007.svg?&style=for-the-badge&logo=Mega&logoColor=white"/>` |
 
 ### Store
 | Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Play Store | <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> | `<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> `
-| App Store | <img alt="App Stor" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /> | `<img alt="App Stor" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />`
+| App Store | <img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /> | `<img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />`
 
 ### Music
 | Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Spotify | <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> | ` <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />` |
-| Deezer | <img alt="Dezzer" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />  | `<img alt="Dezzer" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />` | 
-| Apple Music | <img alt="apple music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />| ` <img alt="apple music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />` |
+| Deezer | <img alt="Deezer" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />  | `<img alt="Deezer" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />` |
+| Apple Music | <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />| ` <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />` |
+
 
 ### Funding
 | Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
@@ -244,19 +307,44 @@ Add badges to your Profile and Projects.
 | Jupyter    | <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />      | `<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />`       |
 | Raspberry Pi | <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>                   | `<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>" />`                 |
 | Arduino    | <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>                 | `<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>`                 |
+| Trello       | <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/> | `<img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>` |
+| Prezi        | <img alt="Prezi" src="https://img.shields.io/badge/Prezi%20-%23000000.svg?&style=for-the-badge&logo=Prezi&logoColor=white"/> | `<img alt="Prezi" src="https://img.shields.io/badge/Prezi%20-%23000000.svg?&style=for-the-badge&logo=Prezi&logoColor=white"/>` |
+| Google Pay   | <img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/> | `<img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/>` |
+| Uber         | <img alt="Uber" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/> | `<img alt="" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/>` |
+| ElasticSearch    | <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>                 | `<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>`                 |
+
+
+
+
+
+
 
 ## Contribution
+
 1. Fork this repo
 
 2. Update a local clone or make changes directly on the forked repo, adding a badge with its appropriate hex-color
 
    Markdown Format:
+
    ```
-   <img alt="" src="https://img.shields.io/badge/<badge>%20-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>"/>
+   <img alt="" src="https://img.shields.io/badge/<badge>%20-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
    ```
+
    Replace the following: `<badge>`, `<badge-color>`, `<logo-color>`
 
 3. Send in a PR with badges for other tools/technologies and I'd be happy to merge.
 
+Thanks to ALL the amazing contributors!
+
+## Contact
+You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
+
 ## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 [MIT](./LICENSE)
+
+
+
+
