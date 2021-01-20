@@ -31,7 +31,7 @@ Add badges to your Profile and Projects.
     - [Operating System](#operating-system)
     - [Blog](#blog)
     - [Design](#design)
-    - [Office 365](#Office-365)
+    - [Office 365](#Office)
     - [Other](#other)
   + [Contribution](#contribution)
   + [Contact](#contact)
@@ -311,7 +311,7 @@ Add badges to your Profile and Projects.
 
 <br>
 
-## Office 360
+## Office
 
 
 | Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
