@@ -312,7 +312,7 @@ Add badges to your Profile and Projects.
 | Google Pay   | <img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/> | `<img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/>` |
 | Uber         | <img alt="Uber" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/> | `<img alt="" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/>` |
 | ElasticSearch    | <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>                 | `<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>`                 |
-
+| Babel        | <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" /> | `<img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />`
 
 
 
