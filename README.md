@@ -22,12 +22,14 @@ Add badges to your Profile and Projects.
     - [Servers](#servers)
     - [Databases](#databases)
     - [CI](#ci)
+    - [Testing](#testing)
     - [ML/DL](#mldl)
     - [Gaming](#gaming)
     - [Store](#store)
     - [Music](#music)
     - [Funding](#funding)
     - [Operating System](#operating-system)
+    - [Blog](#blog)
     - [Other](#other)
     - [Design](#design)
   - [Contribution](#contribution)
@@ -62,6 +64,7 @@ Add badges to your Profile and Projects.
 | Markdown   | <img alt="Markdown" src="https://img.shields.io/badge/markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>         | `<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>`            |
 | Shell Script | <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   | `<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>`     |
 | LaTeX | <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>   | `<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>`     |
+| GraphQL    | <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>                 | `<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>`                 |
 
 ### Frameworks
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
@@ -91,10 +94,14 @@ Add badges to your Profile and Projects.
 | Webpack     | <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />          | `<img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />` |
 | NestJS      | <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />          | `<img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />` |
 | Strapi      | <img alt="Strapi" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />          | `<img alt="Strapi" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />` |
+| RxJS        | <img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?&style=for-the-badge&logo=reactivex&logoColor=white" />          | `<img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?&style=for-the-badge&logo=reactivex&logoColor=white" />` |
+| Jasmine     | <img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?&style=for-the-badge&logo=jasmine&logoColor=white" />          | `<img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?&style=for-the-badge&logo=jasmine&logoColor=white" />` |
 | Meteor JS    | <img alt="Metero JS" src="https://img.shields.io/badge/meteor%20js%20-%23d74c4c.svg?&style=for-the-badge&logo=meteor&logoColor=white"/> | `<img alt= "Meteor JS" src="https://img.shields.io/badge/meteor%20js%20-%23d74c4c.svg?&style=for-the-badge&logo=meteor&logoColor=white"/>` |
 | Svelte       | <img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23f1413d.svg?&style=for-the-badge&logo=svelte&logoColor=white"/> | `<img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23f1413d.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>` |
 | Next JS      | <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> | `<img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>` |
-
+| TypeGraphQL    | <img alt="Type-graphql" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=for-the-badge"/>                 | `<img alt="Type-graphql" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=for-the-badge"/>`                 |
+| Ant Design    | <img alt="Ant-Design" src="https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white"/>                 | `<img alt="Ant-Design" src="https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white"/>`                 |
+| Apollo GraphQL    | <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>                 | `<img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>`                 |
 ### Design
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -205,6 +212,14 @@ Add badges to your Profile and Projects.
 | CircleCI | <img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/> | `<img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/>` |
 | GitHub Actions | <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/> | `<img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>` |
 
+### Testing
+| Name     | Badge                                                                                                                  | Markdown                                                                                                                 |
+| -------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Testing Library    | <img alt="Testing-Library" src="https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"/>                 | `<img alt="Testing-Library" src="https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"/>`                 |
+| Jest    | <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>                 | `<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>`                 |
+| Mocha    | <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>                 | `<img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>`                 |
+| Jasmine    | <img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-%238A4182?&style=for-the-badge&logo=Jasmine&logoColor=white"/>                 | `<img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-%238A4182?&style=for-the-badge&logo=Jasmine&logoColor=white"/>`                 |
+
 ### ML/DL
 | Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -268,6 +283,18 @@ Add badges to your Profile and Projects.
 | Windows | <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />| `<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />` |
 | Android | <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />| `<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />` |
 | IOS | <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"> | `<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">` |
+
+### Blog
+| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Medium     | <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>         | `img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>`         |
+|Hashnode|<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"> | `<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">`|
+|Dev|<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >| `<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >`|
+|Blogger|<img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" >|`<img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" >`|
+
+
+
+
 ### Other
 | Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -280,11 +307,16 @@ Add badges to your Profile and Projects.
 | Jupyter    | <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />      | `<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />`       |
 | Raspberry Pi | <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>                   | `<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>" />`                 |
 | Arduino    | <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>                 | `<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>`                 |
-| GraphQL      | <img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" /> | `<img "GraphQL" src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />` |
 | Trello       | <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/> | `<img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>` |
 | Prezi        | <img alt="Prezi" src="https://img.shields.io/badge/Prezi%20-%23000000.svg?&style=for-the-badge&logo=Prezi&logoColor=white"/> | `<img alt="Prezi" src="https://img.shields.io/badge/Prezi%20-%23000000.svg?&style=for-the-badge&logo=Prezi&logoColor=white"/>` |
 | Google Pay   | <img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/> | `<img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/>` |
 | Uber         | <img alt="Uber" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/> | `<img alt="" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/>` |
+| ElasticSearch    | <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>                 | `<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>`                 |
+
+
+
+
+
 
 
 ## Contribution
@@ -311,3 +343,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 ## License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+[MIT](./LICENSE)
+
+
+
+
