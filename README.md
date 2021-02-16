@@ -117,6 +117,7 @@ Add badges to your Profile and Projects.
 | Hackerrank  | <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>    | `<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>`             |
 | StackoverFlow  | <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>    | `<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>`             |
 | Discord  | <img src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    | `<img src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>`             |
+| Signal  | <img src="https://img.shields.io/badge/Signal%20-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/>    | `<img src="https://img.shields.io/badge/Signal%20-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/>`             |
 
 
 ### Hosting/SaaS
