@@ -17,7 +17,7 @@ Add badges to your Profile and Projects.
     - [Version Control](#version-control)
     - [Social](#social)
       - [Education](#education)
-      - [Developer/Forums](#developerforums) 
+      - [Developer/Forums](#developerforums)
     - [Hosting/SaaS](#hostingsaas)
     - [Servers](#servers)
     - [Databases](#databases)
@@ -25,13 +25,13 @@ Add badges to your Profile and Projects.
     - [Testing](#testing)
     - [ML/DL](#mldl)
     - [Gaming](#gaming)
+    - [Cloud storage](#cloud-storage)
     - [Store](#store)
     - [Music](#music)
     - [Funding](#funding)
     - [Operating System](#operating-system)
     - [Blog](#blog)
     - [Other](#other)
-    - [Design](#design)
   - [Contribution](#contribution)
   - [Contact](#contact)
   - [License](#license)
@@ -65,6 +65,7 @@ Add badges to your Profile and Projects.
 | Shell Script | <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   | `<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>`     |
 | LaTeX | <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>   | `<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>`     |
 | GraphQL    | <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>                 | `<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>`                 |
+| Clojure    | <img alt="Clojure" src="https://img.shields.io/badge/Clojure%20-%23Clojure.svg?&style=for-the-badge&logo=Clojure&logoColor=Clojure"/>              | `<img alt="Clojure" src="https://img.shields.io/badge/Clojure%20-%23Clojure.svg?&style=for-the-badge&logo=Clojure&logoColor=Clojure"/>`              |
 
 ### Frameworks
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
