@@ -32,6 +32,7 @@ Add badges to your Profile and Projects.
     - [Blog](#blog)
     - [Other](#other)
     - [Design](#design)
+    - [Code Editors / IDEs](#codeeditors)
   - [Contribution](#contribution)
   - [Contact](#contact)
   - [License](#license)
@@ -313,8 +314,9 @@ Add badges to your Profile and Projects.
 | Uber         | <img alt="Uber" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/> | `<img alt="" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/>` |
 | ElasticSearch    | <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>                 | `<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>`                 |
 
-
-
+| Name | Badge | Markdown |
+| --- | --- | --- |
+| WebStorm | <img src="https://img.shields.io/badge/WebStorm%20-%23000000.svg?&style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/> | `<img src="https://img.shields.io/badge/WebStorm%20-%23000000.svg?&style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>` |
 
 
 
