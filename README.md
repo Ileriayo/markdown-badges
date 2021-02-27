@@ -32,7 +32,6 @@ Add badges to your Profile and Projects.
     - [Blog](#blog)
     - [Other](#other)
     - [Design](#design)
-    - [Code Editors / IDEs](#codeeditors)
   - [Contribution](#contribution)
   - [Contact](#contact)
   - [License](#license)
