@@ -17,7 +17,7 @@ Add badges to your Profile and Projects.
     - [Version Control](#version-control)
     - [Social](#social)
       - [Education](#education)
-      - [Developer/Forums](#developerforums) 
+      - [Developer/Forums](#developerforums)
     - [Hosting/SaaS](#hostingsaas)
     - [Servers](#servers)
     - [Databases](#databases)
@@ -25,13 +25,13 @@ Add badges to your Profile and Projects.
     - [Testing](#testing)
     - [ML/DL](#mldl)
     - [Gaming](#gaming)
+    - [Cloud storage](#cloud-storage)
     - [Store](#store)
     - [Music](#music)
     - [Funding](#funding)
     - [Operating System](#operating-system)
     - [Blog](#blog)
     - [Other](#other)
-    - [Design](#design)
   - [Contribution](#contribution)
   - [Contact](#contact)
   - [License](#license)
@@ -109,6 +109,8 @@ Add badges to your Profile and Projects.
 | Adobe XD    | <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/> | `<img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>` |
 | Adobe Photoshop   | <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> | `<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>` |
 | Adobe Illustrator | <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> | `<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>` |
+| Affinity Photo | <img alt="Affinity Photo" src="https://img.shields.io/badge/affinity%20photo%20-%237E4DD2.svg?&style=for-the-badge&logo=affinity-photo&logoColor=white"/> | `<img alt="Affinity Photo" src="https://img.shields.io/badge/affinity%20photo%20-%237E4DD2.svg?&style=for-the-badge&logo=affinity-photo&logoColor=white"/>` |
+| Affinity Designer | <img alt="Affinity Designer" src="https://img.shields.io/badge/affinity%20designer%20-%231B72BE.svg?&style=for-the-badge&logo=affinity-designer&logoColor=white"/> | `<img alt="Affinity Designer" src="https://img.shields.io/badge/affinity%20ddesigner%20-%231B72BE.svg?&style=for-the-badge&logo=affinity-designer&logoColor=white"/>` |
 | Figma | <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> | `<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>` |
 | Blender | <img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/> | `<img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>` |
 | Canva             | <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> | `<img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>` |
