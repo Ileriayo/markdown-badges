@@ -102,6 +102,7 @@ Add badges to your Profile and Projects.
 | TypeGraphQL    | <img alt="Type-graphql" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=for-the-badge"/>                 | `<img alt="Type-graphql" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=for-the-badge"/>`                 |
 | Ant Design    | <img alt="Ant-Design" src="https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white"/>                 | `<img alt="Ant-Design" src="https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white"/>`                 |
 | Apollo GraphQL    | <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>                 | `<img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>`                 |
+| .NET    | <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>                 | `<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>`                 |
 ### Design
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -312,6 +313,8 @@ Add badges to your Profile and Projects.
 | Google Pay   | <img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/> | `<img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/>` |
 | Uber         | <img alt="Uber" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/> | `<img alt="" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/>` |
 | ElasticSearch    | <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>                 | `<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>`                 |
+| Postman    | <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />                 | `<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />`                 |
+
 
 
 
