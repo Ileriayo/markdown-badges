@@ -107,6 +107,7 @@ Add badges to your Profile and Projects.
 | Ant Design    | <img alt="Ant-Design" src="https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white"/>                 | `<img alt="Ant-Design" src="https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white"/>` |
 | Apollo GraphQL    | <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>                 | `<img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>` |
 | Styled Components |<img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>|`<img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>`|
+| OpenGL    | <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL%20-%23FFFFFF.svg?&style=for-the-badge&logo=opengl"/>                 | `<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL%20-%23FFFFFF.svg?&style=for-the-badge&logo=opengl"/>`                 |
 
 ### Design
 
@@ -257,6 +258,7 @@ Add badges to your Profile and Projects.
 | nVIDIA              | <img alt="nVIDIA" src="https://img.shields.io/badge/nVIDIA%20-%2376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white" alt="Nvidia"  /> | `<img alt="nVIDIA" src="https://img.shields.io/badge/nVIDIA%20-%2376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white"/>` |
 | Itch.io             | <img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io"  /> | `<img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/>` |
 | Humble Bundle       | <img alt="Humble Bundle" src="https://img.shields.io/badge/Humble%20Bundle%20-%23494F5C.svg?&style=for-the-badge&logo=Humble%20Bundle&logoColor=white"/> | `<img alt="Humble Bundle" src="https://img.shields.io/badge/Humble%20Bundle%20-%23494F5C.svg?&style=for-the-badge&logo=Humble%20Bundle&logoColor=white"/>` |
+| Godot Engine       | <img alt="Godot Engine" src="https://img.shields.io/badge/GODOT%20-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine"/> | `<img alt="Godot Engine" src="https://img.shields.io/badge/GODOT%20-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine"/>` |
 
 ### Cloud storage
 
@@ -304,7 +306,7 @@ Add badges to your Profile and Projects.
 | Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Medium     | <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>         | `img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>` |
-|Hashnode|<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"> | `<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">` |
+| Hashnode   |<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"> | `<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">` |
 |Dev|<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >| `<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >` |
 |Blogger|<img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" >| `<img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" >` |
 
@@ -346,8 +348,13 @@ Add badges to your Profile and Projects.
 | Google Pay   | <img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/> | `<img alt="Google Pay" src="https://img.shields.io/badge/Google%20Pay%20-%233780F1.svg?&style=for-the-badge&logo=Google%20Pay&logoColor=white"/>` |
 | Uber         | <img alt="Uber" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/> | `<img alt="" src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/>` |
 | ElasticSearch    | <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>                 | `<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>`                 |
+| CMake    | <img alt="CMake" src="https://img.shields.io/badge/CMake%20-%23008FBA.svg?&style=for-the-badge&logo=cmake&logoColor=white"/>                 | `<img alt="CMake" src="https://img.shields.io/badge/CMake%20-%23008FBA.svg?&style=for-the-badge&logo=cmake&logoColor=white"/>`                 |
+| Visual Studio Code    | <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode%20-%232E2E2E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%2330A2FF"/>                 | `<img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode%20-%232E2E2E.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%2330A2FF"/>`                 |
+| Vim    | <img alt="Vim" src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>                 | `<img alt="Vim" src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>`                 |
+| Sublime Text    | <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>                 | `<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>`                 |
 | Babel        | <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" /> | `<img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />`
 | ESLint       | <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" /> | `<img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />`
+
 
 
 
