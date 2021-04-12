@@ -17,7 +17,7 @@ Add badges to your Profile and Projects.
     - [Version Control](#version-control)
     - [Social](#social)
       - [Education](#education)
-      - [Developer/Forums](#developerforums) 
+      - [Developer/Forums](#developerforums)
     - [Hosting/SaaS](#hostingsaas)
     - [Servers](#servers)
     - [Databases](#databases)
@@ -25,6 +25,7 @@ Add badges to your Profile and Projects.
     - [Testing](#testing)
     - [ML/DL](#mldl)
     - [Gaming](#gaming)
+    - [Cloud storage](#cloud-storage)
     - [Store](#store)
     - [Music](#music)
     - [Funding](#funding)
@@ -43,6 +44,34 @@ Add badges to your Profile and Projects.
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Node.js    | <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>           | `<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>` |
 | JavaScript | <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> | `<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>` |
+| TypeScript | <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>     | `<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>`     |
+| HTML5      | <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>               | `<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>`               |
+| CSS3       | <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>                 | `<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>`                 |
+| Python     | <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>             | `<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>`             |
+| C          | <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>                       | `<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>`                       |
+| C++        | <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>                | `<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>`                |
+| C#         | <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>              | `<img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>`              |
+| Java       | <img alt="Java" src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>                 | `<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>`                    |
+| PHP        | <img alt="PHP" src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>                   | `<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>`                      |
+| R          | <img alt="R" src="https://img.shields.io/badge/r%20-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>                       | `<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>`                          |
+| Swift      | <img alt="Swift" src="https://img.shields.io/badge/swift%20-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>               | `<img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>`                  |
+| Kotlin     | <img alt="Kotlin" src="https://img.shields.io/badge/kotlin%20-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>             | `<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>`                |
+| Go         | <img alt="Go" src="https://img.shields.io/badge/go%20-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>                     | `<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>`                        |
+| Ruby       | <img alt="Ruby" src="https://img.shields.io/badge/ruby%20-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>                 | `<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>`                    |
+| Scala      | <img alt="Scala" src="https://img.shields.io/badge/scala%20-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>               | `<img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>`                  |
+| Rust       | <img alt="Rust" src="https://img.shields.io/badge/rust%20-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>                 | `<img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>`                    |
+| Dart       | <img alt="Dart" src="https://img.shields.io/badge/dart%20-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>                 | `<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>`                    |
+| Lua        | <img alt="Lua" src="https://img.shields.io/badge/lua%20-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>                   | `<img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>`                      |
+| Perl       | <img alt="Perl" src="https://img.shields.io/badge/perl%20-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white"/>                 | `<img alt="Perl" src="https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white"/>`                    |
+| Elixir     | <img alt="Elixir" src="https://img.shields.io/badge/elixir%20-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>             | `<img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>`                |
+| Markdown   | <img alt="Markdown" src="https://img.shields.io/badge/markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>         | `<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>`            |
+| Shell Script | <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   | `<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>`     |
+| LaTeX | <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>   | `<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>`     |
+| GraphQL    | <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>                 | `<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>`                 |
+| Clojure    | <img alt="Clojure" src="https://img.shields.io/badge/Clojure%20-%23Clojure.svg?&style=for-the-badge&logo=Clojure&logoColor=Clojure"/>              | `<img alt="Clojure" src="https://img.shields.io/badge/Clojure%20-%23Clojure.svg?&style=for-the-badge&logo=Clojure&logoColor=Clojure"/>`              |
+
+### Frameworks
+=======
 | TypeScript | <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>     | `<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>` |
 | HTML5      | <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>               | `<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>` |
 | CSS3       | <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>                 | `<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>` |
