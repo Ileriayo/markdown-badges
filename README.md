@@ -113,7 +113,6 @@ Add badges to your Profile and Projects.
 | Figma | <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> | `<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>` |
 | Blender | <img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/> | `<img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>` |
 | Canva             | <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> | `<img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>` |
-| Affinity Designer | <img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity%20Designer-7E4DD2.svg?&style=for-the-badge&logo=affinity-designer&logoColor=white"/> | `<img alt="Affinity Designer" src=https://img.shields.io/badge/Affinity%20Designer-7E4DD2.svg?&style=for-the-badge&logo=affinity-designer&logoColor=white"/>` |
 
 
 ### IDEs/Editors
