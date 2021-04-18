@@ -109,6 +109,7 @@ Add badges to your Profile and Projects.
 | Styled Components |<img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>|`<img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>`|
 | OpenGL    | <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL%20-%23FFFFFF.svg?&style=for-the-badge&logo=opengl"/>                 | `<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL%20-%23FFFFFF.svg?&style=for-the-badge&logo=opengl"/>`                 |
 | .NET    | <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>                 | `<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>`                 |
+| OpenCV   | <img alt="OpenCV" src="https://img.shields.io/badge/opencv%20-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>     | `<img alt="OpenCV" src="https://img.shields.io/badge/opencv%20-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>`                 |
 
 ### Design
 
