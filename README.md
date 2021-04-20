@@ -8,11 +8,11 @@ Add badges to your Profile and Projects.
 
 ## Shortcuts
 
-* [Markdown Badges](#markdown-badges)
-  + [How to Use](#how-to-use)
-  + [Shortcuts](#shortcuts)
+- [Markdown Badges](#markdown-badges)
+  - [How to Use](#how-to-use)
+  - [Shortcuts](#shortcuts)
     - [Programming Languages](#programming-languages)
-    - [Frameworks](#frameworks-and-libraries)
+    - [Frameworks and libraries](#frameworks-and-libraries)
     - [Design](#design)
     - [IDEs/Editors](#ideseditors)
     - [Version Control](#version-control)
@@ -32,12 +32,11 @@ Add badges to your Profile and Projects.
     - [Funding](#funding)
     - [Operating System](#operating-system)
     - [Blog](#blog)
-    - [Design](#design)
-    - [Office 365](#Office)
+  - [Office](#office)
     - [Other](#other)
-  + [Contribution](#contribution)
-  + [Contact](#contact)
-  + [License](#license)
+  - [Contribution](#contribution)
+  - [Contact](#contact)
+  - [License](#license)
 
 ### Programming Languages
 
@@ -342,7 +341,7 @@ Add badges to your Profile and Projects.
 | Microsoft PowerPoint | <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />| `<img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />` |
 | Microsoft Excel | <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />| `<img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />` |
 | Microsoft SharePoint | <img alt="Microsoft SharePoint " src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />| `|<img alt="Microsoft SharePoint " src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />` |
-| Microsoft Visio | <img alt="Microsoft Visio " src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" />| `<img alt="Microsoft Visio " src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" />` |
+| Microsoft Visio | <img alt="Microsoft Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />| `<img alt="Microsoft Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />` |
 
 ### Other
 
@@ -376,9 +375,9 @@ Add badges to your Profile and Projects.
 
    Markdown Format:
 
-   
 
-``` 
+
+```
 
    <img alt="" src="https://img.shields.io/badge/<badge>%20-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
    ```
