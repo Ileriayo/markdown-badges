@@ -174,7 +174,8 @@ Add badges to your Profile and Projects.
 | Pinterest | <img alt="Pinterest" src="https://img.shields.io/badge/<handle  >%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"  /> | `<img alt="Pinterest" src="https://img.shields.io/badge/<handle >%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>` |
 | Medium    | <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"  /> | `<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>` |
 | WordPress | <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"   /> | `<img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>` |
-| Signal  | <img src="https://img.shields.io/badge/Signal%20-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/>    | `<img src="https://img.shields.io/badge/Signal%20-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/>`             |
+| Signal  | <img src="https://img.shields.io/badge/Signal%20-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/>    | `<img src="https://img.shields.io/badge/Signal%20-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/>` |
+| Notion  | <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>    | `<img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>` |
 
 
 #### Education
