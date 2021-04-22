@@ -4,7 +4,9 @@ Add badges to your Profile and Projects.
 
 ## How to Use
 
-* Copy the appropriate `<img>` element and paste it in your Markdown file (e.g.,   `README.md`)
+Copy the appropriate `<img>` element and paste it in your Markdown file (e.g.,   `README.md`)
+
+**Note:** The *for-the-badge* is just a style that we have chosen for appearance purposes. There are other styles available with https://shields.io#styles. Other styles can be easily used with the below listed badges. Thanks @kingthorin for mentioning this!
 
 ## Shortcuts
 
