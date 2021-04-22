@@ -4,7 +4,9 @@ Add badges to your Profile and Projects.
 
 ## How to Use
 
-* Copy the appropriate `<img>` element and paste it in your Markdown file (e.g.,   `README.md`)
+Copy the appropriate `<img>` element and paste it in your Markdown file (e.g.,   `README.md`)
+
+**Note:** The *for-the-badge* is just a style that we have chosen for appearance purposes. There are other styles available with https://shields.io#styles. Other styles can be easily used with the below listed badges. Thanks @kingthorin for mentioning this!
 
 ## Shortcuts
 
@@ -340,8 +342,8 @@ Add badges to your Profile and Projects.
 | Microsoft Access | <img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />| `<img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />` |
 | Microsoft PowerPoint | <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />| `<img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />` |
 | Microsoft Excel | <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />| `<img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />` |
-| Microsoft SharePoint | <img alt="Microsoft SharePoint " src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />| `|<img alt="Microsoft SharePoint " src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />` |
-| Microsoft Visio | <img alt="Microsoft Visio " src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" />| `<img alt="Microsoft Visio " src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" />` |
+| Microsoft SharePoint | <img alt="Microsoft SharePoint " src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />| `<img alt="Microsoft SharePoint " src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />` |
+| Microsoft Visio | <img alt="Microsoft Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />| `<img alt="Microsoft Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />` |
 
 ### Other
 
@@ -376,7 +378,6 @@ Add badges to your Profile and Projects.
    Markdown Format:
 
 
-
 ```
 
    <img alt="" src="https://img.shields.io/badge/<badge>-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
@@ -395,4 +396,5 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 ## License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+<br/>
 [MIT](./LICENSE)
