@@ -8,11 +8,11 @@ Add badges to your Profile and Projects.
 
 ## Shortcuts
 
-- [Markdown Badges](#markdown-badges)
-  - [How to Use](#how-to-use)
-  - [Shortcuts](#shortcuts)
+* [Markdown Badges](#markdown-badges)
+  + [How to Use](#how-to-use)
+  + [Shortcuts](#shortcuts)
     - [Programming Languages](#programming-languages)
-    - [Frameworks and libraries](#frameworks-and-libraries)
+    - [Frameworks](#frameworks-and-libraries)
     - [Design](#design)
     - [IDEs/Editors](#ideseditors)
     - [Version Control](#version-control)
@@ -32,11 +32,12 @@ Add badges to your Profile and Projects.
     - [Funding](#funding)
     - [Operating System](#operating-system)
     - [Blog](#blog)
-  - [Office](#office)
+    - [Design](#design)
+    - [Office 365](#Office)
     - [Other](#other)
-  - [Contribution](#contribution)
-  - [Contact](#contact)
-  - [License](#license)
+  + [Contribution](#contribution)
+  + [Contact](#contact)
+  + [License](#license)
 
 ### Programming Languages
 
@@ -92,7 +93,7 @@ Add badges to your Profile and Projects.
 | Flask       | <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>                  | `<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>` |
 | Flutter     | <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />          | `<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />` |
 | SASS        | <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>                   | `<img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>` |
-| NuxtJS      | <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS%20-%2300C58E.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>                   | `<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS%20-%2300C58E.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>` |
+| NuxtJS      | <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJs%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>                   | `<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>` |
 | Stylus      | <img alt="Stylus" src="https://img.shields.io/badge/stylus%20-%23333333.svg?&style=for-the-badge&logo=stylus&logoColor=white"/>             | `<img alt="Stylus" src="https://img.shields.io/badge/stylus%20-hotpink.svg?&style=for-the-badge&logo=stylus&logoColor=white"/>` |
 | Webpack     | <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />          | `<img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />` |
 | NestJS      | <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />          | `<img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />` |
@@ -375,9 +376,9 @@ Add badges to your Profile and Projects.
 
    Markdown Format:
 
+   
 
-
-```
+``` 
 
    <img alt="" src="https://img.shields.io/badge/<badge>%20-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>" alt="Badge Name"/>
    ```
