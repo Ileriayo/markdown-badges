@@ -125,6 +125,8 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g.,  
 | Figma | <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> | `<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>` |
 | Blender | <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/> | `<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>` |
 | Canva             | <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> | `<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>` |
+| Sketch             | ![Sketch](https://img.shields.io/badge/Sketch-%23F7B500.svg?&style=for-the-badge&logo=Sketch&logoColor=000) | `<img alt="Sketch" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>` |
+|              | ![Sketch](https://img.shields.io/badge/Sketch-%23E5E5E5.svg?&style=for-the-badge&logo=Sketch&logoColor=F7B500) | `<img alt="Sketch" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>` |
 
 ### IDEs/Editors
 
