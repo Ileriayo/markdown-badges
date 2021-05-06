@@ -252,6 +252,8 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g.,  
 | Jest    | <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>                 | `<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>` |
 | Mocha    | <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>                 | `<img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>` |
 | Jasmine    | <img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-%238A4182?&style=for-the-badge&logo=Jasmine&logoColor=white"/>                 | `<img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-%238A4182?&style=for-the-badge&logo=Jasmine&logoColor=white"/>` |
+| Cypress | ![Cypress](https://img.shields.io/badge/-cypress-%2317202C?&style=for-the-badge&logo=cypress&logoColor=white) | `<img src="https://img.shields.io/badge/-cypress-%2317202C?&style=for-the-badge&logo=cypress&logoColor=white" alt="cypress">` |
+|  | ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?&style=for-the-badge&logo=cypress&logoColor=058a5e) | `<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?&style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress">` |
 
 ### ML/DL
 
