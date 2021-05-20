@@ -143,6 +143,7 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | Vim    | <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>                 | `<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>`                 |
 | Sublime Text    | <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>                 | `<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>`                 |
 | Atom | <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>                 | `<img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>`                 |
+| WebStorm | <img src="https://img.shields.io/badge/WebStorm%20-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/> | `<img src="https://img.shields.io/badge/WebStorm%20-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>` |
 
 ### Version Control
 
