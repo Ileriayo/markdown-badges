@@ -2,7 +2,7 @@ let data: string = await Deno.readTextFile('./README.md')
 
 let tagMatch: RegExpExecArray | null;
 
-const tagRe = /`\s*<img .*>\s*`/gm
+const tagRe = /<img .*>/gm
 const altRe = /alt\s*=\s*".*?"/g
 const srcRe = /src\s*=\s*".*?"/g
 
@@ -23,7 +23,7 @@ do {
     const srcWord = srcMatch[0].split('"')[1]
 
     const replace = `![${altWord}](${srcWord})`
-    data = data.replace(tag, '`' + replace+ '`')
+    data = data.replace(tag, replace)
 } while (tagMatch)
 
 await Deno.writeTextFile('./README.md', data)
