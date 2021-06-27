@@ -14,7 +14,8 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
   - [How to Use](#how-to-use)
   - [Shortcuts](#shortcuts)
     - [Programming Languages](#programming-languages)
-    - [Frameworks and libraries](#frameworks-and-libraries)
+    - [Frameworks and Libraries](#frameworks-and-libraries)
+    - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
     - [Design](#design)
     - [IDEs/Editors](#ideseditors)
     - [Version Control](#version-control)
@@ -28,7 +29,7 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
     - [Testing](#testing)
     - [ML/DL](#mldl)
     - [Gaming](#gaming)
-    - [Cloud storage](#cloud-storage)
+    - [Cloud Storage](#cloud-storage)
     - [Store](#store)
     - [Music](#music)
     - [Funding](#funding)
@@ -73,7 +74,7 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | GraphQL    | <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>                 | `<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>`                 |
 | Clojure    | <img alt="Clojure" src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure"/>              | `<img alt="Clojure" src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure"/>`              |
 
-### Frameworks and libraries
+### Frameworks and Libraries
 
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -116,6 +117,12 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | .NET    | <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>                 | `<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>`                 |
 | OpenCV   | <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>     | `<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>`                 |
 
+### Quantum Programming Frameworks and Libraries
+
+| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Qiskit      | <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>               | `<img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>` |
+
 ### Design
 
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
@@ -130,7 +137,6 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | Blender | <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> | `<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>` |
 | Canva             | <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> | `<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>` |
 | Sketch             | <img alt="Sketch" src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=Sketch&logoColor=000" /> | `<img alt="Sketch" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>` |
-
 
 ### IDEs/Editors
 
@@ -195,6 +201,8 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | Khan Academy | <img alt="Khan Academy" src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white"  /> | `<img alt="Khan Academy" src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white"/>` |
 | Repl.it      | <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/> | `<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/>` |
 | FreeCodeCamp | <img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=green"/>    | `<img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>`  |
+| Coursera | <img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"/>    | `<img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"/>`  |
+| edX | <img alt="edX" src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white"/>    | `<img alt="edX" src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white"/>`  |
 
 #### Developer/Forums
 
@@ -269,6 +277,7 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | Keras      | <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>               | `<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>` |
 | TensorFlow | <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />    | `<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />` |
 | PyTorch    | <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />          | `<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />` |
+| scikit-learn    | <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />          | `<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />` |
 | Pandas    | <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />          | `<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />` |
 | NumPy    | <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />          | `<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />` |
 
@@ -291,7 +300,7 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | Humble Bundle       | <img alt="Humble Bundle" src="https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white"/> | `<img alt="Humble Bundle" src="https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white"/>` |
 | Godot Engine       | <img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/> | `<img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>` |
 
-### Cloud storage
+### Cloud Storage
 
 | Name    | Badge                                                        | Markdown                                                     |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
