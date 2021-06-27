@@ -14,7 +14,8 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
   - [How to Use](#how-to-use)
   - [Shortcuts](#shortcuts)
     - [Programming Languages](#programming-languages)
-    - [Frameworks and libraries](#frameworks-and-libraries)
+    - [Frameworks and Libraries](#frameworks-and-libraries)
+    - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
     - [Design](#design)
     - [IDEs/Editors](#ideseditors)
     - [Version Control](#version-control)
@@ -28,7 +29,7 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
     - [Testing](#testing)
     - [ML/DL](#mldl)
     - [Gaming](#gaming)
-    - [Cloud storage](#cloud-storage)
+    - [Cloud Storage](#cloud-storage)
     - [Store](#store)
     - [Music](#music)
     - [Funding](#funding)
@@ -116,6 +117,12 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | .NET    | <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>                 | `<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>`                 |
 | OpenCV   | <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>     | `<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>`                 |
 
+### Quantum Programming Frameworks and Libraries
+
+| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Qiskit      | <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>               | `<img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>` |
+
 ### Design
 
 | Name        | Badge                                                                                                                          | Markdown                                                                                                                         |
@@ -130,13 +137,6 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | Blender | <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> | `<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>` |
 | Canva             | <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> | `<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>` |
 | Sketch             | <img alt="Sketch" src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=Sketch&logoColor=000" /> | `<img alt="Sketch" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>` |
-
-
-### Quantum Programming Frameworks and Libraries
-
-| Name       | Badge                                                                                                                      | Markdown                                                                                                                     |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Qiskit      | <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>               | `<img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>` |
 
 ### IDEs/Editors
 
@@ -298,7 +298,7 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | Humble Bundle       | <img alt="Humble Bundle" src="https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white"/> | `<img alt="Humble Bundle" src="https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white"/>` |
 | Godot Engine       | <img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/> | `<img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>` |
 
-### Cloud storage
+### Cloud Storage
 
 | Name    | Badge                                                        | Markdown                                                     |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
