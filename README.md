@@ -195,6 +195,8 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | Khan Academy | <img alt="Khan Academy" src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white"  /> | `<img alt="Khan Academy" src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white"/>` |
 | Repl.it      | <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/> | `<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/>` |
 | FreeCodeCamp | <img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=green"/>    | `<img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>`  |
+| Coursera | <img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230349FC.svg?style=for-the-badge&logo=Coursera&logoColor=white"/>    | `<img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230349FC.svg?style=for-the-badge&logo=<badge>&logoColor=white"`  |
+
 
 #### Developer/Forums
 
