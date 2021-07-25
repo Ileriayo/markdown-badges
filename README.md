@@ -350,6 +350,7 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | Hashnode | <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"> | `<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">` |
 | Dev      | <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" > | `<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >` |
 | Blogger  | <img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" >   | `<img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" >`   |
+| Wikipedia   | <img alt="wikipedia " src="https://img.shields.io/static/v1?label=Wikipedia&message=READ&color=lightgrey?style=for-the-badge&logo=wikipedia&logoColor=white" >   | `<img alt="Wikipedia" src="https://img.shields.io/badge/Wikipedia-Read-lightgrey-FF5722?style=for-the-badge&logo=wikipedia&logoColor=white" >`   |
 
 ## Office
 
