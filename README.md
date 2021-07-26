@@ -186,7 +186,8 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | Pinterest | <img alt="Pinterest" src="https://img.shields.io/badge/<handle  >-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"  /> | `<img alt="Pinterest" src="https://img.shields.io/badge/<handle >-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"/>` |
 | Medium    | <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"  /> | `<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>` |
 | WordPress | <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"   /> | `<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>` |
-| Signal  | <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white"/>    | `<img src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white"/>`             |
+| Signal  | <img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white"/>    | `<img src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white"/>`             |
+| Codepen  | <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>    | `<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>`             |
 
 #### Education
 
