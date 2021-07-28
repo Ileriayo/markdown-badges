@@ -145,6 +145,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Blender           | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)                              | `![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)`                              |
 | Canva             | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)                                    | `![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)`                                    |
 | Sketch            | ![Sketch](https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=Sketch&logoColor=000)                                   | `![Sketch](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)`                                   |
+| Framer            | ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)                                          | `![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)`
 
 ### IDEs/Editors
 
