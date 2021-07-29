@@ -36,7 +36,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Funding](#funding)
     - [Operating System](#operating-system)
     - [Blog](#blog)
-  - [Office](#office)
+    - [Office](#office)
     - [Other](#other)
   - [Contribution](#contribution)
   - [Contact](#contact)
@@ -383,7 +383,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Dev      | ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)  | `![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)`          |
 | Blogger  | ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)    | `![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)`            |
 
-## Office
+### Office
 
 | Name                 | Badge                                                                                                                                            | Markdown                                                                                                                                           |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
