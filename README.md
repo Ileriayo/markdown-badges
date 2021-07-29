@@ -336,6 +336,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Playstation 3 | ![Playstation 3](https://img.shields.io/badge/Playstation 3-003791?style=for-the-badge&logo=playstation-3&logoColor=white) | `![Playstation 3](https://img.shields.io/badge/Playstation 3-003791?style=for-the-badge&logo=playstation-3&logoColor=white)` |
 | Playstation 4 | ![Playstation 4](https://img.shields.io/badge/Playstation 4-003791?style=for-the-badge&logo=playstation-4&logoColor=white) | `![Playstation 4](https://img.shields.io/badge/Playstation 4-003791?style=for-the-badge&logo=playstation-4&logoColor=white)` |
 | Playstation 5 | ![Playstation 5](https://img.shields.io/badge/Playstation 5-003791?style=for-the-badge&logo=playstation-5&logoColor=white) | `![Playstation 5](https://img.shields.io/badge/Playstation 5-003791?style=for-the-badge&logo=playstation-5&logoColor=white)` |
+| Playstation Vita | ![Playstation Vita](https://img.shields.io/badge/Playstation Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white) | `![Playstation Vita](https://img.shields.io/badge/Playstation Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white)` |
 
 ### Cloud Storage
 
