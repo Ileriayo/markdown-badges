@@ -22,6 +22,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Social](#social)
       - [Education](#education)
       - [Developer/Forums](#developerforums)
+      - [Work/Jobs](#workjobs)
     - [Hosting/SaaS](#hostingsaas)
     - [Servers](#servers)
     - [Databases](#databases)
@@ -229,6 +230,8 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | HackerRank     | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)                    | `![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)`                    |
 | Hacker Earth   | ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)            | `![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)`            |
 | CodePen        | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)                              | `![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)`                              |
+
+#### Work/Jobs
 
 ### Hosting/SaaS
 
