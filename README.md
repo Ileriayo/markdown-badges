@@ -233,9 +233,10 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 
 #### Work/Jobs
 
-| Name    | Badge                                                                                                    | Markdown                                                                                                    |
-| ------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Behance | ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) | `![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) ` |
+| Name       | Badge                                                                                                             | Markdown                                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Behance    | ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)          | `![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) `          |
+| Freelancer | ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) | `![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) ` |
 
 ### Hosting/SaaS
 
