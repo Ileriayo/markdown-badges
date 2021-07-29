@@ -337,6 +337,8 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Playstation 5    | ![Playstation 5](https://img.shields.io/badge/Playstation 5-003791?style=for-the-badge&logo=playstation-5&logoColor=white)          | `![Playstation 5](https://img.shields.io/badge/Playstation 5-003791?style=for-the-badge&logo=playstation-5&logoColor=white)`          |
 | Playstation Vita | ![Playstation Vita](https://img.shields.io/badge/Playstation Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white) | `![Playstation Vita](https://img.shields.io/badge/Playstation Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white)` |
 | Xbox             | ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)                              | `![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)`                              |
+| Xbox             | ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)                              | `![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)`                              |
+| Gamecube         | ![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)                | `![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)`                |
 
 ### Cloud Storage
 
