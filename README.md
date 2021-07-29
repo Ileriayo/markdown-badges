@@ -329,6 +329,10 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 
 ### Game Consoles
 
+| Name        | Badge                                                                                                                | Markdown                                                                                                               |
+| ----------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Playstation | ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white) | `![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)` |
+
 ### Cloud Storage
 
 | Name    | Badge                                                                                                           | Markdown                                                                                                          |
