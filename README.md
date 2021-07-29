@@ -35,6 +35,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Music](#music)
     - [Funding](#funding)
     - [Operating System](#operating-system)
+    - [Browsers](#browsers)
     - [Blog](#blog)
     - [Office](#office)
     - [Other](#other)
@@ -373,6 +374,8 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | IOS     | ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)                | `![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)`                |
 | Linux   | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)          | `![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)`          |
 | Fedora  | ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)       | `![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)`       |
+
+### Browsers
 
 ### Blog
 
