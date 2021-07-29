@@ -30,6 +30,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Testing](#testing)
     - [ML/DL](#mldl)
     - [Gaming](#gaming)
+    - [Game Consoles](#game-consoles)
     - [Cloud Storage](#cloud-storage)
     - [Store](#store)
     - [Music](#music)
@@ -325,6 +326,8 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Itch.io             | ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)                    | `![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)`                    |
 | Humble Bundle       | ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white) | `![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white)` |
 | Godot Engine        | ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)                         | `![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)`                         |
+
+### Game Consoles
 
 ### Cloud Storage
 
