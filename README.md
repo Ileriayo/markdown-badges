@@ -342,6 +342,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Wii              | ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)                                        | `![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)`                                        |
 | Wii U            | ![Wii U](https://img.shields.io/badge/Wii U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)                                   | `![Wii U](https://img.shields.io/badge/Wii U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)`                                   |
 | 3DS              | ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)                               | `![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)`                               |
+| Switch           | ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)                      | `![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)`                      |
 
 ### Cloud Storage
 
