@@ -443,10 +443,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Dev      | ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)  | `![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)`          |
 | Blogger  | ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)    | `![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)`            |
 | Ghost    | ![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)   |`![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)`   |
-| Tumblr   | ![Tumblr](https://img.shields.io/badge/Tumblr-0C1C33?style=for-the-badge&logo=tumblr&logoColor=fff)         | `![Tumblr](https://img.shields.io/badge/Tumblr-0C1C33?style=for-the-badge&logo=tumblr&logoColor=fff)`             |
 | Wix   | ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)         | `![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)`             |
-| WordPress   | ![WordPress](https://img.shields.io/badge/Wordpress-3E86A3?style=for-the-badge&logo=wordpress&logoColor=fff)         | `![WordPress](https://img.shields.io/badge/Wordpress-3E86A3?style=for-the-badge&logo=wordpress&logoColor=fff)`             |
-| Linkedin   | ![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)         | `![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)`             |
 
 
 ### Office
