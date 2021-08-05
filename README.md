@@ -8,6 +8,8 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 
 **Note:** The _for-the-badge_ is just a style that we have chosen for appearance purposes. There are other styles available with https://shields.io#styles. Other styles can be easily used with the below listed badges. Thanks @kingthorin for mentioning this!
 
+**Tip**: Since there are a lot of badges, to search for the particular badge you are looking for, use Ctrl + F and type the name you want. Thanks @JakyeRU for mentioning this!
+
 ## Shortcuts
 
 - [Markdown Badges](#markdown-badges)
