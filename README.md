@@ -247,7 +247,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Udacity         | ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)                      | `![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)`                      |
 | Microsoft Learn | ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)    | `![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)`                      |
 | Codewars        | ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)                 | `![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)`                      |
-| Code Academy    | ![Code Academy](https://img.shields.io/badge/Codewars-1f4056?style=for-the-badge&logo=codeacademy&logoColor=white)             | `![Code Academy](https://img.shields.io/badge/Codewars-1f4056?style=for-the-badge&logo=codeacademy&logoColor=white)`                      |
+| Codecademy    | ![Code Academy](https://img.shields.io/badge/Codewars-1f4056?style=for-the-badge&logo=codecademy&logoColor=white)             | `![Codecademy](https://img.shields.io/badge/Codewars-1f4056?style=for-the-badge&logo=codecademy&logoColor=white)`                      |
 
 ### Developer/Forums
 
