@@ -246,6 +246,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | edX             | ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)                          | `![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)`                          |
 | Udacity         | ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)                      | `![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)`                      |
 | Microsoft Learn | ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-blue?style=for-the-badge&logo=microsoft&logoColor=white)    | `![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-blue?style=for-the-badge&logo=microsoft&logoColor=white)`                      |
+| Codewars | ![Codewars](https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=grey)                            | `![Codewars](https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=grey)`                      |
 
 ### Developer/Forums
 
