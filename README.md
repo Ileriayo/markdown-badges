@@ -248,6 +248,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Microsoft Learn | ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)    | `![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)`                      |
 | Codewars        | ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)                 | `![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)`                      |
 | Codecademy    | ![Codecademy](https://img.shields.io/badge/Codecademy-1f4056?style=for-the-badge&logo=codecademy&logoColor=white)             | `![Codecademy](https://img.shields.io/badge/Codewars-1f4056?style=for-the-badge&logo=codecademy&logoColor=white)`                      |
+| MDN Web Docs    | ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)             | `![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)`                      |
 
 ### Developer/Forums
 
