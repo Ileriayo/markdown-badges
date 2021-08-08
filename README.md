@@ -245,8 +245,9 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Coursera        | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)           | `![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)`           |
 | edX             | ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)                          | `![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)`                          |
 | Udacity         | ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)                      | `![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)`                      |
-| Microsoft Learn | ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-blue?style=for-the-badge&logo=microsoft&logoColor=white)    | `![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-blue?style=for-the-badge&logo=microsoft&logoColor=white)`                      |
-| Codewars | ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)                            | `![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)`                      |
+| Microsoft Learn | ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)    | `![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)`                      |
+| Codewars        | ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)                 | `![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)`                      |
+| Code Academy    | ![Code Academy](https://img.shields.io/badge/Codewars-1f4056?style=for-the-badge&logo=codeacademy&logoColor=white)             | `![Code Academy](https://img.shields.io/badge/Codewars-1f4056?style=for-the-badge&logo=codeacademy&logoColor=white)`                      |
 
 ### Developer/Forums
 
