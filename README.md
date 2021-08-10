@@ -76,7 +76,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | LaTeX        | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)                    | `![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)`                    |
 | GraphQL      | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)                                    | `![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)`                                    |
 | Clojure      | ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)           | `![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)`           |
-| Dart         | ![Dart](https://img.shields.io/badge/Dart-2CB7F6?style=for-the-badge&logo=dart&logoColor=02579A)                             | `![Dart](https://img.shields.io/badge/Dart-2CB7F6?style=for-the-badge&logo=dart&logoColor=02579A)`                          |
+
 
 ### Frameworks, Platforms and Libraries
 
