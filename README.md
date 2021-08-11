@@ -79,6 +79,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | GraphQL      | ![GraphQL](https://img.shields.io/badge/GraphQL-171E26?style=for-the-badge&logo=graphql&logoColor=E00097)                                    | `![GraphQL](https://img.shields.io/badge/GraphQL-171E26?style=for-the-badge&logo=graphql&logoColor=E00097)`                                    |
 | Clojure      | ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)           | `![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)`           |
 
+
 ### Frameworks, Platforms and Libraries
 
 | Name              | Badge                                                                                                                                       | Markdown                                                                                                                                      |
@@ -201,6 +202,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | GitHub    | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)          | `![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)`          |
 | Bitbucket | ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) | `![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)` |
 | Perforce Helix | ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white) | `![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)` |
+| Gitea     | ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)                   | `![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)`
 
 ### Social
 
