@@ -524,7 +524,9 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 
 Replace the following: `<badge>` , `<badge-color>` , `<logo-color>`
 
-1. Send in a PR with badges for other tools/technologies and I'd be happy to merge.
+3. Send in a PR with badges for other tools/technologies and I'd be happy to merge.
+
+**Important:** All of the badges are ordered alphabetically. Hence, while contributing, make sure to order to add the new badges in an alphabetical order.
 
 Thanks to ALL the amazing contributors!
 
@@ -535,5 +537,3 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 ## License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
-<br/>
-[MIT](./LICENSE)
