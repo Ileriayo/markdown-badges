@@ -41,7 +41,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Browsers](#browsers)
     - [Blog](#blog)
     - [Office](#office)
-    - [Search Engine](#Search-Engine)
+    - [Search Engines](#Search-Engine)
     - [Other](#other)
   - [Contribution](#contribution)
   - [Contact](#contact)
@@ -495,7 +495,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Microsoft Visio      | ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)                | `![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)`                |
 | Microsoft Word       | ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)                    | `![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)`                    |
 
-### Seach Engines
+### Search Engines
 
 | Name          | Badge                                                                                                                    | Markdown                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
