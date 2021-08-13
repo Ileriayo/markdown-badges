@@ -41,7 +41,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Browsers](#browsers)
     - [Blog](#blog)
     - [Office](#office)
-    - [Search Engines](#search-engine)
+    - [Search Engines](#search-engines)
     - [Other](#other)
   - [Contribution](#contribution)
   - [Contact](#contact)
