@@ -548,23 +548,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 
 ## Contribution
 
-1. Fork this repo
-
-2. Update a local clone or make changes directly on the forked repo, adding a badge with its appropriate hex-color
-
-   Markdown Format:
-
-```
-   ![Alt Text](https://img.shields.io/badge/<badge>-%23<badge-color>.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>)
-```
-
-Replace the following: `<badge>` , `<badge-color>` , `<logo-color>`
-
-3. Send in a PR with badges for other tools/technologies and I'd be happy to merge.
-
-**Important:** All of the badges are ordered alphabetically. Hence, while contributing, make sure to order to add the new badges in an alphabetical order.
-
-Thanks to ALL the amazing contributors!
+The project has a separate contribution file. Please adhere to the steps listed in the separate contributions [file](./CONTRIBUTING.md)
 
 ## Contact
 
