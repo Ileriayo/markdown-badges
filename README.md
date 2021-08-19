@@ -518,7 +518,8 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Ethereum      | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)                  | `![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)`                            |
 | Litecoin      | ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)                  | `![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)`                            |
 | Stellar       | ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)                     | `![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)`                            |
-
+| Xrp           | ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)                                  | `![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)`                                     |
+| Amp           | ![Amp](https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)                         | `![Amp](https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)`                            |
 
 
 ### Other
