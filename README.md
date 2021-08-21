@@ -15,35 +15,41 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 - [Markdown Badges](#markdown-badges)
   - [How to Use](#how-to-use)
   - [Shortcuts](#shortcuts)
-    - [Programming Languages](#programming-languages)
-    - [Frameworks, Platforms and Libraries](#frameworks-platforms-and-libraries)
-    - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
-    - [Design](#design)
-    - [IDEs/Editors](#ideseditors)
-    - [Version Control](#version-control)
-    - [Social](#social)
-    - [Education](#education)
-    - [Developer/Forums](#developerforums)
-    - [Work/Jobs](#workjobs)
-    - [Hosting/SaaS](#hostingsaas)
-    - [Servers](#servers)
-    - [Databases](#databases)
+    - [Blog](#blog)
+    - [Browsers](#browsers)
     - [CI](#ci)
-    - [Testing](#testing)
-    - [ML/DL](#mldl)
+    - [Cloud Storage](#cloud-storage)
+    - [Cryptocurrency](#cryptocurrency)
+    - [Databases](#databases)
+    - [Design](#design)
+    - [Developer/Forums](#developerforums)
+    - [Education](#education)
+    - [Frameworks, Platforms and Libraries](#frameworks-platforms-and-libraries)
     - [Gaming](#gaming)
     - [Game Consoles](#game-consoles)
-    - [Cloud Storage](#cloud-storage)
-    - [Store](#store)
+    - [Hosting/SaaS](#hostingsaas)
+    - [IDEs/Editors](#ideseditors)
+    - [ML/DL](#mldl)
     - [Music](#music)
     - [Funding](#funding)
-    - [Operating System](#operating-system)
-    - [Browsers](#browsers)
-    - [Blog](#blog)
     - [Office](#office)
-    - [Search Engines](#search-engines)
-    - [Cryptocurrency](#cryptocurrency)
+    - [Operating System](#operating-system)
     - [Other](#other)
+    - [Programming Languages](#programming-languages)
+    - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
+    - [Search Engines](#search-engines)
+    - [Servers](#servers)
+    - [Social](#social)
+    - [Store](#store)
+    - [Testing](#testing)
+    - [Version Control](#version-control)
+    - [Work/Jobs](#workjobs)
+    
+    
+    
+    
+    
+    
   - [Contribution](#contribution)
   - [Contact](#contact)
   - [License](#license)
@@ -509,18 +515,21 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Yahoo!        | ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)                    | `![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)`      |
 
 ### Cryptocurrency
-| Name          | Badge                                                                                                                    | Markdown                                                                                                                   |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| Amp           | ![Amp](https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)                         | `![Amp](https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)`                            |
-| Bitcoin       | ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)                     | `![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)`                            |
-| Bitcoin Cash  | ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white)  | `![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white)`                            |
-| Bitcoin SV    | ![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white)         | `![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white)`                            |
-| Chainlink     | ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)               | `![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)`                            |
-| Ethereum      | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)                  | `![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)`                            |
-| Litecoin      | ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)                  | `![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)`                            |
-| Stellar       | ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)                     | `![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)`                            |
-| Xrp           | ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)                                  | `![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)`                                     |
-
+| Name          | Badge                                                                                                                       | Markdown                                                                                                                   |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Amp           | ![Amp](https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)                        | `![Amp](https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)`                            |
+| Bitcoin       | ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)                       | `![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)`                            |
+| Bitcoin Cash  | ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white) | `![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white)`                            |
+| Bitcoin SV    | ![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white)       | `![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white)`                            |
+| Chainlink     | ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)              | `![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)`                            |
+| Dogecoin      | ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)                 | `![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)`                              |
+| Dash          | ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)                             | `![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)`                                  |
+| Ethereum      | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)                 | `![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)`                            |
+| Iota          | ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)                             | `![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)`                                  |
+| Litecoin      | ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)                 | `![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)`                            |
+| Monero        | ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)                       | `![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)`                              |
+| Stellar       | ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)                    | `![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)`                            |
+| Xrp           | ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)                                 | `![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)`                                     |
 
 
 ### Other
