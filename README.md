@@ -24,6 +24,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Design](#design)
     - [Developer/Forums](#developerforums)
     - [Education](#education)
+    - [Funding](#funding)
     - [Frameworks, Platforms and Libraries](#frameworks-platforms-and-libraries)
     - [Gaming](#gaming)
     - [Game Consoles](#game-consoles)
@@ -31,7 +32,6 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [IDEs/Editors](#ideseditors)
     - [ML/DL](#mldl)
     - [Music](#music)
-    - [Funding](#funding)
     - [Office](#office)
     - [Operating System](#operating-system)
     - [Other](#other)
@@ -448,7 +448,9 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Ko-Fi           | ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)                                 | `![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) `                                |
 | LiberaPay       | ![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)                      | `![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)`                      |
 | Patreon         | ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)                            | `![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)`                            |
-| PayPal          | ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)                               | ` ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)`                              |
+| PayPal          | ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)                               | `![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)`                              |
+| Paytm           | ![Paytm](https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3)                                 | `![Paytm](https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3)`                            |
+| Phonepe         | ![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)                            | `![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)`                            |
 | Samsung Pay     | ![Samsung Pay](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)  | `![Samsung Pay](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)`  |
 
 ### Operating System
