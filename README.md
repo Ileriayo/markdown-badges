@@ -41,6 +41,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Servers](#servers)
     - [Social](#social)
     - [Store](#store)
+    - [Streaming](#streaming)
     - [Testing](#testing)
     - [Version Control](#version-control)
     - [Work/Jobs](#workjobs)
@@ -417,7 +418,10 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Name    | Badge                                                                                                           | Markdown                                                                                                          |
 | ------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Dropbox | ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white) | `![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)` |
+| Google Drive | ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)           | `![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)`             |
 | Mega.nz | ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)       | `![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)`       |
+| Next Cloud | ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)   | `![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)`                |
+
 
 ### Store
 
@@ -426,6 +430,19 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | App Store  | ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)      | `![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)`       |
 | F-Droid    | ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)            | `![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)`             |
 | Play Store | ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) | `![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) ` |
+
+### Streaming
+
+| Name       | Badge                                                                                                               | Markdown
+| ---------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Amazon Prime | ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)               | `![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)`                      |
+| Crunchyroll  | ![Crunchroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)                    | `![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)`                         |
+| Facebook Gaming | ![Facebook Gaming](https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white)   | `![Facebook Gaming](https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white)`                |
+| Hulu         | ![Hulu](https://img.shields.io/badge/hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)                   | `![Hulu](https://img.shields.io/badge/hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)`                       |
+| Netflix      | ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)          | `![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)`                 |
+| Twitch       | ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)             | `![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)`                               |
+| Youtube Gaming  | ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)      | `![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)`                  |
+
 
 ### Music
 
