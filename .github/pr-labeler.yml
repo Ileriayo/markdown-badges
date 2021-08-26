@@ -1,3 +1,4 @@
+# names of badge and their keywords
 new-badge: ['new/*', 'badge/*']
 new-section: section/*
 typo-fix: fixed/*
