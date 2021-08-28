@@ -18,12 +18,6 @@ Replace the following: `<badge>` , `<badge-color>` , `<logo-color>`
 **Important:** All of the badges are ordered alphabetically. Hence, while contributing, make sure to order to add the new badges in an alphabetical order.
 
 3. Create a Pull Request with your proposed changes. 
-4. Once the Pull Request is created, set a label on the Pull Request. The Pull Request must be labelled to easily identify what kind of a Pull Request it is.  You can add one or more labels to the pull request. The most common labels are described as below:
-- `typo-fix`: fix one or more badges (this includes errorneous logos or color schemes).
-- `new-badge`: add one or more new badges
-- `new-section`: add one or more new sections
-- `enhancement`: reshuffle badges in different sections
 
 You are all done with the steps! 
-
 #### Thanks again to ALL the amazing contributors!
