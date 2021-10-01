@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+nav {
+  max-height: 50%;
+  overflow: auto;
+  padding-right: 1em;
+}
+
+footer p {
+  margin: 0;
+}
