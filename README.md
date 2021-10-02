@@ -269,6 +269,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Xbox        | ![Xbox](https://img.shields.io/badge/<handle>-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)                   | `![Xbox](https://img.shields.io/badge/<handle>-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)`                   |
 | YouTube     | ![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)             | `![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)`             |
 | Zoom        | ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)                              | `![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)`                              |
+| Profile Visitors | ![ProfileVisitors](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)              | `![ProfileVisitors](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)`          |
 
 
  
