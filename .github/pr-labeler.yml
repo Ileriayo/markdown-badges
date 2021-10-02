@@ -1,0 +1,3 @@
+new-badge: ['new/*', 'badge/*']
+new-section: section/*
+typo-fix: fixed/*
