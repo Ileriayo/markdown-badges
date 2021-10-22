@@ -35,7 +35,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Office](#office)
     - [Operating System](#operating-system)
     - [Other](#other)
-    - [Programming Languages](#programming-languages)
+    - [Languages](#languages)
     - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
     - [Search Engines](#search-engines)
     - [Servers](#servers)
