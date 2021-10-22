@@ -15,6 +15,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 - [Markdown Badges](#markdown-badges)
   - [How to Use](#how-to-use)
   - [Shortcuts](#shortcuts)
+    - [Artificial Intelligence and Bots](#artificial-intelligence-and-bots)
     - [Blog](#blog)
     - [Browsers](#browsers)
     - [CI](#ci)
