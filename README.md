@@ -662,6 +662,16 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Yahoo!        | ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)                    | `![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)`      |
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
+
+### Artificial Intelligence and Bots
+| Name          | Badge                                                                                                                       | Markdown                                                                                                                   |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Amazon Alexa   | ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white) | `![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)` |
+| Dependabot | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)              | `![Dependabot](https://img.shields.io/badge/dependabot-#025E8C?style=for-the-badge&logo=dependabot&logoColor=white)` |
+| Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | `![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)` |
+
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
+
  
 ### Cryptocurrency
 | Name          | Badge                                                                                                                       | Markdown                                                                                                                   |
