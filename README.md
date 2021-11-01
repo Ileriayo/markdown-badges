@@ -21,6 +21,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Cloud Storage](#cloud-storage)
     - [Cryptocurrency](#cryptocurrency)
     - [Databases](#databases)
+    - [ORM](#orm)
     - [Design](#design)
     - [Developer/Forums](#developerforums)
     - [Education](#education)
@@ -369,6 +370,14 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Single Store         | ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white)                             | `![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white)`                             
 | SQLite               | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)                                         | `![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)`                                         |
 | Supabase             | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)                                          | `![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)`                                          |
+
+
+## ORM
+
+| Name           | Badge                                                                                                                              | Markdown                                                                                                                             |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Sequelize       | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)                 | `![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)`                 |
+
 
 ### CI
 
