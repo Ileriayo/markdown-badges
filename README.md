@@ -22,6 +22,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Cloud Storage](#cloud-storage)
     - [Cryptocurrency](#cryptocurrency)
     - [Databases](#databases)
+    - [ORM](#orm)
     - [Design](#design)
     - [Developer/Forums](#developerforums)
     - [Education](#education)
@@ -421,8 +422,15 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | SQLite               | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)                                         | `![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)`                                         |
 | Supabase             | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)                                          | `![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)`                                          |
 
+
+## ORM
+
+| Name           | Badge                                                                                                                              | Markdown                                                                                                                             |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Sequelize       | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)                 | `![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)`                 |
+
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
- 
+
 ### CI
 
 | Name           | Badge                                                                                                                              | Markdown                                                                                                                             |
