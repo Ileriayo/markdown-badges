@@ -42,7 +42,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
     - [Search Engines](#search-engines)
     - [Servers](#servers)
-	  - [Smartphone Brands](#smartphone-brands)
+    - [Smartphone Brands](#smartphone-brands)
     - [Social](#social)
     - [Store](#store)
     - [Streaming](#streaming)
