@@ -36,12 +36,13 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Music](#music)
     - [Office](#office)
     - [Operating System](#operating-system)
+    - [ORM](#orm)
     - [Other](#other)
     - [Languages](#languages)
     - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
     - [Search Engines](#search-engines)
     - [Servers](#servers)
-	- [Smartphone Brands](#smartphone-brands)
+    - [Smartphone Brands](#smartphone-brands)
     - [Social](#social)
     - [Store](#store)
     - [Streaming](#streaming)
@@ -427,10 +428,10 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 
 ## ORM
 
-| Name           | Badge                                                                                                                              | Markdown                                                                                                                             |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Prisma       | ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)                 | `![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)`                 |
-| Sequelize       | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)                 | `![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)`                 
+| Name           | Badge                                                                                                                           | Markdown                                                                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Prisma         | ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)                           | `![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)`                 |
+| Sequelize      | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)                  | `![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)`                 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
 
