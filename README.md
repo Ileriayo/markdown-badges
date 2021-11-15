@@ -22,7 +22,6 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Cloud Storage](#cloud-storage)
     - [Cryptocurrency](#cryptocurrency)
     - [Databases](#databases)
-    - [ORM](#orm)
     - [Design](#design)
     - [Developer/Forums](#developerforums)
     - [Education](#education)
