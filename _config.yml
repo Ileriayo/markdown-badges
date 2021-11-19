@@ -1,4 +1,5 @@
 theme: jekyll-theme-leap-day
+markdown: GFM
 plugins:
   - jekyll-relative-links
 relative_links:
