@@ -17,7 +17,8 @@ Replace the following: `<badge>` , `<badge-color>` , `<logo-color>`
 
 **Important:** All of the badges are ordered alphabetically. Hence, while contributing, make sure to order to add the new badges in an alphabetical order.
 
-3. Create a Pull Request with your proposed changes. 
+3. Create a Pull Request with your proposed changes.
 
-You are all done with the steps! 
+You are all done with the steps!
+
 #### Thanks again to ALL the amazing contributors!
