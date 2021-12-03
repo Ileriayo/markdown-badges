@@ -26,6 +26,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Developer/Forums](#developerforums)
     - [Documentation Platforms](#documentation)
     - [Education](#education)
+    - [ETL](#etl)
     - [Funding](#funding)
     - [Frameworks, Platforms and Libraries](#frameworks-platforms-and-libraries)
     - [Gaming](#gaming)
