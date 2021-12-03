@@ -351,6 +351,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 
 | Name           | Badge                                                                                                                                 | Markdown                                                                                                                                |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Databricks           | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)                           | `![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)`                           |
 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
