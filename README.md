@@ -353,7 +353,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Databricks           | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)                           | `![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)`                           |
 | Talend           | ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)                           | `![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white) `                           |
-
+| Spark AR           | ![Spark AR](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=white)                           | `![Spark AR](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=white) `                           |
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
 
