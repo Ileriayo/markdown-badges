@@ -19,6 +19,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Blog](#blog)
     - [Blockchain](#blockchain)
     - [Browsers](#browsers)
+    - [CD](#cd)
     - [CI](#ci)
     - [Cloud Storage](#cloud-storage)
     - [Cryptocurrency](#cryptocurrency)
@@ -120,6 +121,14 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | `![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)` |
 | TravisCI       | ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)                   | `![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)`                   |
 
+
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
+
+### CD
+
+| Name           | Badge                                                                                                                              | Markdown                                                                                                                             |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Octopus Deploy       | ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)                 | `![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)`                 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
 
