@@ -18,6 +18,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Artificial Intelligence and Bots](#artificial-intelligence-and-bots)
     - [Blog](#blog)
     - [Browsers](#browsers)
+    - [CD](#cd)
     - [CI](#ci)
     - [Cloud Storage](#cloud-storage)
     - [Cryptocurrency](#cryptocurrency)
