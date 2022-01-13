@@ -68,9 +68,9 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 
 ### Blockchain
 
-| Name        | Badge                                                                                                             | Markdown                                                                                                            |
-| ----------  | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Hyperledger | ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) | `![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)`
+| Name        | Badge                                                                                                                | Markdown                                                                                                            |
+| ----------  | -------------------------------------------------------------------------------------------------------------------  | ------------------------------------------------------------------------------------------------------------------- |
+| Hyperledger | ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) | `![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)`                              |
 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
