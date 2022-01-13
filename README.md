@@ -17,7 +17,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
   - [Shortcuts](#shortcuts)
     - [Artificial Intelligence and Bots](#artificial-intelligence-and-bots)
     - [Blog](#blog)
-    - [BlockChain](#blockchain)
+    - [Blockchain](#blockchain)
     - [Browsers](#browsers)
     - [CI](#ci)
     - [Cloud Storage](#cloud-storage)
@@ -65,6 +65,8 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#shortcuts)
+
+### Blockchain
 
 | Name        | Badge                                                                                                             | Markdown                                                                                                            |
 | ----------  | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
