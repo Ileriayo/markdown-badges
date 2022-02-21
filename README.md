@@ -52,8 +52,8 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Version Control](#version-control)
     - [Work/Jobs](#workjobs)
   - [Contribution](#contribution)
-  - [Contact](#contact)
-  - [License](#license)
+  - [Contact](#-contact)
+  - [License](#-license)
 
 ### 😶‍🌫️ Artificial Intelligence and Bots
 
@@ -807,10 +807,10 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 
 The project has a separate contribution file. Please adhere to the steps listed in the separate contributions [file](./CONTRIBUTING.md)
 
-## Contact
+## 🔗 Contact
 
 You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
-## License
+## 🗂️ License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
