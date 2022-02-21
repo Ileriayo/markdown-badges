@@ -12,7 +12,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 
 ## 🎄 Shortcuts
 
-- [Markdown Badges](#markdown-badges)
+- [Markdown Badges](#-markdown-badges)
   - [How to Use](#-how-to-use)
   - [Shortcuts](#-shortcuts)
     - [Artificial Intelligence and Bots](#%EF%B8%8F-artificial-intelligence-and-bots)
