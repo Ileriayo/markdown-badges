@@ -53,7 +53,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Work/Jobs](#workjobs)
   - [Contribution](#contribution)
   - [Contact](#-contact)
-  - [License](#-license)
+  - [License](#%EF%B8%8F-license)
 
 ### 😶‍🌫️ Artificial Intelligence and Bots
 
