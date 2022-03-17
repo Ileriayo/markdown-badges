@@ -670,7 +670,6 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Gunicorn       | ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)                  | `![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)`     |
 | Jenkins        | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)                   | `![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)`                   |
 | Nginx          | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)                         | `![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)`                         |
-| Uvicorn        | ![Uvicorn](https://img.shields.io/badge/uvicorn-4051B5.svg?style=for-the-badge&logo=gunicorn&logoColor=white)                     | `![Uvicorn](https://img.shields.io/badge/uvicorn-4051B5.svg?style=for-the-badge&logo=gunicorn&logoColor=white)`        |
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
 
