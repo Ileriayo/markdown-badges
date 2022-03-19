@@ -11,7 +11,45 @@ Add badges to your Profile and Projects.
 - [Contribution](#contribution)
 - [License](#license)
 - [Badges](#badges)
-  - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
+  - <details> <summary>List of badges</summary>
+ 
+     - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
+     - [Blog](#🅱%EF%B8%8F-blog)
+     - [Blockchain](#-blockchain)
+     - [Browsers](#-browsers)
+     - [CD](#-cd)
+     - [CI](#-ci)
+     - [Cloud Storage](#-cloud-storage)
+     - [Cryptocurrency](#-cryptocurrency)
+     - [Databases](#-databases)
+     - [Design](#-design)
+     - [Developer/Forums](#-developerforums)
+     - [Documentation Platforms](#-documentation-platforms)
+     - [Education](#-education)
+     - [Funding](#-funding)
+     - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
+     - [Gaming](#-gaming)
+     - [Game Consoles](#%EF%B8%8F-game-consoles)
+     - [Hosting/SaaS](#-hostingsaas)
+     - [IDEs/Editors](#-ideseditors)
+     - [Languages](#-languages)
+     - [ML/DL](#-mldl)
+     - [Music](#-music)
+     - [Office](#-office)
+     - [Operating System](#%EF%B8%8F-operating-system)
+     - [ORM](#-orm)
+     - [Other](#-other)
+     - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
+     - [Search Engines](#search-engines)
+     - [Servers](#servers)
+     - [Smartphone Brands](#smartphone-brands)
+     - [Social](#social)
+     - [Store](#store)
+     - [Streaming](#streaming)
+     - [Testing](#testing)
+     - [Version Control](#version-control)
+     - [Work/Jobs](#workjobs)
+   </details>
 
 
 # Usage
@@ -71,9 +109,9 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 ```
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////
 ```
 # Badges
 
