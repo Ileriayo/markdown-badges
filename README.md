@@ -1,61 +1,29 @@
-# 😀 Markdown Badges
+![Github-Kohasummons-Project-Readme-Image ](https://user-images.githubusercontent.com/66284362/159101187-179b15f1-5b91-412e-9cb3-a31a416d11db.png)
 
+# Markdown Badges
 Add badges to your Profile and Projects.
 
-## 👍 How to Use
+# Table of contents
+- [Markdown Badges](#markdown-badges)
+- [Table of contents](#table-of-contents)
+- [Usage](#usage)
+- [Badges](#badges)
+  - [Artificial Intelligence and Bots](#artificial-intelligence-and-bots)
+- [Alternative Use](#alternative-use)
+- [Contribution](#contribution)
+- [License](#license)
 
-Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g., `README.md`)
 
-**Note:** The _for-the-badge_ is just a style that we have chosen for appearance purposes. There are other styles available with https://shields.io#styles. Other styles can be easily used with the below listed badges. Thanks @kingthorin for mentioning this!
+# Usage
+To use a badge:
+- Via Github
+    1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
+    2. Enter the name of the badge you need.
+    3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g., README.md)
+- You could also visit the live site at [ileriayo.github.io/markdown-badges/](https://ileriayo.github.io/markdown-badges/)
 
-**Tip**: Since there are a lot of badges, to search for the particular badge you are looking for, use Ctrl + F and type the name you want. Thanks @JakyeRU for mentioning this!
-
-## 🎄 Shortcuts
-
-- [Markdown Badges](#-markdown-badges)
-  - [How to Use](#-how-to-use)
-  - [Shortcuts](#-shortcuts)
-    - [Artificial Intelligence and Bots](#%EF%B8%8F-artificial-intelligence-and-bots)
-    - [Blog](#🅱%EF%B8%8F-blog)
-    - [Blockchain](#-blockchain)
-    - [Browsers](#-browsers)
-    - [CD](#-cd)
-    - [CI](#-ci)
-    - [Cloud Storage](#-cloud-storage)
-    - [Cryptocurrency](#-cryptocurrency)
-    - [Databases](#-databases)
-    - [Design](#-design)
-    - [Developer/Forums](#-developerforums)
-    - [Documentation Platforms](#-documentation-platforms)
-    - [Education](#-education)
-    - [Funding](#-funding)
-    - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
-    - [Gaming](#-gaming)
-    - [Game Consoles](#%EF%B8%8F-game-consoles)
-    - [Hosting/SaaS](#-hostingsaas)
-    - [IDEs/Editors](#-ideseditors)
-    - [Languages](#-languages)
-    - [ML/DL](#-mldl)
-    - [Music](#-music)
-    - [Office](#-office)
-    - [Operating System](#%EF%B8%8F-operating-system)
-    - [ORM](#-orm)
-    - [Other](#-other)
-    - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
-    - [Search Engines](#search-engines)
-    - [Servers](#servers)
-    - [Smartphone Brands](#smartphone-brands)
-    - [Social](#social)
-    - [Store](#store)
-    - [Streaming](#streaming)
-    - [Testing](#testing)
-    - [Version Control](#version-control)
-    - [Work/Jobs](#workjobs)
-  - [Contribution](#contribution)
-  - [Contact](#-contact)
-  - [License](#%EF%B8%8F-license)
-
-### 😶‍🌫️ Artificial Intelligence and Bots
+# Badges
+### Artificial Intelligence and Bots
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +31,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Dependabot       | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)                       | `![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)`                       |
 | Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | `![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)` |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🥩 Blockchain
 
@@ -71,7 +39,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | ----------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Hyperledger | ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) | `![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)` |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🅱️ Blog
 
@@ -86,7 +54,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Rss        | ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)                      | `![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)`                      |
 | Wix        | ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)                         | `![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)`                         |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🌐 Browsers
 
@@ -102,7 +70,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Tor           | ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)                        | `![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)`                        |
 | Vivaldi       | ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)                    | `![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)`                    |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🎷 CI
 
@@ -113,7 +81,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | `![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)` |
 | Travis CI       | ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)                   | `![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)`                   |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 😶 CD
 
@@ -121,7 +89,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Octopus Deploy | ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) | `![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)` |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 👜 Cloud Storage
 
@@ -132,7 +100,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Mega.nz      | ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)                | `![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)`                |
 | Next Cloud   | ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)       | `![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)`       |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🛒 Cryptocurrency
 
@@ -156,7 +124,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Xrp          | ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)                                 | `![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)`                                 |
 | Z Cash       | ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)                         | `![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)`                         |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 💾 Databases
 
@@ -179,7 +147,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | SQLite               | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)                                         | `![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)`                                         |
 | Supabase             | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)                                          | `![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)`                                          |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🎨 Design
 
@@ -215,7 +183,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Sketch                  | ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)                                                                | `![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)`                                                                |
 | Storybook               | ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)                                                      | `![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)`                                                      |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🤴 Developer/Forums
 
@@ -233,7 +201,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Stack Overflow | ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)         | `![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)`         |
 | XDA-Developers | ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white) | `![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)` |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 📑 Documentation Platforms
 
@@ -243,7 +211,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Wikipedia | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) | `![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)` |
 | Wiki.js   | ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)     | `![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)`     |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🧑‍🏫 Education
 
@@ -269,7 +237,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Udacity         | ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)                      | `![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)`                      |
 | Udemy           | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)                           | `![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)`                           |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 💰 Funding
 
@@ -288,7 +256,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Phonepe         | ![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)                            | `![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)`                            |
 | Samsung Pay     | ![Samsung Pay](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)             | `![Samsung Pay](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)`             |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 📚 Frameworks, Platforms and Libraries
 
@@ -370,7 +338,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Xamarin            | ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)                                        | `![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)`                                        |
 | Yarn               | ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)                                          | `![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)`                                          |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🎮 Gaming
 
@@ -393,7 +361,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Unreal Engine       | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) | `![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)` |
 | Xbox                | ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)                          | `![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)`                          |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🕹️ Game Consoles
 
@@ -412,7 +380,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Wii U            | ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)                                   | `![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)`                                   |
 | Xbox             | ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)                                | `![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)`                                |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🎈 Hosting/SaaS
 
@@ -436,7 +404,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Scaleway     | ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)             | `![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)`             |
 | Vercel       | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)                   | `![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)`                   |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🪡 IDEs/Editors
 
@@ -466,7 +434,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Xcode              | ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)                                                | `![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)`                                                |
 | Zend               | ![Zend](https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA)                                                     | `![Zend](https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA)`                                                     |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 📋 Languages
 
@@ -510,7 +478,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | TypeScript    | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)         | `![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)`         |
 | Zig           | ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)                              | `![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)`                              |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🍗 ML/DL
 
@@ -525,7 +493,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | SciPy        | ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      | `![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)`                      |
 | TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)        | `![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)`        |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🎶 Music
 
@@ -540,7 +508,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Tidal         | ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)                         | `![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)`                         |
 | YouTube Music | ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white) | `![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)` |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🏢 Office
 
@@ -555,7 +523,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Microsoft Visio      | ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)                | `![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)`                |
 | Microsoft Word       | ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)                    | `![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)`                    |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🎛️ Operating System
 
@@ -596,7 +564,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Windows XP    | ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)             | `![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)`             |
 | Zorin OS      | ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)                 | `![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)`                 |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ## 🎋 ORM
 
@@ -605,7 +573,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Prisma    | ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)          | `![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)`          |
 | Sequelize | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) | `![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)` |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### 🥅 Other
 
@@ -639,7 +607,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Vagrant       | ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)          | `![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)`          |
 | XFCE          | ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)                   | `![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)`                   |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### Quantum Programming Frameworks and Libraries
 
@@ -647,7 +615,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | ------ | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
 | Qiskit | ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) | `![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)` |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### Search Engines
 
@@ -659,7 +627,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Google     | ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)                   | `![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)`                   |
 | Yahoo!     | ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)                   | `![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)`                   |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### Servers
 
@@ -673,7 +641,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Jenkins        | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)                   | `![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)`                   |
 | Nginx          | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)                         | `![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)`                         |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### Social
 
@@ -719,7 +687,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | YouTube     | ![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)             | `![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)`             |
 | Zoom        | ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)                              | `![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)`                              |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### Smartphone Brands
 
@@ -737,7 +705,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Samsung    | ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)       | `![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)`       |
 | Xiaomi     | ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)          | `![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)`          |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### Store
 
@@ -747,7 +715,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | F-Droid    | ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)            | `![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)`            |
 | Play Store | ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) | `![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)` |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### Streaming
 
@@ -764,7 +732,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Twitch          | ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)                             | `![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)`                             |
 | Youtube Gaming  | ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)    | `![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)`    |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### Testing
 
@@ -777,7 +745,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Selenium        | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)                       | `![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)`                       |
 | Testing Library | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) | `![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)` |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### Version Control
 
@@ -793,7 +761,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Mercurial      | ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)         | `![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)`         |
 | Perforce Helix | ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white) | `![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)` |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
 
 ### Work/Jobs
 
@@ -807,16 +775,53 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
 | Indeed       | ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)                      | `![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)`                      |
 | Upwork       | ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)                      | `![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)`                      |
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-shortcuts)
+[(Back to top)](#table-of-contents)
+   
+# Alternative use
+
+<details> 
+<summary>👇 How to use a different badge style</summary>
+<hr>
+
+> <strong>Note:</strong> `for-the-badge` is the style that we chose for appearance purposes. Other styles are available at [https://shields.io/#styles](https://shields.io/#styles) and can be used with the badges here. Thanks, @kingthorin for mentioning this!
+
+
+Shields.io offers 4 styles, which are:
+- Plastic 
+- For-the-badge
+- Social  
+- Flat-square 
+- Flat 
+
+💡 To use a different style: Replace `for-the-badge` in the markdown link with any of the styles above.
+```
+Example.
+
+🧷  For plastic
+https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic
+
+🤏🏽  For Flat
+https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
+```
+
+</details>
+
+<details> 
+<summary>👇 Use Ctrl + F or CMD + F to search</summary>
+ <hr>
+
+ > <strong>Tip:</strong> Since there are a lot of badges, to search for the particular badge you are looking for, use Ctrl + F and type the name you want. Thanks, @JakyeRU for mentioning this!
+</details>
+
 
 ## Contribution
 
 The project has a separate contribution file. Please adhere to the steps listed in the separate contributions [file](./CONTRIBUTING.md)
 
-## 🔗 Contact
+## Contact
 
 You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
-## 🗂️ License
+## License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
