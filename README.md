@@ -3,6 +3,17 @@
 # Markdown Badges
 Add badges to your Profile and Projects.
 
+<<<<<<< HEAD
+# Table of contents
+- [Markdown Badges](#markdown-badges)
+- [Table of contents](#table-of-contents)
+- [Usage](#usage)
+- [Alternative Use](#alternative-use)
+- [Contribution](#contribution)
+- [License](#license)
+- [Badges](#badges)
+  - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
+=======
 # Table of contents
 - [Markdown Badges](#markdown-badges)
 - [Table of contents](#table-of-contents)
@@ -12,6 +23,7 @@ Add badges to your Profile and Projects.
 - [Alternative Use](#alternative-use)
 - [Contribution](#contribution)
 - [License](#license)
+>>>>>>> 3c8171dc2b8d16bf0979076c3eb6ec53e07ede30
 
 
 # Usage
@@ -22,9 +34,71 @@ To use a badge:
     3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g., README.md)
 - You could also visit the live site at [ileriayo.github.io/markdown-badges/](https://ileriayo.github.io/markdown-badges/)
 
+<<<<<<< HEAD
+# Alternative use
+=======
 # Badges
 ### Artificial Intelligence and Bots
+>>>>>>> 3c8171dc2b8d16bf0979076c3eb6ec53e07ede30
 
+<<<<<<< HEAD
+<details> 
+<summary>👇 How to use a different badge style</summary>
+<hr>
+
+> <strong>Note:</strong> `for-the-badge` is the style that we chose for appearance purposes. Other styles are available at [https://shields.io/#styles](https://shields.io/#styles) and can be used with the badges here. Thanks, @kingthorin for mentioning this!
+
+
+Shields.io offers 4 styles, which are:
+- Plastic 
+- For-the-badge
+- Social  
+- Flat-square 
+- Flat 
+
+💡 To use a different style: Replace `for-the-badge` in the markdown link with any of the styles above.
+```
+Example.
+
+🧷  For plastic
+https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic
+
+🤏🏽  For Flat
+https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
+```
+
+</details>
+
+<details> 
+<summary>👇 Use Ctrl + F or CMD + F to search</summary>
+ <hr>
+
+ > <strong>Tip:</strong> Since there are a lot of badges, to search for the particular badge you are looking for, use Ctrl + F and type the name you want. Thanks, @JakyeRU for mentioning this!
+</details>
+
+
+## Contribution
+
+The project has a separate contribution file. Please adhere to the steps listed in the separate contributions [file](./CONTRIBUTING.md)
+
+## Contact
+
+You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
+
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+```
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+```
+# Badges
+
+### 🤖 Artificial Intelligence and Bots
+
+=======
+>>>>>>> 3c8171dc2b8d16bf0979076c3eb6ec53e07ede30
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Amazon Alexa     | ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)             | `![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)`             |
@@ -775,10 +849,16 @@ To use a badge:
 | Indeed       | ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)                      | `![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)`                      |
 | Upwork       | ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)                      | `![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)`                      |
 
+<<<<<<< HEAD
+[(Back to top)](#table-of-contents)
+=======
 [(Back to top)](#table-of-contents)
    
 # Alternative use
+>>>>>>> 3c8171dc2b8d16bf0979076c3eb6ec53e07ede30
 
+<<<<<<< HEAD
+=======
 <details> 
 <summary>👇 How to use a different badge style</summary>
 <hr>
@@ -825,3 +905,5 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 ## License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
+>>>>>>> 3c8171dc2b8d16bf0979076c3eb6ec53e07ede30
