@@ -1,4 +1,4 @@
-![Github-Kohasummons-Project-Readme-Image ](https://user-images.githubusercontent.com/66284362/159101187-179b15f1-5b91-412e-9cb3-a31a416d11db.png)
+![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
 
 # Markdown Badges
 Add badges to your Profile and Projects.
@@ -108,11 +108,9 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 ## License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
-```
-////////////////////////////////////////////////////////////////
-//////////////////////////////////////////////////////////////////////////////////
-//////////////////////////////////////////////////////////////////
-```
+<hr>
+<hr>
+
 # Badges
 
 ### 🤖 Artificial Intelligence and Bots
