@@ -7,7 +7,7 @@ Add badges to your Profile and Projects.
 - [Markdown Badges](#markdown-badges)
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
-- [Alternative Use](#alternative-use)
+- [Tips](#tips)
 - [Contribution](#contribution)
 - [License](#license)
 - [Badges](#badges)
