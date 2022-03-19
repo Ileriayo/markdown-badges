@@ -56,11 +56,11 @@ Add badges to your Profile and Projects.
 To use a badge:
 - Via Github
     1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
-    2. Enter the name of the badge you need.
-    3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g., README.md)
+    1. Enter the name of the badge you need.
+    1. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
 - You could also visit the live site at [ileriayo.github.io/markdown-badges/](https://ileriayo.github.io/markdown-badges/)
 
-# Alternative use
+# Tips
 
 <details> 
 <summary>👇 How to use a different badge style</summary>
