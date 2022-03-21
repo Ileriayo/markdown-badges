@@ -44,6 +44,7 @@ Add badges to your Profile and Projects.
      - [ORM](#-orm)
      - [Other](#-other)
      - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
+     - [Network Routers](#routers)
      - [Search Engines](#search-engines)
      - [Servers](#servers)
      - [Smartphone Brands](#smartphone-brands)
@@ -755,6 +756,19 @@ _Note that these are things that go with k8 that don't deserve their own section
 | Name   | Badge                                                                                                        | Markdown                                                                                                       |
 | ------ | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
 | Qiskit | ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) | `![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)` |
+
+[(Back to top)](#table-of-contents)
+
+### Routers
+
+| Name       | Badge                                                                                                               | Markdown                                                                                                        |
+|------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Pfsense    | ![Pfsense](https://img.shields.io/badge/Pfsense-%23212121?style=for-the-badge&logo=pfsense&logoColor=white)         | `![Pfsense](https://img.shields.io/badge/Pfsense-%23212121?style=for-the-badge&logo=pfsense&logoColor=white)`   |
+| Opnsense   | ![Opnsense](https://img.shields.io/badge/Pfsense-%23D94F00?style=for-the-badge&logo=opnsense&logoColor=white)       | `![Opnsense](https://img.shields.io/badge/Pfsense-%23D94F00?style=for-the-badge&logo=opnsense&logoColor=white)` |
+| OpenWrt    | ![OpenWrt](https://img.shields.io/badge/openwrt-%2300B5E2?style=for-the-badge&logo=openwrt&logoColor=white)         | `![OpenWrt](https://img.shields.io/badge/openwrt-%2300B5E2?style=for-the-badge&logo=openwrt&logoColor=white)`   |
+| Sonic wall | ![Sonic wall](https://img.shields.io/badge/Sonic_wall-%23FF791A?style=for-the-badge&logo=Sonicwall&logoColor=white) | `(https://img.shields.io/badge/Sonic_wall-%23FF791A?style=for-the-badge&logo=Sonicwall&logoColor=white)`        |
+| TP-link    | ![TP-Link](https://img.shields.io/badge/tp_Link-%234ACBD6?style=for-the-badge&logo=tplink&logoColor=white)          | `![OpenWrt](https://img.shields.io/badge/openwrt-%2300B5E2?style=for-the-badge&logo=openwrt&logoColor=white)`   |
+
 
 [(Back to top)](#table-of-contents)
 
