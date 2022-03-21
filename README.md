@@ -197,9 +197,9 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 
 ### Consultancies 
-| Name      | Badge                                                                                                             | Markdown                                                                                                          |
-|-----------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Accenture | ![Accenture](https://img.shields.io/badge/accenture-%23A100FF?style=for-the-badge&logo=accenture&logoColor=white) | ![Accenture](https://img.shields.io/badge/accenture-%23A100FF?style=for-the-badge&logo=accenture&logoColor=white) | 
+| Name      | Badge                                                                                                             | Markdown                                                                                                            |
+|-----------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Accenture | ![Accenture](https://img.shields.io/badge/accenture-%23A100FF?style=for-the-badge&logo=accenture&logoColor=white) | `![Accenture](https://img.shields.io/badge/accenture-%23A100FF?style=for-the-badge&logo=accenture&logoColor=white)` | 
 
 [(Back to top)](#table-of-contents)
 
@@ -290,6 +290,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 | Name           | Badge                                                                                                                                 | Markdown                                                                                                                                |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 4chan | ![4chan](https://img.shields.io/badge/4chan-%23A100FF?style=for-the-badge&logo=4chan&logoColor=white)
 | CodeChef       | ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)                    | `![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)`                    |
 | Codeforces     | ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)                     | `![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)`                     |
 | CodePen        | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)                              | `![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)`                              |
