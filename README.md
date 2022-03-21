@@ -55,6 +55,7 @@ Add badges to your Profile and Projects.
      - [Testing](#testing)
      - [TOR Projects](#tor-projects)
      - [Version Control](#version-control)
+     - [Wikimedia Projects](#wikimedia-projects)
      - [Work/Jobs](#workjobs)
    </details>
 
@@ -341,8 +342,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Name      | Badge                                                                                                                 | Markdown                                                                                                                |
 | --------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Bookstack | ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white) | `![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)` |
-| Wikipedia | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) | `![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)` |
-| Wiki.js   | ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)     | `![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)`     |
+
 
 [(Back to top)](#table-of-contents)
 
@@ -939,6 +939,22 @@ _Note that these are things that go with k8 that don't deserve their own section
 | Gitpod         | ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)                  | `![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)`                  |
 | Mercurial      | ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)         | `![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)`         |
 | Perforce Helix | ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white) | `![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)` |
+
+[(Back to top)](#table-of-contents)
+
+### Wikimedia projects
+
+| Name           | Badge                                                                                                                      | Markdown                                                                                                                     |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Wiki.js   | ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)     | `![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)`     |
+| Wikidata | ![Wikidata](https://img.shields.io/badge/Wikidata-%23006699?style=for-the-badge&logo=Wikidata&logoColor=white)|`![Wikidata](https://img.shields.io/badge/Wikidata-%23006699?style=for-the-badge&logo=Wikidata&logoColor=white)`|
+| Wikimedia Commons | ![Wikimedia Commons](https://img.shields.io/badge/Wikimedia_Commons-%23006699?style=for-the-badge&logo=WikimediaCommons&logoColor=white)|`![Wikimedia Commons](https://img.shields.io/badge/Wikimedia_Commons-%23006699?style=for-the-badge&logo=WikimediaCommons&logoColor=white)`|
+| Wikipedia | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) | `![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)` |
+| Wikiquote | ![Wikiquote](https://img.shields.io/badge/Wikiquote-%23006699?style=for-the-badge&logo=Wikiquote&logoColor=white)|`![Wikiquote](https://img.shields.io/badge/Wikiquote-%23006699?style=for-the-badge&logo=Wikiquote&logoColor=white)`|
+| Wikivoyage | ![Wikivoyage](https://img.shields.io/badge/Wikivoyage-%23006699?style=for-the-badge&logo=Wikivoyage&logoColor=white)|`![Wikivoyage](https://img.shields.io/badge/Wikivoyage-%23006699?style=for-the-badge&logo=Wikivoyage&logoColor=white)`|
+
+
+
 
 [(Back to top)](#table-of-contents)
 
