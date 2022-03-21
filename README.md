@@ -34,6 +34,7 @@ Add badges to your Profile and Projects.
      - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
      - [Gaming](#-gaming)
      - [Game Consoles](#%EF%B8%8F-game-consoles)
+     - [Hashicorp](#hashicorp)
      - [Hosting/SaaS](#-hostingsaas)
      - [Hypervisors](#hypervisors)
      - [IDEs/Editors](#-ideseditors)
@@ -531,6 +532,21 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
+### Hashicorp
+
+| Name      | Badge                                                                                                                 | Markdown                                                                                                                |
+|-----------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Consul    | ![Consul](https://img.shields.io/badge/Consul-%23F24C53?style=for-the-badge&logo=Consul&logoColor=white)              | `![Consul](https://img.shields.io/badge/Consul-%23F24C53?style=for-the-badge&logo=Consul&logoColor=white)`              |
+| Packer    | ![Packer](https://img.shields.io/badge/Packer-%2302A8EF?style=for-the-badge&logo=Packer&logoColor=white)              | `![Packer](https://img.shields.io/badge/Packer-%2302A8EF?style=for-the-badge&logo=Packer&logoColor=white)`              |
+| Terraform | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) | `![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)` |
+| Vagrant   | ![Vagrant](https://img.shields.io/badge/Vagrant-%231868F2?style=for-the-badge&logo=Vagrant&logoColor=white)           | `![Vagrant](https://img.shields.io/badge/Vagrant-%231868F2?style=for-the-badge&logo=Vagrant&logoColor=white)`           |
+| Vault     | ![Vault](https://img.shields.io/badge/Vault-%23000000?style=for-the-badge&logo=Vault&logoColor=white)                 | `![Vault](https://img.shields.io/badge/Vault-%23000000?style=for-the-badge&logo=Vault&logoColor=white)`                 |
+
+
+
+
+[(Back to top)](#table-of-contents)
+
 ### 🎈 Hosting/SaaS
 
 | Name         | Badge                                                                                                                          | Markdown                                                                                                                         |
@@ -766,8 +782,6 @@ _Note that these are things that go with k8 that don't deserve their own section
 | Rancher       | ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)          | `![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)`          |
 | Raspberry Pi  | ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)                  | `![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)`                  |
 | Swagger       | ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)            | `![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)`            |
-| TOR           | ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)              | `![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)`              |
-| Terraform     | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)    | `![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)`    |
 | Trello        | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)             | `![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)`             |
 | Uber          | ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)                   | `![](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)`                       |
 | Vagrant       | ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)          | `![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)`          |
