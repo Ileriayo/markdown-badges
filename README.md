@@ -20,8 +20,8 @@ Add badges to your Profile and Projects.
      - [CD](#-cd)
      - [CI](#-ci)
      - [Cloud Storage](#-cloud-storage)
-     - [Cloud Providers](#-cloud-providers)
-     - [Consultancies](#-consultancies) 
+     - [Cloud Providers](#cloud-providers)
+     - [Consultancies](#consultancies) 
      - [Cryptocurrency](#-cryptocurrency)
      - [Databases](#-databases)
      - [Design](#-design)
@@ -33,8 +33,9 @@ Add badges to your Profile and Projects.
      - [Gaming](#-gaming)
      - [Game Consoles](#%EF%B8%8F-game-consoles)
      - [Hosting/SaaS](#-hostingsaas)
-     - [Hypervisors](#-hypervisors)
+     - [Hypervisors](#hypervisors)
      - [IDEs/Editors](#-ideseditors)
+     - [Kubernetes](#kubernetes)
      - [Languages](#-languages)
      - [ML/DL](#-mldl)
      - [Music](#-music)
@@ -513,15 +514,16 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Glitch       | ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)                   | `![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)`                   |
 | Heroku       | ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)                   | `![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)`                   |
 | Netlify      | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)              | `![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)`              |
-| OpenStack    | ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)          | `![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)`          |
 | Vercel       | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)                   | `![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)`                   |
 
 [(Back to top)](#table-of-contents)
 
 ### Hypervisors
-| Name               | Badge                                                                                                                                             | Markdown                                                                                                           |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------|
-| Proxmox | ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white) | `![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)`  |
+| Name      | Badge                                                                                                                 | Markdown                                                                                                                |
+|-----------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Proxmox   | ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)       | `![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)`       |
+| OpenStack | ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) | `![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)` |
+| QEMU      | ![QEMU](https://img.shields.io/badge/QEMU-%23FF6600.svg?style=for-the-badge&logo=QEMU&logoColor=white)                | `![QEMU](https://img.shields.io/badge/QEMU-%23FF6600.svg?style=for-the-badge&logo=QEMU&logoColor=white)`                |
 
 
 
@@ -557,6 +559,19 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
+
+### Kubernetes
+
+_Note that these are things that go with k8 that don't deserve their own section_
+
+| Name         | Badge                                                                                                                            | Markdown                                                                                                                           |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Kubernetes   | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)         | `![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)`         |
+| Rancher      | ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)                  | `![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)`                  |
+| Traefik mesh | ![Traefik mesh](https://img.shields.io/badge/traefik%20mesh-%239D0FB0.svg?style=for-the-badge&logo=traefik-mesh&logoColor=white) | `![Traefik mesh](https://img.shields.io/badge/traefik%20mesh-%239D0FB0.svg?style=for-the-badge&logo=traefik-mesh&logoColor=white)` |
+| Istio        | ![Istio](https://img.shields.io/badge/istio-%23466BB0.svg?style=for-the-badge&logo=istio&logoColor=white)                        | `![Istio](https://img.shields.io/badge/istio-%23466BB0.svg?style=for-the-badge&logo=istio&logoColor=white)`                        |
+
+[(Back to top)](#table-of-contents)
 ### 📋 Languages
 
 | Name          | Badge                                                                                                                            | Markdown                                                                                                                           |
@@ -714,7 +729,6 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | ElasticSearch | ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)              | `![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)`              |
 | Gradle        | ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)                | `![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)`                |
 | Jira          | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)                   | `![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)`                   |
-| Kubernetes    | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | `![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)` |
 | Notion        | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)             | `![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)`             |
 | Portfolio     | ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)    | `![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)`    |
 | Postman       | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)                 | `![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)`                 |
