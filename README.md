@@ -53,6 +53,7 @@ Add badges to your Profile and Projects.
      - [Store](#store)
      - [Streaming](#streaming)
      - [Testing](#testing)
+     - [TOR Projects](#tor-projects)
      - [Version Control](#version-control)
      - [Work/Jobs](#workjobs)
    </details>
@@ -176,7 +177,6 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | IE            | ![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white) | `![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)` |
 | Opera         | ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)                          | `![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)`                          |
 | Safari        | ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)                       | `![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)`                       |
-| Tor           | ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)                        | `![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)`                        |
 | Vivaldi       | ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)                    | `![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)`                    |
 
 [(Back to top)](#table-of-contents)
@@ -912,6 +912,18 @@ _Note that these are things that go with k8 that don't deserve their own section
 | Mocha           | ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)                              | `![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)`                              |
 | Selenium        | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)                       | `![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)`                       |
 | Testing Library | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) | `![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)` |
+
+[(Back to top)](#table-of-contents)
+
+### Tor Projects
+
+| Name        | Badge                                                                                                                  | Markdown                                                                                                                 |
+|-------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Tor         | ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)                   | `![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)`                   |
+| Tor Browser | ![Tor Browser](https://img.shields.io/badge/Tor_Browser-%237D4698?style=for-the-badge&logo=TorBrowser&logoColor=white) | `![Tor Browser](https://img.shields.io/badge/Tor_Browser-%237D4698?style=for-the-badge&logo=TorBrowser&logoColor=white)` |
+| Tor Project | ![Tor Project](https://img.shields.io/badge/Tor_Project-%237D4698?style=for-the-badge&logo=TorProject&logoColor=white) | `![Tor Project](https://img.shields.io/badge/Tor_Project-%237D4698?style=for-the-badge&logo=TorProject&logoColor=white)` |
+
+
 
 [(Back to top)](#table-of-contents)
 
