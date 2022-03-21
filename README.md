@@ -566,10 +566,15 @@ _Note that these are things that go with k8 that don't deserve their own section
 
 | Name         | Badge                                                                                                                            | Markdown                                                                                                                           |
 |--------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Kubernetes   | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)         | `![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)`         |
-| Rancher      | ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)                  | `![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)`                  |
-| Traefik mesh | ![Traefik mesh](https://img.shields.io/badge/traefik%20mesh-%239D0FB0.svg?style=for-the-badge&logo=traefik-mesh&logoColor=white) | `![Traefik mesh](https://img.shields.io/badge/traefik%20mesh-%239D0FB0.svg?style=for-the-badge&logo=traefik-mesh&logoColor=white)` |
 | Istio        | ![Istio](https://img.shields.io/badge/istio-%23466BB0.svg?style=for-the-badge&logo=istio&logoColor=white)                        | `![Istio](https://img.shields.io/badge/istio-%23466BB0.svg?style=for-the-badge&logo=istio&logoColor=white)`                        |
+| Kubernetes   | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)         | `![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)`         |
+| K3's         | ![K3S](https://img.shields.io/badge/k3%27s-%23FFC61C.svg?style=for-the-badge&logo=k3s&logoColor=white)                           | `![K3S](https://img.shields.io/badge/k3%27s-%23FFC61C.svg?style=for-the-badge&logo=k3s&logoColor=white)`                           | <!-- @TODO: Fix this, not sure why it's not picking it up -->
+| Rancher      | ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)                  | `![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)`                  |
+| Lens         | ![Lens](https://img.shields.io/badge/lens-%233D90CE.svg?style=for-the-badge&logo=lens&logoColor=white)                           | `![Lens](https://img.shields.io/badge/lens-#3D90CE.svg?style=for-the-badge&logo=lens&logoColor=white)`                             | <!-- @TODO: Fix this, not sure why it's not picking it up -->
+| Traefik mesh | ![Traefik mesh](https://img.shields.io/badge/traefik%20mesh-%239D0FB0.svg?style=for-the-badge&logo=traefik-mesh&logoColor=white) | `![Traefik mesh](https://img.shields.io/badge/traefik%20mesh-%239D0FB0.svg?style=for-the-badge&logo=traefik-mesh&logoColor=white)` |
+
+
+
 
 [(Back to top)](#table-of-contents)
 ### 📋 Languages
