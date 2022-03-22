@@ -50,6 +50,7 @@ Add badges to your Profile and Projects.
      - [Network Routers](#routers)
      - [Search Engines](#search-engines)
      - [Servers](#servers)
+     - [Shops](#shops)
      - [Smartphone Brands](#smartphone-brands)
      - [Social](#social)
      - [Store](#store)
@@ -838,6 +839,23 @@ _Note that these are things that go with k8 that don't deserve their own section
 | Gunicorn       | ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)                  | `![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)`     |
 | Jenkins        | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)                   | `![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)`                   |
 | Nginx          | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)                         | `![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)`                         |
+
+[(Back to top)](#table-of-contents)
+
+### Shops
+
+| Name      | Badge                                                                                                             | Markdown                                                                                                            |
+|-----------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Aldi Nord | ![Aldi Nord](https://img.shields.io/badge/Aldi_Nord-%232490D7?style=for-the-badge&logo=AldiNord&logoColor=white)  | `![Aldi Nord](https://img.shields.io/badge/Aldi_Nord-%232490D7?style=for-the-badge&logo=AldiNord&logoColor=white)`  |
+| Aldi süd  | ![Aldi süd](https://img.shields.io/badge/Aldi_süd-%2300005F?style=for-the-badge&logo=Aldisud&logoColor=white)     | `![Aldi süd](https://img.shields.io/badge/Aldi_süd-%2300005F?style=for-the-badge&logo=Aldisud&logoColor=white)`     |
+| Carrefour | ![Carrefour](https://img.shields.io/badge/Carrefour-%23004E9F?style=for-the-badge&logo=Carrefour&logoColor=white) | `![Carrefour](https://img.shields.io/badge/Carrefour-%23004E9F?style=for-the-badge&logo=Carrefour&logoColor=white)` |
+| Co-op     | ![Co-op](https://img.shields.io/badge/Co_op-%2300B1E7?style=for-the-badge&logo=Coop&logoColor=white)              | `![Co-op](https://img.shields.io/badge/Co_op-%2300B1E7?style=for-the-badge&logo=Coop&logoColor=white)`              |
+| Lidl      | ![Lidl](https://img.shields.io/badge/Lidl-%230050AA?style=for-the-badge&logo=Lidl&logoColor=white)                | `![Lidl](https://img.shields.io/badge/Lidl-%230050AA?style=for-the-badge&logo=Lidl&logoColor=white)`                |
+| Morrisons | ![Morrisons](https://img.shields.io/badge/Morrisons-%23007531?style=for-the-badge&logo=Morrisons&logoColor=white) | `![Morrisons](https://img.shields.io/badge/Morrisons-%23007531?style=for-the-badge&logo=Morrisons&logoColor=white)` |
+| Target    | ![Target](https://img.shields.io/badge/Target-%23CC0000?style=for-the-badge&logo=Target&logoColor=white)          | `![Target](https://img.shields.io/badge/Target-%23CC0000?style=for-the-badge&logo=Target&logoColor=white)`          |
+| Tesco     | ![Tesco](https://img.shields.io/badge/Tesco-%2300539F?style=for-the-badge&logo=Tesco&logoColor=white)             | `![Tesco](https://img.shields.io/badge/Tesco-%2300539F?style=for-the-badge&logo=Tesco&logoColor=white)`             |
+| Walmart   | ![Walmart](https://img.shields.io/badge/Walmart-%230071CE?style=for-the-badge&logo=Walmart&logoColor=white)       | `![Walmart](https://img.shields.io/badge/Walmart-%230071CE?style=for-the-badge&logo=Walmart&logoColor=white)`       |
+
 
 [(Back to top)](#table-of-contents)
 
