@@ -12,7 +12,8 @@ Add badges to your Profile and Projects.
 - [License](#license)
 - [Badges](#badges)
   - <details> <summary>List of badges</summary>
- 
+  
+     - [Airlines](#airlines)
      - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
      - [Atlassian Products](#atlassian-products)
      - [Blog](#🅱%EF%B8%8F-blog)
@@ -123,6 +124,34 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 <hr>
 
 # Badges
+
+### Airlines
+
+| Name                    | Badge                                                                                                                                                     | Markdown                                                                                                                                                    |
+|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Aer Lingus              | ![Aer Lingus](https://img.shields.io/badge/Aer_Lingus-%23006272?style=for-the-badge&logo=AerLingus&logoColor=white)                                       | `![Aer Lingus](https://img.shields.io/badge/Aer_Lingus-%23006272?style=for-the-badge&logo=AerLingus&logoColor=white)`                                       |
+| Air Canada              | ![Air Canada](https://img.shields.io/badge/Air_Canada-%23F01428?style=for-the-badge&logo=AirCanada&logoColor=white)                                       | `![Air Canada](https://img.shields.io/badge/Air_Canada-%23F01428?style=for-the-badge&logo=AirCanada&logoColor=white)`                                       |
+| Air China               | ![Air China](https://img.shields.io/badge/Air_China-%23E30E17?style=for-the-badge&logo=AirChina&logoColor=white)                                          | `![Air China](https://img.shields.io/badge/Air_China-%23E30E17?style=for-the-badge&logo=AirChina&logoColor=white)`                                          |
+| Air France              | ![Air France](https://img.shields.io/badge/Air_France-%23002157?style=for-the-badge&logo=AirFrance&logoColor=white)                                       | `![Air France](https://img.shields.io/badge/Air_France-%23002157?style=for-the-badge&logo=AirFrance&logoColor=white)`                                       |
+| AirAsia                 | ![AirAsia](https://img.shields.io/badge/AirAsia-%23FF0000?style=for-the-badge&logo=AirAsia&logoColor=white)                                               | `![AirAsia](https://img.shields.io/badge/AirAsia-%23FF0000?style=for-the-badge&logo=AirAsia&logoColor=white)`                                               |
+| Alitalia                | ![Alitalia](https://img.shields.io/badge/Alitalia-%23006643?style=for-the-badge&logo=Alitalia&logoColor=white)                                            | `![Alitalia](https://img.shields.io/badge/Alitalia-%23006643?style=for-the-badge&logo=Alitalia&logoColor=white)`                                            |
+| American Airlines       | ![American Airlines](https://img.shields.io/badge/American_Airlines-%230078D2?style=for-the-badge&logo=AmericanAirlines&logoColor=white)                  | `![American Airlines](https://img.shields.io/badge/American_Airlines-%230078D2?style=for-the-badge&logo=AmericanAirlines&logoColor=white)`                  |
+| British Airways         | ![British Airways](https://img.shields.io/badge/British_Airways-%232E5C99?style=for-the-badge&logo=BritishAirways&logoColor=white)                        | `![British Airways](https://img.shields.io/badge/British_Airways-%232E5C99?style=for-the-badge&logo=BritishAirways&logoColor=white)`                        |
+| China Eastern Airlines  | ![China Eastern Airlines](https://img.shields.io/badge/China_Eastern_Airlines-%231A2477?style=for-the-badge&logo=ChinaEasternAirlines&logoColor=white)    | `![China Eastern Airlines](https://img.shields.io/badge/China_Eastern_Airlines-%231A2477?style=for-the-badge&logo=ChinaEasternAirlines&logoColor=white)`    |
+| China Southern Airlines | ![China Southern Airlines](https://img.shields.io/badge/China_Southern_Airlines-%23008BCB?style=for-the-badge&logo=ChinaSouthernAirlines&logoColor=white) | `![China Southern Airlines](https://img.shields.io/badge/China_Southern_Airlines-%23008BCB?style=for-the-badge&logo=ChinaSouthernAirlines&logoColor=white)` |
+| Easy Jet                | ![Easy Jet](https://img.shields.io/badge/Easy_Jet-%23FF6600?style=for-the-badge&logo=EasyJet&logoColor=white)                                             | `![Easy Jet](https://img.shields.io/badge/Easy_Jet-%23FF6600?style=for-the-badge&logo=EasyJet&logoColor=white)`                                             |
+| Emirates                | ![Emirates](https://img.shields.io/badge/Emirates-%23D71921?style=for-the-badge&logo=Emirates&logoColor=white)                                            | `![Emirates](https://img.shields.io/badge/Emirates-%23D71921?style=for-the-badge&logo=Emirates&logoColor=white)`                                            |
+| Ethiopian Airlines      | ![Ethiopian Airlines](https://img.shields.io/badge/Ethiopian_Airlines-%23648B1A?style=for-the-badge&logo=EthiopianAirlines&logoColor=white)               | `![Ethiopian Airlines](https://img.shields.io/badge/Ethiopian_Airlines-%23648B1A?style=for-the-badge&logo=EthiopianAirlines&logoColor=white)`               |
+| Etihad Airways          | ![Etihad Airways](https://img.shields.io/badge/Etihad_Airways-%23BD8B13?style=for-the-badge&logo=EtihadAirways&logoColor=white)                           | `![Etihad Airways](https://img.shields.io/badge/Etihad_Airways-%23BD8B13?style=for-the-badge&logo=EtihadAirways&logoColor=white)`                           |
+| LOT Polish Airlines     | ![LOT Polish Airlines](https://img.shields.io/badge/LOT_Polish_Airlines-%2311397E?style=for-the-badge&logo=LOTPolishAirlines&logoColor=white)             | `![LOT Polish Airlines](https://img.shields.io/badge/LOT_Polish_Airlines-%2311397E?style=for-the-badge&logo=LOTPolishAirlines&logoColor=white)`             |
+| Pegasus Airlines        | ![Pegasus Airlines](https://img.shields.io/badge/Pegasus_Airlines-%23FDC43E?style=for-the-badge&logo=PegasusAirlines&logoColor=white)                     | `![Pegasus Airlines](https://img.shields.io/badge/Pegasus_Airlines-%23FDC43E?style=for-the-badge&logo=PegasusAirlines&logoColor=white)`                     |
+| Ryan Air                | ![Ryan Air](https://img.shields.io/badge/Ryan_Air-%23073590?style=for-the-badge&logo=RyanAir&logoColor=white)                                             | `![Ryan Air](https://img.shields.io/badge/Ryan_Air-%23073590?style=for-the-badge&logo=RyanAir&logoColor=white)`                                             |
+| Qatar Airways           | ![Qatar Airways](https://img.shields.io/badge/Qatar_Airways-%235C0D34?style=for-the-badge&logo=QatarAirways&logoColor=white)                              | `![Qatar Airways](https://img.shields.io/badge/Qatar_Airways-%235C0D34?style=for-the-badge&logo=QatarAirways&logoColor=white)`                              |
+| Southwest Airlines      | ![Southwest Airlines](https://img.shields.io/badge/Southwest_Airlines-%23304CB2?style=for-the-badge&logo=SouthwestAirlines&logoColor=white)               | `![Southwest Airlines](https://img.shields.io/badge/Southwest_Airlines-%23304CB2?style=for-the-badge&logo=SouthwestAirlines&logoColor=white)`               |
+
+
+
+[(Back to top)](#table-of-contents)
 
 ### 🤖 Artificial Intelligence and Bots
 
