@@ -16,6 +16,7 @@ Add badges to your Profile and Projects.
      - [Airlines](#airlines)
      - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
      - [Atlassian Products](#atlassian-products)
+     - [Banks and Money dealing Companies](#banks-and-money-companies)
      - [Blog](#🅱%EF%B8%8F-blog)
      - [Blockchain](#-blockchain)
      - [Browsers](#-browsers)
@@ -175,6 +176,32 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
+
+### Banks and money companies
+
+| Name        | Badge                                                                                                                    | Markdown                                                                                                                   |
+|-------------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Alipay | ![Alipay](https://img.shields.io/badge/Alipay-%2300A1E9?style=for-the-badge&logo=Alipay&logoColor=white)|`![Alipay](https://img.shields.io/badge/Alipay-%2300A1E9?style=for-the-badge&logo=Alipay&logoColor=white)`|
+| Amazon Pay | ![Amazon Pay](https://img.shields.io/badge/Amazon_Pay-%23FF9900?style=for-the-badge&logo=AmazonPay&logoColor=white)|`![Amazon Pay](https://img.shields.io/badge/Amazon_Pay-%23FF9900?style=for-the-badge&logo=AmazonPay&logoColor=white)`|
+| American Express | ![American Express](https://img.shields.io/badge/American_Express-%232E77BC?style=for-the-badge&logo=AmericanExpress&logoColor=white)|`![American Express](https://img.shields.io/badge/American_Express-%232E77BC?style=for-the-badge&logo=AmericanExpress&logoColor=white)`|
+| Apple Pay | ![Apple Pay](https://img.shields.io/badge/Apple_Pay-%23000000?style=for-the-badge&logo=ApplePay&logoColor=white)|`![Apple Pay](https://img.shields.io/badge/Apple_Pay-%23000000?style=for-the-badge&logo=ApplePay&logoColor=white)`|
+| Bank Of America | ![Bank Of America](https://img.shields.io/badge/Bank_Of_America-%23012169?style=for-the-badge&logo=BankOfAmerica&logoColor=white)|`![Bank Of America](https://img.shields.io/badge/Bank_Of_America-%23012169?style=for-the-badge&logo=BankOfAmerica&logoColor=white)`|
+| Barclays | ![Barclays](https://img.shields.io/badge/Barclays-%2300AEEF?style=for-the-badge&logo=Barclays&logoColor=white)|`![Barclays](https://img.shields.io/badge/Barclays-%2300AEEF?style=for-the-badge&logo=Barclays&logoColor=white)`|
+| Chase | ![Chase](https://img.shields.io/badge/Chase-%23117ACA?style=for-the-badge&logo=Chase&logoColor=white)|`![Chase](https://img.shields.io/badge/Chase-%23117ACA?style=for-the-badge&logo=Chase&logoColor=white)`|
+| Commerzbank | ![Commerzbank](https://img.shields.io/badge/Commerzbank-%23FFCC33?style=for-the-badge&logo=Commerzbank&logoColor=white)|`![Commerzbank](https://img.shields.io/badge/Commerzbank-%23FFCC33?style=for-the-badge&logo=Commerzbank&logoColor=white)`|
+| Contactless Payment | ![Contactless Payment](https://img.shields.io/badge/Contactless_Payment-%23000000?style=for-the-badge&logo=ContactlessPayment&logoColor=white)|`![Contactless Payment](https://img.shields.io/badge/Contactless_Payment-%23000000?style=for-the-badge&logo=ContactlessPayment&logoColor=white)`|
+| Deutsche bank | ![Deutsche bank](https://img.shields.io/badge/Deutsche_bank-%230018A8?style=for-the-badge&logo=Deutschebank&logoColor=white)|`![Deutsche bank](https://img.shields.io/badge/Deutsche_bank-%230018A8?style=for-the-badge&logo=Deutschebank&logoColor=white)`|
+| Fampay | ![Fampay](https://img.shields.io/badge/Fampay-%23FFAD00?style=for-the-badge&logo=Fampay&logoColor=white)|`![Fampay](https://img.shields.io/badge/Fampay-%23FFAD00?style=for-the-badge&logo=Fampay&logoColor=white)`|
+| Google Pay | ![Google Pay](https://img.shields.io/badge/Google_Pay-%234285F4?style=for-the-badge&logo=GooglePay&logoColor=white)|`![Google Pay](https://img.shields.io/badge/Google_Pay-%234285F4?style=for-the-badge&logo=GooglePay&logoColor=white)`|
+| liberapay | ![liberapay](https://img.shields.io/badge/liberapay-%23F6C915?style=for-the-badge&logo=liberapay&logoColor=white)|`![liberapay](https://img.shields.io/badge/liberapay-%23F6C915?style=for-the-badge&logo=liberapay&logoColor=white)`|
+| Nubank | ![Nubank](https://img.shields.io/badge/Nubank-%23820AD1?style=for-the-badge&logo=Nubank&logoColor=white)|`![Nubank](https://img.shields.io/badge/Nubank-%23820AD1?style=for-the-badge&logo=Nubank&logoColor=white)`|
+| Paypal | ![Paypal](https://img.shields.io/badge/Paypal-%2300457C?style=for-the-badge&logo=Paypal&logoColor=white)|`![Paypal](https://img.shields.io/badge/Paypal-%2300457C?style=for-the-badge&logo=Paypal&logoColor=white)`|
+| Razorpay | ![Razorpay](https://img.shields.io/badge/Razorpay-%230C2451?style=for-the-badge&logo=Razorpay&logoColor=white)|`![Razorpay](https://img.shields.io/badge/Razorpay-%230C2451?style=for-the-badge&logo=Razorpay&logoColor=white)`|
+| Samsung Pay | ![Samsung Pay](https://img.shields.io/badge/Samsung_Pay-%231428A0?style=for-the-badge&logo=SamsungPay&logoColor=white)|`![Samsung Pay](https://img.shields.io/badge/Samsung_Pay-%231428A0?style=for-the-badge&logo=SamsungPay&logoColor=white)`|
+| Starling Bank | ![Starling Bank](https://img.shields.io/badge/Starling_Bank-%236935D3?style=for-the-badge&logo=StarlingBank&logoColor=white)|`![Starling Bank](https://img.shields.io/badge/Starling_Bank-%236935D3?style=for-the-badge&logo=StarlingBank&logoColor=white)`|
+
+
+[(Back to top)](#table-of-contents)
 
 ### 🥩 Blockchain
 
