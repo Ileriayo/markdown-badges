@@ -497,7 +497,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 🪡 IDEs/Editors
+### 💻 IDEs/Editors
 
 | Name               | Badge                                                                                                                                             | Markdown                                                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -515,6 +515,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | P5js Editor        | ![P5js Editor](https://img.shields.io/badge/p5.js%20editor-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)                                | `![p5js Editor](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)`                                         |
 | PhpStorm           | ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)        | `![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)`        |
 | PyCharm            | ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)                | `![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)`                |
+| Replit            | ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)                | `![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)`                |
 | Rider              | ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)             | `![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)`             |
 | Spyder             | ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)                                      | `![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)`                                      |
 | Sublime Text       | ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)                | `![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)`                |
