@@ -17,7 +17,7 @@
 
 5. Create a [Pull Request](https://docs.github.com/en/get-started/quickstart/contributing-to-projects#making-a-pull-request) with your proposed changes.
 
-Yayyy, You are all done with the steps! Now just seat back and watch while your Pull request is reviewed and ultimately merged. 🎊
+Yayyy, You are all done with the steps! Now just sit back and watch while your Pull request is reviewed and ultimately merged. 🎊
 
 <hr />
 
@@ -31,15 +31,15 @@ So, instead of a category titled **Google** for instance, Chrome would be placed
 
 Having the categories based on `who they are` will quickly become clumsy. And clumsy doesn't feel right.
 
-## 🖋️ When your badge doesn't fit into any of the existing category:
+## 🖋️ When your badge doesn't fit into any of the existing categories:
 We've covered lots of ground and categories but if you find that your new badge doesn't fit into an existing category, create a new one. It would be lovely having a new category around. 
 
-Some Guidelines to starting a new category:
-- Check the existing categories one more time to really really be sure your new badge won't fit into one. 😄
+Some Guidelines for starting a new category:
+- Check the existing categories one more time to be really sure your new badge won't fit into one. 😄
 - Use a simple title. For example, instead of `Banks and money companies`, use `Finance`
 - Use a title that obeys the `what they do` principle above.
 - Place your shiny new category in the right alphabetical position.
 
 <hr />
 
-##### Thanks again to ALL the [amazing contributors!](https://github.com/Ileriayo/markdown-badges/graphs/contributors)
+##### Thanks! again to ALL the [amazing contributors!](https://github.com/Ileriayo/markdown-badges/graphs/contributors) 🙏
