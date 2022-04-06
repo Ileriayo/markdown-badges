@@ -69,12 +69,13 @@ To use a badge:
 > <strong>Note:</strong> `for-the-badge` is the style that we chose for appearance purposes. Other styles are available at [https://shields.io/#styles](https://shields.io/#styles) and can be used with the badges here. Thanks, @kingthorin for mentioning this!
 
 
-Shields.io offers 4 styles, which are:
-- Plastic 
-- For-the-badge
-- Social  
-- Flat-square 
-- Flat 
+Shields.io offers 5 styles, which are:
+- Plastic  ![Plastic](https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic)
+- Flat-square   ![Flat-square](https://shields.io/badge/style-flat--square-green?logo=appveyor&style=flat-square)
+- Flat   ![Flat](https://shields.io/badge/style-flat-green?logo=appveyor&style=flat)
+- Social   ![Social](https://shields.io/badge/style-social-green?logo=appveyor&style=social)
+- For-the-badge   ![For-the-badge](https://shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge)
+
 
 💡 To use a different style: Replace `for-the-badge` in the markdown link with any of the styles above.
 ```
