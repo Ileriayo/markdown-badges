@@ -14,7 +14,7 @@ Add badges to your Profile and Projects.
   - <details> <summary>List of badges</summary>
  
      - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
-     - [Blog](#🅱%EF%B8%8F-blog)
+     - [Blog](#-blog)
      - [Blockchain](#-blockchain)
      - [Browsers](#-browsers)
      - [CD](#-cd)
@@ -33,22 +33,22 @@ Add badges to your Profile and Projects.
      - [Hosting/SaaS](#-hostingsaas)
      - [IDEs/Editors](#-ideseditors)
      - [Languages](#-languages)
-     - [ML/DL](#-mldl)
+     - [ML/DL](#%EF%B8%8F-mldl)
      - [Music](#-music)
      - [Office](#-office)
      - [Operating System](#%EF%B8%8F-operating-system)
      - [ORM](#-orm)
      - [Other](#-other)
-     - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
-     - [Search Engines](#search-engines)
-     - [Servers](#servers)
-     - [Smartphone Brands](#smartphone-brands)
-     - [Social](#social)
-     - [Store](#store)
-     - [Streaming](#streaming)
-     - [Testing](#testing)
-     - [Version Control](#version-control)
-     - [Work/Jobs](#workjobs)
+     - [Quantum Programming Frameworks and Libraries](#%EF%B8%8F-quantum-programming-frameworks-and-libraries)
+     - [Search Engines](#-search-engines)
+     - [Servers](#%EF%B8%8F-servers)
+     - [Smartphone Brands](#-smartphone-brands)
+     - [Social](#-social)
+     - [Store](-#store)
+     - [Streaming](#-streaming)
+     - [Testing](#-testing)
+     - [Version Control](#-version-control)
+     - [Work/Jobs](#-workjobs)
    </details>
 
 
@@ -127,7 +127,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 🥩 Blockchain
+### 🔗 Blockchain
 
 | Name        | Badge                                                                                                                | Markdown                                                                                                               |
 | ----------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -135,7 +135,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 🅱️ Blog
+### 📝 Blog
 
 | Name       | Badge                                                                                                             | Markdown                                                                                                            |
 | ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -166,7 +166,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 🎷 CI
+### 🔬 CI
 
 | Name           | Badge                                                                                                                                 | Markdown                                                                                                                                |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -177,7 +177,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 😶 CD
+### 📲 CD
 
 | Name           | Badge                                                                                                                          | Markdown                                                                                                                         |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -185,7 +185,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 👜 Cloud Storage
+### 📂 Cloud Storage
 
 | Name         | Badge                                                                                                                    | Markdown                                                                                                                   |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
@@ -196,7 +196,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 🛒 Cryptocurrency
+### 💲 Cryptocurrency
 
 | Name         | Badge                                                                                                                       | Markdown                                                                                                                      |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -281,7 +281,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 🤴 Developer/Forums
+### 🧑‍💻 Developer/Forums
 
 | Name           | Badge                                                                                                                                 | Markdown                                                                                                                                |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -310,7 +310,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 🧑‍🏫 Education
+### 🎓 Education
 
 | Name            | Badge                                                                                                                        | Markdown                                                                                                                       |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -583,7 +583,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### 🍗 ML/DL
+### 🖥️ ML/DL
 
 | Name         | Badge                                                                                                                           | Markdown                                                                                                                          |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -726,7 +726,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### Quantum Programming Frameworks and Libraries
+### 🖥️ Quantum Programming Frameworks and Libraries
 
 | Name   | Badge                                                                                                        | Markdown                                                                                                       |
 | ------ | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
@@ -734,7 +734,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### Search Engines
+### 🔍 Search Engines
 
 | Name       | Badge                                                                                                                   | Markdown                                                                                                                  |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -746,7 +746,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### Servers
+### 🗄️ Servers
 
 | Name           | Badge                                                                                                                               | Markdown                                                                                                                              |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -762,7 +762,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### Social
+### 💬 Social
 
 | Name        | Badge                                                                                                                        | Markdown                                                                                                                       |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -809,7 +809,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### Smartphone Brands
+### 📱 Smartphone Brands
 
 | Name       | Badge                                                                                                                 | Markdown                                                                                                                |
 | ---------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -827,7 +827,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### Store
+### 🛍️ Store
 
 | Name       | Badge                                                                                                               | Markdown                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -837,7 +837,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### Streaming
+### 📺 Streaming
 
 | Name            | Badge                                                                                                                             | Markdown                                                                                                                            |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -854,7 +854,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### Testing
+### 🧪 Testing
 
 | Name            | Badge                                                                                                                               | Markdown                                                                                                                              |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -867,7 +867,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### Version Control
+### 🕓 Version Control
 
 | Name           | Badge                                                                                                                      | Markdown                                                                                                                     |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -883,7 +883,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### Work/Jobs
+### 💼 Work/Jobs
 
 | Name         | Badge                                                                                                                      | Markdown                                                                                                                     |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
