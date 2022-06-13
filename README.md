@@ -42,7 +42,6 @@ Add badges to your Profile and Projects.
      - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
      - [Search Engines](#search-engines)
      - [Servers](#servers)
-     - [Smartphone Brands](#wearable-brands)
      - [Smartphone Brands](#smartphone-brands)
      - [Social](#social)
      - [Store](#store)
