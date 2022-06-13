@@ -811,6 +811,14 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
+### Wearable Brands
+
+| Name       | Badge                                                                                                                 | Markdown                                                                                                                |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Fitbit      | ![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)             | `![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)`             |
+
+[(Back to top)](#table-of-contents)
+
 ### Smartphone Brands
 
 | Name       | Badge                                                                                                                 | Markdown                                                                                                                |
@@ -851,6 +859,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Fire TV         | ![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?style=for-the-badge&logo=amazon%20fire%20tv&logoColor=white)             | `![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?style=for-the-badge&logo=amazon%20fire%20tv&logoColor=white)`             |
 | Hulu            | ![Hulu](https://img.shields.io/badge/hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)                                   | `![Hulu](https://img.shields.io/badge/hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)`                                   |
 | Netflix         | ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)                          | `![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)`                          |
+| Roku  | ![Roku](https://img.shields.io/badge/roku-6f1ab1?style=for-the-badge&logo=roku&logoColor=white)    | `![Roku](https://img.shields.io/badge/roku-6f1ab1?style=for-the-badge&logo=roku&logoColor=white)`    |
 | Twitch          | ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)                             | `![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)`                             |
 | Youtube Gaming  | ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)    | `![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)`    |
 
