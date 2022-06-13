@@ -42,12 +42,14 @@ Add badges to your Profile and Projects.
      - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
      - [Search Engines](#search-engines)
      - [Servers](#servers)
+     - [Smartphone Brands](#wearable-brands)
      - [Smartphone Brands](#smartphone-brands)
      - [Social](#social)
      - [Store](#store)
      - [Streaming](#streaming)
      - [Testing](#testing)
      - [Version Control](#version-control)
+     - [Wearables](#wearables)
      - [Work/Jobs](#workjobs)
    </details>
 
@@ -811,14 +813,6 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### Wearable Brands
-
-| Name       | Badge                                                                                                                 | Markdown                                                                                                                |
-| ---------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Fitbit      | ![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)             | `![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)`             |
-
-[(Back to top)](#table-of-contents)
-
 ### Smartphone Brands
 
 | Name       | Badge                                                                                                                 | Markdown                                                                                                                |
@@ -891,6 +885,14 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Gitpod         | ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)                  | `![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)`                  |
 | Mercurial      | ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)         | `![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)`         |
 | Perforce Helix | ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white) | `![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)` |
+
+[(Back to top)](#table-of-contents)
+
+### Wearables
+
+| Name       | Badge                                                                                                                 | Markdown                                                                                                                |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Fitbit      | ![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)             | `![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)`             |
 
 [(Back to top)](#table-of-contents)
 
