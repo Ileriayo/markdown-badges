@@ -15,7 +15,7 @@
 
     > **:fire: Important:** All of the badges are ordered alphabetically. Hence, while contributing, make sure to order to add the new badges in an alphabetical order.
 
-    > **:bulb: Tip:** You can check available icons for your `<badge>` in [Simple Icons slugs](https://github.com/simple-icons/simple-icons/blob/develop/slugs.md).
+    > **:bulb: Tip:** You can check available icons for your `<badge>` in [Simple Icons slugs](https://github.com/simple-icons/simple-icons/blob/develop/slugs.md) or [Simple Icons website](https://simpleicons.org/).
 
 5. Create a [Pull Request](https://docs.github.com/en/get-started/quickstart/contributing-to-projects#making-a-pull-request) with your proposed changes.
 
