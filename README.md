@@ -525,7 +525,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Render        | ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)                       | `![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)`                       |
 | Scaleway      | ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)              | `![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)`              |
 | Vercel        | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)                    | `![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)`                    |
-| Vultr         | ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)                                          | `![Vercel](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)`                                         |
+| Vultr         | ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)                                          | `![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)`                                         |
 
 [(Back to top)](#table-of-contents)
 
@@ -604,7 +604,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Solidity         | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)                           | `![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)`                             |
 | Swift            | ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)                                           | `![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)`                                             |
 | TypeScript       | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)                     | `![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)`                       |
-| Windows Terminal | ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) | `![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)` |
+| Windows Terminal | ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) | `![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)` |
 | Zig              | ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)                                          | `![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)`                                            |
 
 [(Back to top)](#table-of-contents)
