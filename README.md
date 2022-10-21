@@ -215,7 +215,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | `![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)` |
 | TeamCity       | ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)                       | `![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)`                       |
 | Travis CI      | ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)                   | `![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)`                   |
-| Azure DevOps   | ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%23.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>)          | `![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%23.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>)`          |
+| Azure DevOps   | ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230E86D4.svg?style=for-the-badge&logo=AzureDevOps&logoColor=white)          | `![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230E86D4.svg?style=for-the-badge&logo=AzureDevOps&logoColor=white)`          |
 
 [(Back to top)](#table-of-contents)
 
