@@ -1,20 +1,11 @@
 ## Description
-<!-- For example, Render is a ....  -->
+<!-- Render is a ....  -->
 
 ## Info
-<!-- Badge Name: Render -->
-Badge Name: 
-
-<!-- Badge Category: Frameworks -->
-Badge Category: 
-
-
-<!-- Background Color(Hex): #46E3B7 -->
-Background Color: 
-
-
-<!-- Logo Color(Hex): #FFFFFF -->
-Logo Color: 
+<!-- This is an example. Replace with badge details-->
+|Name|Category|Background Color|Logo Color|
+|:--:|:--:|:--:|:--:|
+Quill|ORM| `#52B0E7`|`#ffffff`
 
 
 ## Preview
