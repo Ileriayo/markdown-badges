@@ -168,7 +168,9 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Vivaldi       | ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)                    | `![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)`                    |
 
 [(Back to top)](#table-of-contents)
+
 ### 📐 CAD
+
 | Name          | Badge                                                                                                                       | Markdown                                                                                                                      |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Altium Designer | ![Altium Designer](https://img.shields.io/badge/altiumdesigner-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white) | `![Altium Designer](https://img.shields.io/badge/altiumdesigner-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)`|
