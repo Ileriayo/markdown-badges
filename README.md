@@ -17,6 +17,7 @@ Add badges to your Profile and Projects.
      - [Blog](#-blog)
      - [Blockchain](#-blockchain)
      - [Browsers](#-browsers)
+	 - [CAD](#-cad)
      - [CD](#-cd)
      - [CI](#-ci)
      - [Cloud Storage](#-cloud-storage)
@@ -167,7 +168,14 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Vivaldi       | ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)                    | `![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)`                    |
 
 [(Back to top)](#table-of-contents)
+### 📐 CAD
+| Name          | Badge                                                                                                                       | Markdown                                                                                                                      |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Altium Designer | ![Altium Designer](https://img.shields.io/badge/altiumdesigner-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white) | `!|[Altium Designer](https://img.shields.io/badge/altiumdesigner-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)`|
+| KiCad           | ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)                             | `![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)`                             |
 
+[(Back to top)](#table-of-contents)
+   
 ### 🔬 CI
 
 | Name           | Badge                                                                                                                                 | Markdown                                                                                                                                |
@@ -793,7 +801,6 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Wireguard      | ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)                  | `![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)`                  |
 | XFCE           | ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)                                 | `![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)`                                 |
 | Zigbee         | ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)                           | `![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)`                           |
-| KiCAD          | ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)                              | `![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)`                              |
 
 [(Back to top)](#table-of-contents)
 
