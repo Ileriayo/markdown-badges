@@ -907,7 +907,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | ---------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | App Store  | ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)      | `![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)`      |
 | F-Droid    | ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)            | `![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)`            |
-| Play Store | ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) | `![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)` |
+| Play Store | ![Play Store](https://img.shields.io/badge/google%20play-%23green.svg?style=for-the-badge&logo=googleplay&logoColor=white) | `![Play Store](https://img.shields.io/badge/google%20play-%23green.svg?style=for-the-badge&logo=googleplay&logoColor=white)` |
 
 [(Back to top)](#table-of-contents)
 
