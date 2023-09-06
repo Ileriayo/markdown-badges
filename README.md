@@ -801,6 +801,25 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
+
+###  💻 Terminal
+
+| Name               | Badge                                                                                                                                           | Markdown                                                                                                                                          |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ALACRITTY            | ![Alacritty](https://res.cloudinary.com/practicaldev/image/fetch/s--LFvGfZyR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/alacritty-F46D01%3Fstyle%3Dfor-the-badge%26logo%3Dalacritty%26logoColor%3Dwhite)                                                 | `![.Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&amp;logo=alacritty&amp;logoColor=white)`     
+|
+| Git         | ![Git](https://res.cloudinary.com/practicaldev/image/fetch/s--ndcdzj74--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/GIT-E44C30%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite)                              | `![https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white)`                              |
+| GNU BASH           | ![GNU BASH](https://res.cloudinary.com/practicaldev/image/fetch/s--tyBWVMv0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/GNU%2520Bash-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3DGNU%2520Bash%26logoColor%3Dwhite)                              | `![GNU BASH](	https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)`                              |                                |
+| POWERSHELL       | ![POWERSHELL](https://res.cloudinary.com/practicaldev/image/fetch/s--UHZvjiJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/powershell-5391FE%3Fstyle%3Dfor-the-badge%26logo%3Dpowershell%26logoColor%3Dwhite)                         | `![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)`                         |
+| ITERM        | ![ITERM](https://res.cloudinary.com/practicaldev/image/fetch/s--XhY2xQy0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/iTerm-000000%3Fstyle%3Dfor-the-badge%26logo%3Diterm2%26logoColor%3Dwhite) |`![Iterm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)`                            |
+| HYPER    | ![HYPER](https://res.cloudinary.com/practicaldev/image/fetch/s--dyXvHtBt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Hyper-000000%3Fstyle%3Dfor-the-badge%26logo%3Dhyper%26logoColor%3Dwhite)                          | `![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&amp;logo=hyper&amp;logoColor=white)`                        |`                                           |                   |
+| STARSHIP       | ![STARSHIP](https://res.cloudinary.com/practicaldev/image/fetch/s--CaR6V7Q_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/starship-DD0B78%3Fstyle%3Dfor-the-badge%26logo%3Dstarship%26logoColor%3Dwhite)                           | `![starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)`                           |
+| TMUX     | ![TMUX](https://res.cloudinary.com/practicaldev/image/fetch/s--91eA8f0w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/tmux-1BB91F%3Fstyle%3Dfor-the-badge%26logo%3Dtmux%26logoColor%3Dwhite)                                   | `![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white`                                   |
+| WINDOWS TERMINAL            | ![windows terminal](https://res.cloudinary.com/practicaldev/image/fetch/s--r_fbuxxq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/windows%2520terminal-4D4D4D%3Fstyle%3Dfor-the-badge%26logo%3Dwindows%2520terminal%26logoColor%3Dwhite)                                   | `![windowsterminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)`                                   |
+
+[(Back to top)](#table-of-contents)
+
+
 ### 🖥️ Quantum Programming Frameworks and Libraries
 
 | Name   | Badge                                                                                                        | Markdown                                                                                                       |
