@@ -8,49 +8,47 @@ Add badges to your Profile and Projects.
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
 - [Tips](#tips)
-- [Contribution](#contribution)
-- [License](#license)
+  - [Contribution](#contribution)
+  - [Contact](#contact)
+  - [License](#license)
 - [Badges](#badges)
-  - <details> <summary>List of badges</summary>
- 
-     - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
-     - [Blog](#-blog)
-     - [Blockchain](#-blockchain)
-     - [Browsers](#-browsers)
-     - [CD](#-cd)
-     - [CI](#-ci)
-     - [Cloud Storage](#-cloud-storage)
-     - [Cryptocurrency](#-cryptocurrency)
-     - [Databases](#-databases)
-     - [Design](#-design)
-     - [Developer/Forums](#-developerforums)
-     - [Documentation Platforms](#-documentation-platforms)
-     - [Education](#-education)
-     - [Funding](#-funding)
-     - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
-     - [Gaming](#-gaming)
-     - [Game Consoles](#%EF%B8%8F-game-consoles)
-     - [Hosting/SaaS](#-hostingsaas)
-     - [IDEs/Editors](#-ideseditors)
-     - [Languages](#-languages)
-     - [ML/DL](#%EF%B8%8F-mldl)
-     - [Music](#-music)
-     - [Office](#-office)
-     - [Operating System](#%EF%B8%8F-operating-system)
-     - [ORM](#-orm)
-     - [Other](#-other)
-     - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
-     - [Search Engines](#search-engines)
-     - [Servers](#servers)
-     - [Smartphone Brands](#smartphone-brands)
-     - [Social](#social)
-     - [Store](#store)
-     - [Streaming](#streaming)
-     - [Testing](#testing)
-     - [Version Control](#version-control)
-     - [Wearables](#wearables)
-     - [Work/Jobs](#workjobs)
-   </details>
+    - [🤖 Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
+    - [🔗 Blockchain](#-blockchain)
+    - [📝 Blog](#-blog)
+    - [🌐 Browsers](#-browsers)
+    - [🔬 CI](#-ci)
+    - [📲 CD](#-cd)
+    - [📂 Cloud Storage](#-cloud-storage)
+    - [💲 Cryptocurrency](#-cryptocurrency)
+    - [💾 Databases](#-databases)
+    - [🎨 Design](#-design)
+    - [🧑‍💻 Developer/Forums](#-developerforums)
+    - [📑 Documentation Platforms](#-documentation-platforms)
+    - [🎓 Education](#-education)
+    - [💰 Funding](#-funding)
+    - [📚 Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
+    - [🎮 Gaming](#-gaming)
+    - [🕹️ Game Consoles](#️-game-consoles)
+    - [☁️ Hosting/SaaS](#️-hostingsaas)
+    - [💻 IDEs/Editors](#-ideseditors)
+    - [📋 Languages](#-languages)
+    - [🖥️ ML/DL](#️-mldl)
+    - [🎶 Music](#-music)
+    - [🏢 Office](#-office)
+    - [🎛️ Operating System](#️-operating-system)
+    - [🎋 ORM](#-orm)
+    - [🥅 Other](#-other)
+    - [🖥️ Quantum Programming Frameworks and Libraries](#️-quantum-programming-frameworks-and-libraries)
+    - [🔍 Search Engines](#-search-engines)
+    - [🗄️ Servers](#️-servers)
+    - [💬 Social](#-social)
+    - [📱 Smartphone Brands](#-smartphone-brands)
+    - [🛍️ Store](#️-store)
+    - [📺 Streaming](#-streaming)
+    - [🧪 Testing](#-testing)
+    - [🕓 Version Control](#-version-control)
+    - [⌚️ Wearables](#️-wearables)
+    - [💼 Work/Jobs](#-workjobs)
 
 
 # Usage
@@ -301,6 +299,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | CodeChef       | ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)                    | `![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)`                    |
 | Codeforces     | ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)                     | `![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)`                     |
 | CodePen        | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)                              | `![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)`                              |
+| Frontend Mentor| ![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-%233F54A3.svg?style=for-the-badge&logo=frontendmentor&logoColor=white)| `![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-%233F54A3.svg?style=for-the-badge&logo=frontendmentor&logoColor=white)` |
 | Hackerearth    | ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)           | `![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)`              |               
 | Hackerrank    | ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)                     | `![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)`              |    
 | LeetCode       | ![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)                         | `![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)`                         |
@@ -409,6 +408,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Fastify            | ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)                                 | `![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)`                                 |
 | Flask              | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)                                          | `![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)`                                          |
 | Flutter            | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)                                 | `![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)`                                 |
+| Font Awesome       | ![Font Awesome](https://img.shields.io/badge/Font_Awesome-%23FFFFFF.svg?style=for-the-badge&logo=fontawesome&logoColor=528DD7)                  | `![Font Awesome](https://img.shields.io/badge/Font_Awesome-%23FFFFFF.svg?style=for-the-badge&logo=fontawesome&logoColor=528DD7)`                   |
 | Gatsby.js          | ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)                                    | `![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)`                                    |
 | Green Sock         | ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)                              | `![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)`                              |
 | Gulp               | ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)                                          | `![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)`                                          |
@@ -437,6 +437,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | OpenGL             | ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)                                                    | `![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)`                                                    |
 | P5js               | ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)                                              | `![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)`                                              |
 | PNPM               | ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)                                              | `![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)`                                              |
+| PostCSS            | ![PostCSS](https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white)                                 | `![PostCSS](https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white)`                                 |
 |Prefect             |![Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)                                  | `![Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)`                                 |
 | Pug                | ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)                                                      | `![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)`                                                      |
 | Qt                 | ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)                                                | `![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)`                                                |
