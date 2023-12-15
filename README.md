@@ -8,49 +8,47 @@ Add badges to your Profile and Projects.
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
 - [Tips](#tips)
-- [Contribution](#contribution)
-- [License](#license)
+  - [Contribution](#contribution)
+  - [Contact](#contact)
+  - [License](#license)
 - [Badges](#badges)
-  - <details> <summary>List of badges</summary>
- 
-     - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
-     - [Blog](#-blog)
-     - [Blockchain](#-blockchain)
-     - [Browsers](#-browsers)
-     - [CD](#-cd)
-     - [CI](#-ci)
-     - [Cloud Storage](#-cloud-storage)
-     - [Cryptocurrency](#-cryptocurrency)
-     - [Databases](#-databases)
-     - [Design](#-design)
-     - [Developer/Forums](#-developerforums)
-     - [Documentation Platforms](#-documentation-platforms)
-     - [Education](#-education)
-     - [Funding](#-funding)
-     - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
-     - [Gaming](#-gaming)
-     - [Game Consoles](#%EF%B8%8F-game-consoles)
-     - [Hosting/SaaS](#-hostingsaas)
-     - [IDEs/Editors](#-ideseditors)
-     - [Languages](#-languages)
-     - [ML/DL](#%EF%B8%8F-mldl)
-     - [Music](#-music)
-     - [Office](#-office)
-     - [Operating System](#%EF%B8%8F-operating-system)
-     - [ORM](#-orm)
-     - [Other](#-other)
-     - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
-     - [Search Engines](#search-engines)
-     - [Servers](#servers)
-     - [Smartphone Brands](#smartphone-brands)
-     - [Social](#social)
-     - [Store](#store)
-     - [Streaming](#streaming)
-     - [Testing](#testing)
-     - [Version Control](#version-control)
-     - [Wearables](#wearables)
-     - [Work/Jobs](#workjobs)
-   </details>
+    - [🤖 Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
+    - [🔗 Blockchain](#-blockchain)
+    - [📝 Blog](#-blog)
+    - [🌐 Browsers](#-browsers)
+    - [🔬 CI](#-ci)
+    - [📲 CD](#-cd)
+    - [📂 Cloud Storage](#-cloud-storage)
+    - [💲 Cryptocurrency](#-cryptocurrency)
+    - [💾 Databases](#-databases)
+    - [🎨 Design](#-design)
+    - [🧑‍💻 Developer/Forums](#-developerforums)
+    - [📑 Documentation Platforms](#-documentation-platforms)
+    - [🎓 Education](#-education)
+    - [💰 Funding](#-funding)
+    - [📚 Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
+    - [🎮 Gaming](#-gaming)
+    - [🕹️ Game Consoles](#️-game-consoles)
+    - [☁️ Hosting/SaaS](#️-hostingsaas)
+    - [💻 IDEs/Editors](#-ideseditors)
+    - [📋 Languages](#-languages)
+    - [🖥️ ML/DL](#️-mldl)
+    - [🎶 Music](#-music)
+    - [🏢 Office](#-office)
+    - [🎛️ Operating System](#️-operating-system)
+    - [🎋 ORM](#-orm)
+    - [🥅 Other](#-other)
+    - [🖥️ Quantum Programming Frameworks and Libraries](#️-quantum-programming-frameworks-and-libraries)
+    - [🔍 Search Engines](#-search-engines)
+    - [🗄️ Servers](#️-servers)
+    - [💬 Social](#-social)
+    - [📱 Smartphone Brands](#-smartphone-brands)
+    - [🛍️ Store](#️-store)
+    - [📺 Streaming](#-streaming)
+    - [🧪 Testing](#-testing)
+    - [🕓 Version Control](#-version-control)
+    - [⌚️ Wearables](#️-wearables)
+    - [💼 Work/Jobs](#-workjobs)
 
 
 # Usage
@@ -620,6 +618,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Nim              | ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)                                          | `![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)`                                            |
 | Nix              | ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)                                          | `![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)`                                            |
 | Objective-C      | ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)                      | `![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)`                        |
+| OCaml            | ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)                                    | `![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)`                            |
 | Octave           | ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)                                     | `![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)`                                       |
 | Org Mode         | ![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white)                                 | `![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white)`                                          |
 | Perl             | ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)                                       | `![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)`                                         |
@@ -789,6 +788,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | SonarQube         | ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)                      | `![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)`                           |
 | Splunk         | ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)                           | `![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)`                           |
 | Swagger        | ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)                          | `![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)`                          |
+| Tableau        | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)                               | `![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)`                               |
 | TOR            | ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)                            | `![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)`                            |
 | Terraform      | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)                  | `![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)`                  |
 | Trello         | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)                           | `![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)`                           |
