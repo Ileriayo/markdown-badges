@@ -1,6 +1,12 @@
 ---
+name: 'Badge_Request'
+about: 'A issue template used to request a Badge'
+title: 'Badge Request: [Your Badge]'
+labels: ''
+assignees: ''
 
-# BADGE_REQUEST: [Name Of Your Badge]<!--Add the name of the badge you want to see in this repository or like to be created by this project for others to use-->
+---
+
 
 Hi I'm @[Your Github Id here].
 
@@ -18,4 +24,3 @@ Hi I'm @[Your Github Id here].
 
 **Thank You**
 
----
