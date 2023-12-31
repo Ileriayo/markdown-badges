@@ -4,6 +4,7 @@ Hi I'm @[Your Github Id here].
 
 ## Description:
 <!--Detailed description of the badge you want to see that is the product information and its category-->
+<!--Add a link of teh product/badge with information of it if possible-->
 **NAME**: [Name of the Product/Badge]  
 <br>
 **CATEGORY**: [Category of the Badge, like IDE, Language etc]
