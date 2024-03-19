@@ -538,6 +538,15 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
+### 🖥️ Hardware
+
+| Name       | Badge                                                                                                                 | Markdown                                                                                                                |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Alienware      | ![Alienware](https://img.shields.io/badge/Alienware-%23541BAE.svg?style=for-the-badge&logo=alienware&logoColor=white)             | `![Alienware](https://img.shields.io/badge/Alienware-%23541BAE.svg?style=for-the-badge&logo=alienware&logoColor=white)`             |
+
+[(Back to top)](#table-of-contents)
+
+
 ### ☁️ Hosting/SaaS
 
 | Name          | Badge                                                                                                                           | Markdown                                                                                                                          |
@@ -1006,3 +1015,5 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 
 [(Back to top)](#table-of-contents)
+
+
