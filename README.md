@@ -683,6 +683,27 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
+### ⚙️ Mechanical Design
+
+| Name            | Badge                                                                                                                           | Markdown                                                                                                                          |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Altium Designer | ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A89663?style=for-the-badge&logo=altiumdesigner&logoColor=white) | `![Altium Designer](https://img.shields.io/badge/Altium_Designer-A89663?style=for-the-badge&logo=altiumdesigner&logoColor=white)` |
+| Ansys           | ![Ansys](https://img.shields.io/badge/Ansys-F7BB29?style=for-the-badge&logo=ansys&logoColor=black)                              | `![Ansys](https://img.shields.io/badge/Ansys-F7BB29?style=for-the-badge&logo=ansys&logoColor=black)`                              |
+| AutoCAD         | ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE252B?style=for-the-badge&logo=autocad&logoColor=white)                        | `![AutoCAD](https://img.shields.io/badge/AutoCAD-EE252B?style=for-the-badge&logo=autocad&logoColor=white)`                        |
+| Autodesk Eagle  | ![Autodesk Eagle](https://img.shields.io/badge/Autodesk_Eagle-EB8621?style=for-the-badge)                                       | `![Autodesk Eagle](https://img.shields.io/badge/Autodesk_Eagle-EB8621?style=for-the-badge)`                                       |
+| Catia           | ![Catia](https://img.shields.io/badge/Catia-172983?style=for-the-badge&logo=dassaultsystemes&logoColor=white)                   | `![Catia](https://img.shields.io/badge/Catia-172983?style=for-the-badge&logo=dassaultsystemes&logoColor=white)`                   |
+| Flux AI         | ![Flux AI](https://img.shields.io/badge/Flux_AI-30BE97?style=for-the-badge)                                                     | `![Flux AI](https://img.shields.io/badge/Flux_AI-30BE97?style=for-the-badge)`                                                     |
+| FreeCAD         | ![FreeCAD](https://img.shields.io/badge/FreeCAD-FF2E01?style=for-the-badge)                                                     | `![FreeCAD](https://img.shields.io/badge/FreeCAD-FF2E01?style=for-the-badge)`                                                     |
+| Easy EDA        | ![Easy EDA](https://img.shields.io/badge/EasyEDA-5488FF?style=for-the-badge&logo=easyeda&logoColor=white)                       | `![Easy EDA](https://img.shields.io/badge/EasyEDA-5488FF?style=for-the-badge&logo=easyeda&logoColor=white)`                       |
+| KiCAD           | ![KiCAD](https://img.shields.io/badge/KiCAD-26368E?style=for-the-badge&logo=kicad&logoColor=white)                              | `![KiCAD](https://img.shields.io/badge/KiCAD-26368E?style=for-the-badge&logo=kicad&logoColor=white)`                              |
+| Multisim        | ![Multisim](https://img.shields.io/badge/Multisim-4D4D4F?style=for-the-badge&logo=multisim&logoColor=605891)                    | `![Multisim](https://img.shields.io/badge/Multisim-4D4D4F?style=for-the-badge&logo=multisim&logoColor=605891)`                    |
+| OpenScad        | ![OpenScad](https://img.shields.io/badge/OpenScad-FBE64F?style=for-the-badge&logo=openscad&logoColor=black)                     | `![OpenScad](https://img.shields.io/badge/OpenScad-FBE64F?style=for-the-badge&logo=openscad&logoColor=black)`                     |
+| Proteus         | ![Proteus](https://img.shields.io/badge/Proteus-006175?style=for-the-badge&logo=proteus&logoColor=white)                        | `![Proteus](https://img.shields.io/badge/Proteus-006175?style=for-the-badge&logo=proteus&logoColor=white)`                        |
+| SolidWorks      | ![SolidWorks](https://img.shields.io/badge/SolidWorks-E41B13?style=for-the-badge&logo=dassaultsystemes&logoColor=white)         | `![SolidWorks](https://img.shields.io/badge/SolidWorks-E41B13?style=for-the-badge&logo=dassaultsystemes&logoColor=white)`         |
+| TinkerCAD       | ![TinkerCAD](https://img.shields.io/badge/TinkerCAD-105FA7?style=for-the-badge&logo=tinkercad&logoColor=white)                  | `![TinkerCAD](https://img.shields.io/badge/TinkerCAD-105FA7?style=for-the-badge&logo=tinkercad&logoColor=white)`                  |
+
+[(Back to top)](#table-of-contents)
+
 ### <img src=https://raw.githubusercontent.com/Manuel-Baez-Ponce/markdown-badges/master/assets/Images/micro.png height=20px> Microcontrollers/Microprocessors
 
 | Name                 | Badge                                                                                                                                          | Markdown                                                                                                                                         |
@@ -702,27 +723,6 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | StMicroelectronics   | ![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics)                      | `![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics)`                      |
 | Texas Instruments    | ![Texas Instruments](https://img.shields.io/badge/Texas_Instruments-F90300?style=for-the-badge)                                                | `![Texas Instruments](https://img.shields.io/badge/Texas_Instruments-F90300?style=for-the-badge)`                                                |
 | WCH                  | ![WCH](https://img.shields.io/badge/WCH-00428D?style=for-the-badge)                                                                            | `![WCH](https://img.shields.io/badge/WCH-00428D?style=for-the-badge)`                                                                            |
-
-[(Back to top)](#table-of-contents)
-
-### ⚙️ Mechanical Design
-
-| Name            | Badge                                                                                                                           | Markdown                                                                                                                          |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Altium Designer | ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A89663?style=for-the-badge&logo=altiumdesigner&logoColor=white) | `![Altium Designer](https://img.shields.io/badge/Altium_Designer-A89663?style=for-the-badge&logo=altiumdesigner&logoColor=white)` |
-| Ansys           | ![Ansys](https://img.shields.io/badge/Ansys-F7BB29?style=for-the-badge&logo=ansys&logoColor=black)                              | `![Ansys](https://img.shields.io/badge/Ansys-F7BB29?style=for-the-badge&logo=ansys&logoColor=black)`                              |
-| AutoCAD         | ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE252B?style=for-the-badge&logo=autocad&logoColor=white)                        | `![AutoCAD](https://img.shields.io/badge/AutoCAD-EE252B?style=for-the-badge&logo=autocad&logoColor=white)`                        |
-| Autodesk Eagle  | ![Autodesk Eagle](https://img.shields.io/badge/Autodesk_Eagle-EB8621?style=for-the-badge)                                       | `![Autodesk Eagle](https://img.shields.io/badge/Autodesk_Eagle-EB8621?style=for-the-badge)`                                       |
-| Catia           | ![Catia](https://img.shields.io/badge/Catia-172983?style=for-the-badge&logo=dassaultsystemes&logoColor=white)                   | `![Catia](https://img.shields.io/badge/Catia-172983?style=for-the-badge&logo=dassaultsystemes&logoColor=white)`                   |
-| Flux AI         | ![Flux AI](https://img.shields.io/badge/Flux_AI-30BE97?style=for-the-badge)                                                     | `![Flux AI](https://img.shields.io/badge/Flux_AI-30BE97?style=for-the-badge)`                                                     |
-| FreeCAD         | ![FreeCAD](https://img.shields.io/badge/FreeCAD-FF2E01?style=for-the-badge)                                                     | `![FreeCAD](https://img.shields.io/badge/FreeCAD-FF2E01?style=for-the-badge)`                                                     |
-| Easy EDA        | ![Easy EDA](https://img.shields.io/badge/EasyEDA-5488FF?style=for-the-badge&logo=easyeda&logoColor=white)                       | `![Easy EDA](https://img.shields.io/badge/EasyEDA-5488FF?style=for-the-badge&logo=easyeda&logoColor=white)`                       |
-| KiCAD           | ![KiCAD](https://img.shields.io/badge/KiCAD-26368E?style=for-the-badge&logo=kicad&logoColor=white)                              | `![KiCAD](https://img.shields.io/badge/KiCAD-26368E?style=for-the-badge&logo=kicad&logoColor=white)`                              |
-| Multisim        | ![Multisim](https://img.shields.io/badge/Multisim-4D4D4F?style=for-the-badge&logo=multisim&logoColor=605891)                    | `![Multisim](https://img.shields.io/badge/Multisim-4D4D4F?style=for-the-badge&logo=multisim&logoColor=605891)`                    |
-| OpenScad        | ![OpenScad](https://img.shields.io/badge/OpenScad-FBE64F?style=for-the-badge&logo=openscad&logoColor=black)                     | `![OpenScad](https://img.shields.io/badge/OpenScad-FBE64F?style=for-the-badge&logo=openscad&logoColor=black)`                     |
-| Proteus         | ![Proteus](https://img.shields.io/badge/Proteus-006175?style=for-the-badge&logo=proteus&logoColor=white)                        | `![Proteus](https://img.shields.io/badge/Proteus-006175?style=for-the-badge&logo=proteus&logoColor=white)`                        |
-| SolidWorks      | ![SolidWorks](https://img.shields.io/badge/SolidWorks-E41B13?style=for-the-badge&logo=dassaultsystemes&logoColor=white)         | `![SolidWorks](https://img.shields.io/badge/SolidWorks-E41B13?style=for-the-badge&logo=dassaultsystemes&logoColor=white)`         |
-| TinkerCAD       | ![TinkerCAD](https://img.shields.io/badge/TinkerCAD-105FA7?style=for-the-badge&logo=tinkercad&logoColor=white)                  | `![TinkerCAD](https://img.shields.io/badge/TinkerCAD-105FA7?style=for-the-badge&logo=tinkercad&logoColor=white)`                  |
 
 [(Back to top)](#table-of-contents)
 
