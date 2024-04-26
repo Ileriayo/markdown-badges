@@ -844,7 +844,6 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Prezi          | ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)                              | `![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)`                              |
 | Prometheus     | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)                      | `![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)`                      |
 | Rancher        | ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)                        | `![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)`                        |
-| Raspberry Pi   | ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)                                | `![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)`                                |
 | SonarLint      | ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)                         | `![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)`                         |
 | SonarQube      | ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)                         | `![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)`                         |
 | Splunk         | ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)                           | `![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)`                           |
@@ -895,6 +894,20 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Gunicorn       | ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)                    | `![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)`                    |
 | Jenkins        | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)                     | `![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)`                     |
 | Nginx          | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)                           | `![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)`                           |
+
+[(Back to top)](#table-of-contents)
+
+### <img src=https://raw.githubusercontent.com/Manuel-Baez-Ponce/markdown-badges/master/assets/Images/pi.png height=25px> Single Board Computers
+
+| Name         | Badge                                                                                                   | Markdown                                                                                                  |
+| ------------ | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Banana Pi    | ![Banana Pi](https://img.shields.io/badge/BananaPi-FBD001?style=for-the-badge)                          | `![Banana Pi](https://img.shields.io/badge/BananaPi-FBD001?style=for-the-badge)`                          |
+| BeagleBone   | ![BeagleBone](https://img.shields.io/badge/BeagleBone-A97F2C?style=for-the-badge)                       | `![BeagleBone](https://img.shields.io/badge/BeagleBone-A97F2C?style=for-the-badge)`                       |
+| LatterPanda  | ![LatterPanda](https://img.shields.io/badge/LatterPanda-89714B?style=for-the-badge)                     | `![LatterPanda](https://img.shields.io/badge/LatterPanda-89714B?style=for-the-badge)`                     |
+| MangoPi      | ![MangoPi](https://img.shields.io/badge/MangoPi-C5AA49?style=for-the-badge)                             | `![MangoPi](https://img.shields.io/badge/MangoPi-C5AA49?style=for-the-badge)`                             |
+| Odroid       | ![Odroid](https://img.shields.io/badge/Odroid-D0E551?style=for-the-badge)                               | `![Odroid](https://img.shields.io/badge/Odroid-D0E551?style=for-the-badge)`                               |
+| Orange Pi    | ![Orange Pi](https://img.shields.io/badge/OrangePi-FEB71D?style=for-the-badge)                          | `![Orange Pi](https://img.shields.io/badge/OrangePi-FEB71D?style=for-the-badge)`                          |
+| Raspberry Pi | ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) | `![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)` |
 
 [(Back to top)](#table-of-contents)
 
