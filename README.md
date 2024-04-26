@@ -678,6 +678,27 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
+### <img src=https://raw.githubusercontent.com/Manuel-Baez-Ponce/markdown-badges/master/assets/Images/micro.png height=20px> Microcontrollers/Microprocessors
+
+| Name               | Badge                                                                                                                     | Markdown                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Arduino            | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)                 | `![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)`                 |
+| ARM                | ![ARM](https://img.shields.io/badge/ARM-0090BF?style=for-the-badge&logo=arm&logoColor=white)                              | `![ARM](https://img.shields.io/badge/ARM-0090BF?style=for-the-badge&logo=arm&logoColor=white)`                              |
+| Atmel              | ![Atmel](https://img.shields.io/badge/Atmel-0167BC?style=for-the-badge)                                                   | `![Atmel](https://img.shields.io/badge/Atmel-0167BC?style=for-the-badge)`                                                   |
+| Buffalo Labs       | ![Bouffalo Lab](https://img.shields.io/badge/Bouffalo_Lab-2F85C0?style=for-the-badge)                                     | `![Bouffalo Lab](https://img.shields.io/badge/Bouffalo_Lab-2F85C0?style=for-the-badge`                                      |
+| Espressif          | ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)        | `![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)`        |
+| Freescale          | ![Freescale](https://img.shields.io/badge/Freescale-FBBD02?style=for-the-badge)                                           | `![Freescale](https://img.shields.io/badge/Freescale-FBBD02?style=for-the-badge)`                                           |
+| Microbit           | ![Microbit](https://img.shields.io/badge/Microbit-20E385?style=for-the-badge&logo=microbit&logoColor=white)               | `![Microbit](https://img.shields.io/badge/Microbit-20E385?style=for-the-badge&logo=microbit&logoColor=white)`               |
+| Microchip          | ![Microchip](https://img.shields.io/badge/Microchip-EB1923?style=for-the-badge)                                           | `![Microchip](https://img.shields.io/badge/Microchip-EB1923?style=for-the-badge)`                                           |
+| NXP Semiconductors | ![NXP Semiconductors](https://img.shields.io/badge/NXP_Semiconductor-BDD630?style=for-the-badge&logo=nxp)                 | `![NXP Semiconductors](https://img.shields.io/badge/NXP_Semiconductor-BDD630?style=for-the-badge&logo=nxp)`                 |
+| Renesas            | ![Renesas](https://img.shields.io/badge/Renesas-29289D?style=for-the-badge)                                               | `![Renesas](https://img.shields.io/badge/Renesas-29289D?style=for-the-badge)`                                               |
+| Risc V             | ![Risc V](https://img.shields.io/badge/Risc_V-F5B21B?style=for-the-badge&logo=riscv&logoColor=white)                      | `![Risc V](https://img.shields.io/badge/Risc_V-F5B21B?style=for-the-badge&logo=riscv&logoColor=white)`                      |
+| StMicroelectronics | ![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics) | `![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics)` |
+| Texas Instruments  | ![Texas Instruments](https://img.shields.io/badge/Texas_Instruments-F90300?style=for-the-badge)                           | `![Texas Instruments](https://img.shields.io/badge/Texas_Instruments-F90300?style=for-the-badge)`                           |
+| WCH                | ![WCH](https://img.shields.io/badge/WCH-00428D?style=for-the-badge)                                                       | `![WCH](https://img.shields.io/badge/WCH-00428D?style=for-the-badge)`                                                       |
+
+[(Back to top)](#table-of-contents)
+
 ### 🖥️ ML/DL
 
 | Name         | Badge                                                                                                                           | Markdown                                                                                                                          |
