@@ -134,7 +134,9 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 | Name        | Badge                                                                                                                | Markdown                                                                                                               |
 | ----------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Hyperledger | ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) | `![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)` |
+| Bitcoin | ![Bitcoin](https://img.shields.io/badge/bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white) |
+`![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)` |
+| Hyperledger | ![Hyperledger](https://img.shields.io/badge/hyperledger-F7931A?style=for-the-badge&logo=hyperledger&logoColor=white) | `![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)` |
 
 [(Back to top)](#table-of-contents)
 
