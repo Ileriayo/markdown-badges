@@ -539,6 +539,15 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 
 [(Back to top)](#table-of-contents)
 
+### 🖥️ Hardware
+
+| Name       | Badge                                                                                                                 | Markdown                                                                                                                |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Alienware      | ![Alienware](https://img.shields.io/badge/Alienware-%23541BAE.svg?style=for-the-badge&logo=alienware&logoColor=white)             | `![Alienware](https://img.shields.io/badge/Alienware-%23541BAE.svg?style=for-the-badge&logo=alienware&logoColor=white)`             |
+
+[(Back to top)](#table-of-contents)
+
+
 ### ☁️ Hosting/SaaS
 
 | Name          | Badge                                                                                                                           | Markdown                                                                                                                          |
@@ -1008,3 +1017,5 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 
 
 [(Back to top)](#table-of-contents)
+
+
