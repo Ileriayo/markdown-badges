@@ -126,6 +126,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | ChatGPT       | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)                       | `![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)`                       |
 | Dependabot       | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)                       | `![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)`                       |
 | Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | `![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)` |
+| Gemini | ![Gemini](https://img.shields.io/badge/Gemini%20-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white) | `![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)` |
 
 
 [(Back to top)](#table-of-contents)
