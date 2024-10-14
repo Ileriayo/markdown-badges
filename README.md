@@ -690,7 +690,9 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Spotify       | ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)                   | `![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)`                   |
 | Shazam        | ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)                      | `![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)`                      |
 | Tidal         | ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)                         | `![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)`                         |
-| YouTube Music | ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white) | `![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)` |
+| YouTube Music | ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)                         | `![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)`                         |
+| Musixmatch | ![Musixmatch](https://img.shields.io/badge/Musixmatch-%23FF5353.svg?style=for-the-badge&logo=Musixmatch&logoColor=white) | `![Musixmatch](https://img.shields.io/badge/Musixmatch-%23FF5353.svg?style=for-the-badge&logo=Musixmatch&logoColor=white)`                         |
+
 
 [(Back to top)](#table-of-contents)
 
@@ -928,6 +930,9 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Nokia      | ![Nokia](https://img.shields.io/badge/Nokia-%23124191.svg?style=for-the-badge&logo=nokia&logoColor=white)             | `![Nokia](https://img.shields.io/badge/Nokia-%23124191.svg?style=for-the-badge&logo=nokia&logoColor=white)`             |
 | Samsung    | ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)       | `![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)`       |
 | Xiaomi     | ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)          | `![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)`          |
+| Oppo     | ![Oppo](https://img.shields.io/badge/Oppo-%231EA366.svg?style=for-the-badge&logo=oppo&logoColor=white)          | `![Oppo](https://img.shields.io/badge/Oppo-%231EA366.svg?style=for-the-badge&logo=oppo&logoColor=white)`          |
+| Vivo     | ![Vivo](https://img.shields.io/badge/Vivo-%2300BFFF.svg?style=for-the-badge&logo=vivo&logoColor=black)          | `![Vivo](https://img.shields.io/badge/Vivo-%2300BFFF.svg?style=for-the-badge&logo=vivo&logoColor=black)`          |
+
 
 [(Back to top)](#table-of-contents)
 
@@ -957,6 +962,8 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Roku  | ![Roku](https://img.shields.io/badge/roku-6f1ab1?style=for-the-badge&logo=roku&logoColor=white)    | `![Roku](https://img.shields.io/badge/roku-6f1ab1?style=for-the-badge&logo=roku&logoColor=white)`    |
 | Twitch          | ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)                             | `![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)`                             |
 | Youtube Gaming  | ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)    | `![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)`    |
+| Disney  | ![Disney](https://img.shields.io/badge/Disney-%23006E99.svg?style=for-the-badge&logo=disney&logoColor=white)    | `![Disney](https://img.shields.io/badge/Disney-%23006E99.svg?style=for-the-badge&logo=disney&logoColor=white)`    |
+
 
 [(Back to top)](#table-of-contents)
 
