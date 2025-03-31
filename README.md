@@ -339,10 +339,16 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Name      | Badge                                                                                                                 | Markdown                                                                                                                |
 | --------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Bookstack | ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white) | `![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)` |
+| Coda | ![Coda](https://img.shields.io/badge/coda-%23F46A54.svg?style=for-the-badge&logo=coda&logoColor=white) | `![Coda](https://img.shields.io/badge/coda-%23F46A54.svg?style=for-the-badge&logo=coda&logoColor=white)` |
+| Docsify | ![Docsify](https://img.shields.io/badge/docsify-%232ECE53.svg?style=for-the-badge&logo=docsify&logoColor=white) | `![Docsify](https://img.shields.io/badge/docsify-%232ECE53.svg?style=for-the-badge&logo=docsify&logoColor=white)` |
+| Docusaurus | ![Docusaurus](https://img.shields.io/badge/docusaurus-%233ECC5F.svg?style=for-the-badge&logo=docusaurus&logoColor=white) | `![Docusaurus](https://img.shields.io/badge/docusaurus-%233ECC5F.svg?style=for-the-badge&logo=docusaurus&logoColor=white)` |
 | GitBook | ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white) | `![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)` |
+| Quip | ![Quip](https://img.shields.io/badge/quip-%23F27557.svg?style=for-the-badge&logo=quip&logoColor=white) | `![Quip](https://img.shields.io/badge/quip-%23F27557.svg?style=for-the-badge&logo=quip&logoColor=white)` |
 | ReadTheDocs | ![ReadTheDocs](https://img.shields.io/badge/Readthedocs-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white) | `![ReadTheDocs](https://img.shields.io/badge/Readthedocs-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)` |
+| TiddlyWiki | ![TiddlyWiki](https://img.shields.io/badge/tiddlywiki-%23111111.svg?style=for-the-badge&logo=tiddlywiki&logoColor=white) | `![TiddlyWiki](https://img.shields.io/badge/tiddlywiki-%23111111.svg?style=for-the-badge&logo=tiddlywiki&logoColor=white)` |
 | Wikipedia | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) | `![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)` |
 | Wiki.js   | ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)     | `![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)`     |
+| Zettlr | ![Zettlr](https://img.shields.io/badge/zettlr-%231CB27E.svg?style=for-the-badge&logo=zettlr&logoColor=white) | `![Zettlr](https://img.shields.io/badge/zettlr-%231CB27E.svg?style=for-the-badge&logo=zettlr&logoColor=white)` |
 
 [(Back to top)](#table-of-contents)
 
