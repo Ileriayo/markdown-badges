@@ -129,6 +129,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | `![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)` |
 | Google Gemini    | ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)          | `![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)`          |
 | Perplexity     | ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)          | `![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)`          |
+|Whisper        | ![Whisper](https://img.shields.io/badge/Whisper-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)                       | `![Whisper](https://img.shields.io/badge/Whisper-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)`                       |  |
 
 [(Back to top)](#table-of-contents)
 
