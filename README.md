@@ -129,6 +129,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | `![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)` |
 | Google Gemini    | ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)          | `![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)`          |
 | Perplexity     | ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)          | `![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)`          |
+| KIMI     | ![Kimi](https://img.shields.io/badge/Kimi-%23007AFF.svg?style=for-the-badge&logo=Kimi&logoColor=white)          | `![Kimi](https://img.shields.io/badge/Kimi-%23007AFF.svg?style=for-the-badge&logo=Kimi&logoColor=white)`          |
+| QWen     | ![Qwen](https://img.shields.io/badge/Qwen-%23FF6F61.svg?style=for-the-badge&logo=Qwen&logoColor=white)          | `![Qwen](https://img.shields.io/badge/Qwen-%23FF6F61.svg?style=for-the-badge&logo=Qwen&logoColor=white)`          |
 
 [(Back to top)](#table-of-contents)
 
