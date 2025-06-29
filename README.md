@@ -137,7 +137,12 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Name        | Badge                                                                                                                | Markdown                                                                                                               |
 | ----------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Bitcoin     | ![Bitcoin](https://img.shields.io/badge/bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)             |`![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)`              |
+| Cardano | ![Cardano](https://img.shields.io/badge/cardano-%230133AD.svg?style=for-the-badge&logo=cardano&logoColor=white) | `![Cardano](https://img.shields.io/badge/cardano-%230133AD.svg?style=for-the-badge&logo=cardano&logoColor=white)` |
+| Ethers | ![Ethers](https://img.shields.io/badge/ethers-%232535A0.svg?style=for-the-badge&logo=ethers&logoColor=white) | `![Ethers](https://img.shields.io/badge/ethers-%232535A0.svg?style=for-the-badge&logo=ethers&logoColor=white)` |
 | Hyperledger | ![Hyperledger](https://img.shields.io/badge/hyperledger-F7931A?style=for-the-badge&logo=hyperledger&logoColor=white) | `![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)` |
+| IPFS | ![IPFS](https://img.shields.io/badge/IPFS-%2365C2CB.svg?style=for-the-badge&logo=IPFS&logoColor=white) | `![IPFS](https://img.shields.io/badge/IPFS-%2365C2CB.svg?style=for-the-badge&logo=IPFS&logoColor=white)` |
+| Solana | ![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white) | `![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)` |
+
 
 [(Back to top)](#table-of-contents)
 
@@ -233,6 +238,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Litecoin     | ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)                 | `![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)`                 |
 | Monero       | ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)                       | `![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)`                       |
 | Polkadot     | ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)                 | `![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)`                 |
+| Solana | ![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white) | `![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)` |
 | Stellar      | ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)                    | `![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)`                    |
 | Tether       | ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)                       | `![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)`                       |
 | Xrp          | ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)                                 | `![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)`                                 |
