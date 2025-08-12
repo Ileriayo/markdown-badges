@@ -1,8 +1,8 @@
-
 import sys
-import re
 
-README_FILE_PATH = '../../README.md'
+import os
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+README_FILE_PATH = os.path.abspath(os.path.join(SCRIPT_DIR, '../../README.md'))
 
 def find_badge_sections():
     with open(README_FILE_PATH, encoding='utf-8') as f:
