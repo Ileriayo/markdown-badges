@@ -1125,20 +1125,3 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 
 
 [(Back to top)](#table-of-contents)
-
-### Languages
-
-| Name         | Badge                                                                                                                      | Markdown                                                                                                                     |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Arabic    | ![Arabic](https://img.shields.io/badge/Arabic-%23#046005.svg?style=for-the-badge&logo=<badge>&logoColor=white))      | `![Arabic](https://img.shields.io/badge/Arabic-%23#046005.svg?style=for-the-badge&logo=<badge>&logoColor=white)`      |
-| Chinese    | ![Chinese](https://img.shields.io/badge/Chinese-%23#c80000.svg?style=for-the-badge&logo=<badge>&logoColor=white)      | `![Chinese](https://img.shields.io/badge/Chinese-%23#c80000.svg?style=for-the-badge&logo=<badge>&logoColor=white)`      |
-| English      | ![English](https://img.shields.io/badge/English-%23#0010a0.svg?style=for-the-badge&logo=<badge>&logoColor=white)                   | `![English](https://img.shields.io/badge/English-%23#0010a0.svg?style=for-the-badge&logo=<badge>&logoColor=white)`                   |
-| French   | ![French](https://img.shields.io/badge/French-%23#000000.svg?style=for-the-badge&logo=<badge>&logoColor=white)          | `![French](https://img.shields.io/badge/French-%23#000000.svg?style=for-the-badge&logo=<badge>&logoColor=white)`          |
-| German    | ![German](https://img.shields.io/badge/German-%23#ffae00.svg?style=for-the-badge&logo=<badge>&logoColor=black)             | `![German](https://img.shields.io/badge/German-%23#ffae00.svg?style=for-the-badge&logo=<badge>&logoColor=black)`
-| Hindi | ![Hindi](https://img.shields.io/badge/Hindi-%23#ae00ff.svg?style=for-the-badge&logo=<badge>&logoColor=black) | `![Hindi](https://img.shields.io/badge/Hindi-%23#ae00ff.svg?style=for-the-badge&logo=<badge>&logoColor=black)` |
-| Portuguese   | ![Portuguese](https://img.shields.io/badge/Portuguese-%23#690000.svg?style=for-the-badge&logo=<badge>&logoColor=white)         | `![Portuguese](https://img.shields.io/badge/Portuguese-%23#690000.svg?style=for-the-badge&logo=<badge>&logoColor=white)`         |
-| Russian       | ![Russian](https://img.shields.io/badge/Russian-%23ffffff.svg?style=for-the-badge&logo=<badge>&logoColor=black)                      | `![Russian](https://img.shields.io/badge/Russian-%23ffffff.svg?style=for-the-badge&logo=<badge>&logoColor=black)`                      |
-| Spanish       | ![Spanish](https://img.shields.io/badge/Spanish-%23ffff00.svg?style=for-the-badge&logo=<badge>&logoColor=black)                      | `![Spanish](https://img.shields.io/badge/Spanish-%23ffff00.svg?style=for-the-badge&logo=<badge>&logoColor=black)`                      |
-
-
-[(Back to top)](#table-of-contents)
