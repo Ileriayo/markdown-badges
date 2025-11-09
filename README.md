@@ -130,6 +130,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Google Deepmind | ![Google Deepmind](https://img.shields.io/badge/deepmind-%234285F4.svg?style=for-the-badge&logo=deepmind&logoColor=white) | `![Google Deepmind](https://img.shields.io/badge/deepmind-%234285F4.svg?style=for-the-badge&logo=deepmind&logoColor=white)` |
 | Google Gemini    | ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)          | `![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)`          |
 | Perplexity     | ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)          | `![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)`          |
+| YOLO | ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)          | `![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)` |
 
 [(Back to top)](#table-of-contents)
 
@@ -373,6 +374,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Skill Share     | ![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84)       | `![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84)`       |
 | Udacity         | ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)                      | `![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)`                      |
 | Udemy           | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)                           | `![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)`                           |
+| W3 Schools      | ![W3 Schools](https://img.shields.io/badge/W3%20Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)           | ` ![W3 Schools](https://img.shields.io/badge/W3%20Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)  `        |
+| Sololearn       | ![Sololearn](https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)               | `![Sololearn](https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)`               |
 
 [(Back to top)](#table-of-contents)
 
