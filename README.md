@@ -980,6 +980,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 
 | Name   | Badge                                                                                                        | Markdown                                                                                                       |
 |--------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| D-Wave | ![D-Wave](https://img.shields.io/badge/dwave-%23008CD7.svg?style=for-the-badge&logo=dwavesystems&logoColor=white) | `![D-Wave](https://img.shields.io/badge/dwave-%23008CD7.svg?style=for-the-badge&logo=dwavesystems&logoColor=white)` |
 | Qiskit | ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) | `![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)` |
 
 [(Back to top)](#table-of-contents)
