@@ -47,6 +47,7 @@ Add badges to your Profile and Projects.
      - [Social](#social)
      - [Store](#store)
      - [Streaming](#streaming)
+     - [Terminals](#-terminals)
      - [Testing](#testing)
      - [Version Control](#version-control)
      - [Wearables](#wearables)
@@ -1163,6 +1164,21 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Twitch          | ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)                             | `![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)`                             |
 | Youtube Gaming  | ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)    | `![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)`    |
 
+[(Back to top)](#table-of-contents)
+
+###  💻 Terminals
+
+| Name               | Badge                                                                                                                                           | Markdown                                                                                                                                          |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alacritty | ![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white) | `![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white)` |
+| GNOME Terminal | ![GNOME Terminal](https://img.shields.io/badge/GNOME%20terminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31) | `![GNOME Terminal](https://img.shields.io/badge/gnometerminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31)` |
+| Hyper | ![Hyper](https://img.shields.io/badge/Hyper-%23000000?style=for-the-badge&logo=hyper&logoColor=white) | `![Hyper](https://img.shields.io/badge/Hyper-%23000000?style=for-the-badge&logo=hyper&logoColor=white)` |
+| iTerm2 | ![iTerm2](https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white) | `![iTerm2](https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white)` |
+| Starship | ![Starship](https://img.shields.io/badge/starship-%23DD0B78?style=for-the-badge&logo=starship&logoColor=white) | `![Starship](https://img.shields.io/badge/starship-%23DD0B78?style=for-the-badge&logo=starship&logoColor=white)` |
+| Termius | ![Termius](https://img.shields.io/badge/termius-%23000000?style=for-the-badge&logo=termius&logoColor=white) | `![Termius](https://img.shields.io/badge/termius-%23000000?style=for-the-badge&logo=termius&logoColor=white)` |
+| tmux | ![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F) | `![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)` |
+| Warp | ![Warp](https://img.shields.io/badge/warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white) | `![Warp](https://img.shields.io/badge/warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white)` |
+| WezTerm | ![WezTerm](https://img.shields.io/badge/WezTerm-%234E49EE?style=for-the-badge&logo=wezterm&logoColor=white) | `![WezTerm](https://img.shields.io/badge/WezTerm-%234E49EE?style=for-the-badge&logo=wezterm&logoColor=white)` |
 
 [(Back to top)](#table-of-contents)
 
