@@ -47,6 +47,7 @@ Add badges to your Profile and Projects.
      - [Social](#social)
      - [Store](#store)
      - [Streaming](#streaming)
+     - [Terminals](#-terminals)
      - [Testing](#testing)
      - [Version Control](#version-control)
      - [Wearables](#wearables)
@@ -1162,6 +1163,15 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Tubi            | ![Tubi](https://img.shields.io/badge/Tubi-6A18F5?style=for-the-badge&logo=tubi&logoColor=white)                                   | `![Tubi](https://img.shields.io/badge/Tubi-6A18F5?style=for-the-badge&logo=tubi&logoColor=white)`                                   | 
 | Twitch          | ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)                             | `![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)`                             |
 | Youtube Gaming  | ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)    | `![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)`    |
+
+
+[(Back to top)](#table-of-contents)
+
+###  💻 Terminals
+
+| Name               | Badge                                                                                                                                           | Markdown                                                                                                                                          |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alacritty | ![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white) | `![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white)` |
 
 
 [(Back to top)](#table-of-contents)
