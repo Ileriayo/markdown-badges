@@ -205,6 +205,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | FreeCAD | ![FreeCAD](https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white) | `![FreeCAD](https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white)`|
 | KiCad           | ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)                             | `![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)`                            |
 | Microstation | ![Microstation](https://img.shields.io/badge/microstation-%2362BB47.svg?style=for-the-badge&logo=microstation&logoColor=white) | `![Microstation](https://img.shields.io/badge/microstation-%2362BB47.svg?style=for-the-badge&logo=microstation&logoColor=white)` |
+| OpenSCAD | ![OpenSCAD](https://img.shields.io/badge/openscad-%23F9D72C.svg?style=for-the-badge&logo=openscad&logoColor=black&logoSize=auto) | `![OpenSCAD](https://img.shields.io/badge/openscad-%23F9D72C.svg?style=for-the-badge&logo=openscad&logoColor=black&logoSize=auto)` |
 
 [(Back to top)](#table-of-contents)
    
