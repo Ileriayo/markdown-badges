@@ -1,0 +1,22 @@
+name: 📋 Check Badge List Alphabetical Order
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+
+jobs:
+  check-badge-order:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Check badge list order
+        run: |
+          python .github/scripts/check_badge_order.py
