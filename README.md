@@ -30,6 +30,7 @@ Add badges to your Profile and Projects.
      - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
      - [Gaming](#-gaming)
      - [Game Consoles](#%EF%B8%8F-game-consoles)
+     - [Hardware](#-hardware)
      - [Hosting/SaaS](#-hostingsaas)
      - [IDEs/Editors](#-ideseditors)
      - [Languages](#-languages)
