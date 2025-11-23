@@ -173,7 +173,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 | Name          | Badge                                                                                                                       | Markdown                                                                                                                      |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Altium Designer | ![Altium Designer](https://img.shields.io/badge/altiumdesigner-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white) | `![Altium Designer](https://img.shields.io/badge/altiumdesigner-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)`|
+| Altium Designer | ![Altium Designer](https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white) | `![Altium Designer](https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)`|
 | KiCad           | ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)                             | `![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)`                            |
 
 [(Back to top)](#table-of-contents)
