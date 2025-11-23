@@ -10,14 +10,18 @@
 3. Copy this markdown 👇
 
    `![Badge Name](https://img.shields.io/badge/<badge>-%23<badge-color>.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>)`
+
+   > **:bulb: Tip:** Some icons/logos may not fit in the badge nicely. Add `&logoSize=auto` to the markdown's URL to help with this:
    
-4. Replace the following: `<badge>` , `<badge-color>` , `<logo-color>`
+   `![Badge Name](https://img.shields.io/badge/<badge>-%23<badge-color>.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>)&logoSize=auto`
+   
+5. Replace the following: `<badge>` , `<badge-color>` , `<logo-color>`
 
     > **:fire: Important:** All of the badges are ordered alphabetically. Hence, while contributing, make sure to order to add the new badges in an alphabetical order.
 
     > **:bulb: Tip:** You can check available icons for your `<badge>` in [Simple Icons slugs](https://github.com/simple-icons/simple-icons/blob/develop/slugs.md) or [Simple Icons website](https://simpleicons.org/).
 
-5. Create a [Pull Request](https://docs.github.com/en/get-started/quickstart/contributing-to-projects#making-a-pull-request) with your proposed changes.
+6. Create a [Pull Request](https://docs.github.com/en/get-started/quickstart/contributing-to-projects#making-a-pull-request) with your proposed changes.
 
 Yayyy, You are all done with the steps! Now just sit back and watch while your Pull request is reviewed and ultimately merged. 🎊
 
@@ -41,6 +45,12 @@ Some Guidelines for starting a new category:
 - Use a simple title. For example, instead of `Banks and money companies`, use `Finance`
 - Use a title that obeys the `what they do` principle above.
 - Place your shiny new category in the right alphabetical position.
+
+## 🖋️ What to do if your badge text needs spaces:
+If the badge name needs to have spaces in it ("Google Chrome", "Google Drive", "Read The Docs", etc.) just use the `%20` URL encoding for 'space'. Here are some examples of what that looks like:
+| Badge (no space) | URL (without space encoding) | Badge (space) | URL (with space encoding) |
+| ---------------- | ---------------------------- | ------------- | ------------------------- | 
+| ![Google Chrome](https://img.shields.io/badge/GoogleChrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | `![Google Chrome](https://img.shields.io/badge/GoogleChrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)` | ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | `![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)` |
 
 <hr />
 
