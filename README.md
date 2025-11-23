@@ -1171,11 +1171,11 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Name               | Badge                                                                                                                                           | Markdown                                                                                                                                          |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Alacritty | ![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white) | `![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white)` |
-| iTerm2 | ![iTerm2](https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white) | `![iTerm2](https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white)` |
+| GNOME Terminal | ![GNOME Terminal](https://img.shields.io/badge/GNOME%20terminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31) | `![GNOME Terminal](https://img.shields.io/badge/gnometerminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31)` |
 | Hyper | ![Hyper](https://img.shields.io/badge/Hyper-%23000000?style=for-the-badge&logo=hyper&logoColor=white) | `![Hyper](https://img.shields.io/badge/Hyper-%23000000?style=for-the-badge&logo=hyper&logoColor=white)` |
+| iTerm2 | ![iTerm2](https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white) | `![iTerm2](https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white)` |
 | Starship | ![Starship](https://img.shields.io/badge/starship-%23DD0B78?style=for-the-badge&logo=starship&logoColor=white) | `![Starship](https://img.shields.io/badge/starship-%23DD0B78?style=for-the-badge&logo=starship&logoColor=white)` |
 | tmux | ![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F) | `![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)` |
-| GNOME Terminal | ![GNOME Terminal](https://img.shields.io/badge/GNOME%20terminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31) | `![GNOME Terminal](https://img.shields.io/badge/gnometerminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31)` |
 
 [(Back to top)](#table-of-contents)
 
