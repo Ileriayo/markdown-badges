@@ -17,7 +17,7 @@ Add badges to your Profile and Projects.
      - [Blog](#-blog)
      - [Blockchain](#-blockchain)
      - [Browsers](#-browsers)
-	 - [CAD](#-cad)
+     - [CAD](#-cad)
      - [CD](#-cd)
      - [CI](#-ci)
      - [Cloud Storage](#-cloud-storage)
@@ -199,7 +199,17 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Name          | Badge                                                                                                                       | Markdown                                                                                                                      |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Altium Designer | ![Altium Designer](https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white) | `![Altium Designer](https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)`|
+| Archicad | ![Archicad](https://img.shields.io/badge/archicad-%232D50A5.svg?style=for-the-badge&logo=archicad&logoColor=white) | `![Archicad](https://img.shields.io/badge/archicad-%232D50A5.svg?style=for-the-badge&logo=archicad&logoColor=white)`|
+| AutoCAD | ![AutoCAD](https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white) | `![AutoCAD](https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white)`|
+| AutoDesk | ![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white) | `![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)`|
+| Autodesk Revit | ![Autodesk Revit](https://img.shields.io/badge/Autodesk_Revit-%23186BFF.svg?style=for-the-badge&logo=autodeskrevit&logoColor=white) | `![Autodesk Revit](https://img.shields.io/badge/Autodesk_Revit-%23186BFF.svg?style=for-the-badge&logo=autodeskrevit&logoColor=white)`|
+| FreeCAD | ![FreeCAD](https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white) | `![FreeCAD](https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white)`|
 | KiCad           | ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)                             | `![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)`                            |
+| Microstation | ![Microstation](https://img.shields.io/badge/microstation-%2362BB47.svg?style=for-the-badge&logo=microstation&logoColor=white) | `![Microstation](https://img.shields.io/badge/microstation-%2362BB47.svg?style=for-the-badge&logo=microstation&logoColor=white)` |
+| OpenSCAD | ![OpenSCAD](https://img.shields.io/badge/openscad-%23F9D72C.svg?style=for-the-badge&logo=openscad&logoColor=black&logoSize=auto) | `![OpenSCAD](https://img.shields.io/badge/openscad-%23F9D72C.svg?style=for-the-badge&logo=openscad&logoColor=black&logoSize=auto)` |
+| Rhinoceros | ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-%23801010.svg?style=for-the-badge&logo=rhinoceros&logoColor=white) | `![Rhinoceros](https://img.shields.io/badge/Rhinoceros-%23801010.svg?style=for-the-badge&logo=rhinoceros&logoColor=white)` |
+| SketchUp | ![SketchUp](https://img.shields.io/badge/SketchUp-%23005F9E.svg?style=for-the-badge&logo=sketchup&logoColor=white) | `![SketchUp](https://img.shields.io/badge/SketchUp-%23005F9E.svg?style=for-the-badge&logo=sketchup&logoColor=white)` |
+| Tinkercad | ![Tinkercad](https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white) | `![Tinkercad](https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white)` |
 
 [(Back to top)](#table-of-contents)
    
