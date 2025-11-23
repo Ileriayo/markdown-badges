@@ -1177,6 +1177,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Starship | ![Starship](https://img.shields.io/badge/starship-%23DD0B78?style=for-the-badge&logo=starship&logoColor=white) | `![Starship](https://img.shields.io/badge/starship-%23DD0B78?style=for-the-badge&logo=starship&logoColor=white)` |
 | tmux | ![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F) | `![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)` |
 | Warp | ![Warp](https://img.shields.io/badge/warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white) | `![Warp](https://img.shields.io/badge/warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white)` |
+| WezTerm | ![WezTerm](https://img.shields.io/badge/warp-%234E49EE?style=for-the-badge&logo=wezterm&logoColor=white) | `![WezTerm](https://img.shields.io/badge/warp-%234E49EE?style=for-the-badge&logo=wezterm&logoColor=white)` |
 
 [(Back to top)](#table-of-contents)
 
