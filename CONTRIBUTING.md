@@ -12,22 +12,23 @@
    `![Badge Name](https://img.shields.io/badge/<badge>-%23<badge-color>.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>)`
 
    > **:bulb: Tip:** Some icons/logos may not fit in the badge nicely. Add `&logoSize=auto` to the markdown's URL to help with this:
-   
+
    `![Badge Name](https://img.shields.io/badge/<badge>-%23<badge-color>.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>)&logoSize=auto`
-   
-5. Replace the following: `<badge>` , `<badge-color>` , `<logo-color>`
 
-    > **:fire: Important:** All of the badges are ordered alphabetically. Hence, while contributing, make sure to order to add the new badges in an alphabetical order.
+4. Replace the following: `<badge>` , `<badge-color>` , `<logo-color>`
 
-    > **:bulb: Tip:** You can check available icons for your `<badge>` in [Simple Icons slugs](https://github.com/simple-icons/simple-icons/blob/develop/slugs.md) or [Simple Icons website](https://simpleicons.org/).
+   > **:fire: Important:** All of the badges are ordered alphabetically. Hence, while contributing, make sure to order to add the new badges in an alphabetical order.
 
-6. Create a [Pull Request](https://docs.github.com/en/get-started/quickstart/contributing-to-projects#making-a-pull-request) with your proposed changes.
+   > **:bulb: Tip:** You can check available icons for your `<badge>` in [Simple Icons slugs](https://github.com/simple-icons/simple-icons/blob/develop/slugs.md) or [Simple Icons website](https://simpleicons.org/).
+
+5. Create a [Pull Request](https://docs.github.com/en/get-started/quickstart/contributing-to-projects#making-a-pull-request) with your proposed changes.
 
 Yayyy, You are all done with the steps! Now just sit back and watch while your Pull request is reviewed and ultimately merged. 🎊
 
 <hr />
 
 ## 🖋️ When thinking of where to add your badge:
+
 Favor general, i.e. widely known, categories rather than specific (sometimes unknown) categories, so that it is easier to find. For instance, when a person thinks of Tor Browser, they'd want to find it where other browsers are listed.
 
 Similarly, we have several Google products (Play, Drive, Chrome, etc), however, they are not listed under a category for Google.
@@ -38,18 +39,21 @@ So, instead of a category titled **Google** for instance, Chrome would be placed
 Having the categories based on `who they are` will quickly become clumsy. And clumsy doesn't feel right.
 
 ## 🖋️ When your badge doesn't fit into any of the existing categories:
-We've covered lots of ground and categories but if you find that your new badge doesn't fit into an existing category, create a new one. It would be lovely having a new category around. 
+
+We've covered lots of ground and categories but if you find that your new badge doesn't fit into an existing category, create a new one. It would be lovely having a new category around.
 
 Some Guidelines for starting a new category:
+
 - Check the existing categories one more time to be really sure your new badge won't fit into one. 😄
 - Use a simple title. For example, instead of `Banks and money companies`, use `Finance`
 - Use a title that obeys the `what they do` principle above.
 - Place your shiny new category in the right alphabetical position.
 
 ## 🖋️ What to do if your badge text needs spaces:
+
 If the badge name needs to have spaces in it ("Google Chrome", "Google Drive", "Read The Docs", etc.) just use the `%20` URL encoding for 'space'. Here are some examples of what that looks like:
 | Badge (no space) | URL (without space encoding) | Badge (space) | URL (with space encoding) |
-| ---------------- | ---------------------------- | ------------- | ------------------------- | 
+| ---------------- | ---------------------------- | ------------- | ------------------------- |
 | ![Google Chrome](https://img.shields.io/badge/GoogleChrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | `![Google Chrome](https://img.shields.io/badge/GoogleChrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)` | ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | `![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)` |
 
 <hr />
