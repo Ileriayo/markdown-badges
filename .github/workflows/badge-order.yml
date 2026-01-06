@@ -3,7 +3,7 @@ name: 📋 Check Badge List Alphabetical Order
 on:
   pull_request:
     paths:
-      - 'README.md'
+      - "README.md"
 
 jobs:
   check-badge-order:
@@ -15,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Check badge list order
         run: |
