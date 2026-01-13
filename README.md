@@ -1272,3 +1272,13 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 [(Back to top)](#table-of-contents)
 
 
+### 🌏 Geospatial
+
+| Name         | Badge                                                                                                                      | Markdown                                                                                                                     |
+|--------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Google Earth Engine  | ![GoogleEarthEngine](https://img.shields.io/badge/google%20earth%20engine-%234285F4?style=for-the-badge&logo=googleearthengine&logoColor=white) | `![GoogleEarthEngine](https://img.shields.io/badge/google%20earth%20engine-%234285F4?style=for-the-badge&logo=googleearthengine&logoColor=white)` |
+| QGIS                 | ![QGIS](https://img.shields.io/badge/qgis-%2393b023?&style=for-the-badge&logo=qgis&logoColor=white)                                             | `![QGIS](https://img.shields.io/badge/qgis-%2393b023?&style=for-the-badge&logo=qgis&logoColor=white)`                                             |
+
+[(Back to top)](#table-of-contents)
+
+
