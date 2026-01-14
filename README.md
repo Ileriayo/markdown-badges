@@ -53,6 +53,7 @@ Add badges to your Profile and Projects.
      - [Version Control](#-version-control)
      - [Wearables](#%EF%B8%8F-wearables)
      - [Work/Jobs](#-workjobs)
+     - [Geospatial](#-geospatial)
    </details>
 
 
@@ -1268,6 +1269,16 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Indeed       | ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)                      | `![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)`                      |
 | Upwork       | ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)                      | `![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)`                      |
 
+
+[(Back to top)](#table-of-contents)
+
+
+### 🌏 Geospatial
+
+| Name         | Badge                                                                                                                      | Markdown                                                                                                                     |
+|--------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Google Earth Engine  | ![GoogleEarthEngine](https://img.shields.io/badge/google%20earth%20engine-%234285F4?style=for-the-badge&logo=googleearthengine&logoColor=white) | `![GoogleEarthEngine](https://img.shields.io/badge/google%20earth%20engine-%234285F4?style=for-the-badge&logo=googleearthengine&logoColor=white)` |
+| QGIS                 | ![QGIS](https://img.shields.io/badge/qgis-%2393b023?&style=for-the-badge&logo=qgis&logoColor=white)                                             | `![QGIS](https://img.shields.io/badge/qgis-%2393b023?&style=for-the-badge&logo=qgis&logoColor=white)`                                             |
 
 [(Back to top)](#table-of-contents)
 
