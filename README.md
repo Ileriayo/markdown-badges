@@ -53,6 +53,7 @@ Add badges to your Profile and Projects.
      - [Version Control](#-version-control)
      - [Wearables](#%EF%B8%8F-wearables)
      - [Work/Jobs](#-workjobs)
+     - [Geospatial](#-geospatial)
    </details>
 
 
