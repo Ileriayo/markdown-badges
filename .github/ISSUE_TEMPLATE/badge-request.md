@@ -2,9 +2,8 @@
 name: Badge Request
 about: Badge request template.
 title: "[Category] [Badge Request] NAME"
-labels: 'new-badge'
-assignees: ''
-
+labels: "new-badge"
+assignees: ""
 ---
 
 Badge Name: [NAME]
