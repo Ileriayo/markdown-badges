@@ -57,6 +57,7 @@ Add badges to your Profile and Projects.
 - [Terminals](#-terminals)
 - [Testing](#-testing)
 - [Version Control](#-version-control)
+- [Version Health](#-version-health)
 - [Wearables](#%EF%B8%8F-wearables)
 - [Work/Jobs](#-workjobs)
 </details>
@@ -1261,25 +1262,22 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
+
+### 🔖 Version Health
+
+| Name | Badge | Markdown |
+| --- | --- | --- |
+| Python Health | ![Python Health](https://img.releaserun.com/badge/health/python.svg) | `![Python Health](https://img.releaserun.com/badge/health/python.svg)` |
+| Node.js Health | ![Node.js Health](https://img.releaserun.com/badge/health/nodejs.svg) | `![Node.js Health](https://img.releaserun.com/badge/health/nodejs.svg)` |
+| Kubernetes Health | ![Kubernetes Health](https://img.releaserun.com/badge/health/kubernetes.svg) | `![Kubernetes Health](https://img.releaserun.com/badge/health/kubernetes.svg)` |
+| Docker Health | ![Docker Health](https://img.releaserun.com/badge/health/docker-engine.svg) | `![Docker Health](https://img.releaserun.com/badge/health/docker-engine.svg)` |
+| Go Health | ![Go Health](https://img.releaserun.com/badge/health/go.svg) | `![Go Health](https://img.releaserun.com/badge/health/go.svg)` |
+| Python 3.12 EOL | ![Python 3.12 EOL](https://img.releaserun.com/badge/eol/python/3.12.svg) | `![Python 3.12 EOL](https://img.releaserun.com/badge/eol/python/3.12.svg)` |
+| K8s 1.35 CVE | ![K8s 1.35 CVE](https://img.releaserun.com/badge/cve/kubernetes/1.35.svg) | `![K8s 1.35 CVE](https://img.releaserun.com/badge/cve/kubernetes/1.35.svg)` |
+
+> Badges from [ReleaseRun](https://releaserun.com/badges/). Pattern: `img.releaserun.com/badge/{type}/{product}.svg`. Types: `health`, `eol`, `cve`, `v`. Supports 300+ products.
+
+[(Back to top)](#table-of-contents)
+
 ### ⌚️ Wearables
 
-| Name   | Badge                                                                                                 | Markdown                                                                                                |
-| ------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Fitbit | ![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white) | `![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)` |
-
-[(Back to top)](#table-of-contents)
-
-### 💼 Work/Jobs
-
-| Name         | Badge                                                                                                                      | Markdown                                                                                                                     |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| AngelList    | ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)      | `![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)`      |
-| Behance      | ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)                   | `![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)`                   |
-| Freelancer   | ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)          | `![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)`          |
-| Glassdoor    | ![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?style=for-the-badge&logo=Glassdoor&logoColor=white)             | `![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?style=for-the-badge&logo=Glassdoor&logoColor=white)`             |
-| Hacker Earth | ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue) | `![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)` |
-| HackerRank   | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)         | `![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)`         |
-| Indeed       | ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)                      | `![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)`                      |
-| Upwork       | ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)                      | `![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)`                      |
-
-[(Back to top)](#table-of-contents)
