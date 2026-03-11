@@ -1154,6 +1154,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | XING            | ![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)                                 | `![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)`                                 |
 | YouTube         | ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)                        | `![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)`                        |
 | Zoom            | ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)                                        | `![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)`                                        |
+| Chess.com       | ![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white)                                        | `![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white)`                                        |
+| Lichess         | ![Lichess](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)                                        | `![Lichess](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)`                                        |
 
 [(Back to top)](#table-of-contents)
 
