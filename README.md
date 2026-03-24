@@ -702,7 +702,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 | Name      | Badge                                                                                                                 | Markdown                                                                                                                |
 | --------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Adafruit  | ![Adafruit](https://img.shields.io/badge/Adafruit-%23000000.svg?style=for-the-badge&logo=adafruit&logoColor=white)    | `![Adafruit](https://img.shields.io/badge/Adafruit-%23000000.svg?style=for-the-badge&logo=adafruit&logoColor=white)` |
+| Adafruit  | ![Adafruit](https://img.shields.io/badge/Adafruit-%23000000.svg?style=for-the-badge&logo=adafruit&logoColor=white)    | `![Adafruit](https://img.shields.io/badge/Adafruit-%23000000.svg?style=for-the-badge&logo=adafruit&logoColor=white)`    |
 | Alienware | ![Alienware](https://img.shields.io/badge/Alienware-%23541BAE.svg?style=for-the-badge&logo=alienware&logoColor=white) | `![Alienware](https://img.shields.io/badge/Alienware-%23541BAE.svg?style=for-the-badge&logo=alienware&logoColor=white)` |
 | MSI       | ![MSI](https://img.shields.io/badge/msi-%23000000.svg?style=for-the-badge&logo=msi&logoColor=%23FF0000)               | `![MSI](https://img.shields.io/badge/msi-%23000000.svg?style=for-the-badge&logo=msi&logoColor=%23FF0000)`               |
 
