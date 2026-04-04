@@ -1293,6 +1293,6 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 | Name          | Badge                                                                                                                      | Markdown
                                                             |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| VHDL          |  ![VHDL](https://img.shields.io/badge/VHDL-%230090DB.svg?style=for-the-badge&logo=IEEE&logoColor=white)                    | `![VHDL](https://img.shields.io/badge/VHDL-%230090DB.svg?style=for-the-badge&logo=IEEE&logoColor=white)`
+| VHDL          |  ![VHDL](https://img.shields.io/badge/VHDL-%230090DB.svg?style=for-the-badge&logo=IEEE&logoColor=white)                    | `![VHDL](https://img.shields.io/badge/VHDL-%230090DB.svg?style=for-the-badge&logo=IEEE&logoColor=white)`   |
 
 
