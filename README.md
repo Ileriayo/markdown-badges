@@ -1288,11 +1288,13 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 [(Back to top)](#table-of-contents)
 
-### ⚡ Hardware Development 
+### ⚡ Hardware Development
 
-| Name      | Badge    | Markdown |
-                                                            
-| ---------- | -------- | ------------ |
-| VHDL      |  ![VHDL](https://img.shields.io/badge/VHDL-%230090DB.svg?style=for-the-badge&logo=IEEE&logoColor=white) | `![VHDL](https://img.shields.io/badge/VHDL-%230090DB.svg?style=for-the-badge&logo=IEEE&logoColor=white)`   |
+| Name | Badge | Markdown |
+|---|---|---|
+| Verilog |![Verilog](https://img.shields.io/badge/-Verilog-2A3A4C?style=for-the-badge&logo=ieee&logoColor=white) | `![Verilog](https://img.shields.io/badge/-Verilog-2A3A4C?style=for-the-badge&logo=ieee&logoColor=white)` |
+| VHDL | ![VHDL](https://img.shields.io/badge/VHDL-%230090DB.svg?style=for-the-badge&logo=IEEE&logoColor=white) | `![VHDL](https://img.shields.io/badge/VHDL-%230090DB.svg?style=for-the-badge&logo=IEEE&logoColor=white)` |
+| **SystemVerilog** | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-1D4879?style=for-the-badge&logo=ieee&logoColor=white) | `(https://img.shields.io/badge/-SystemVerilog-1D4879?style=for-the-badge&logo=ieee&logoColor=white)`|
 
 
+[(Back to top)](#table-of-contents)
