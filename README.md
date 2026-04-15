@@ -47,6 +47,11 @@ Add badges to your Profile and Projects.
 - [Operating System](#%EF%B8%8F-operating-system)
 - [ORM](#-orm)
 - [Other](#-other)
+- [DevOps](#-devops)
+- [Build Tools](#-build-tools)
+- [Home Automation](#-home-automation)
+- [Networking](#-networking)
+- [Security](#-security)
 - [Quantum Programming Frameworks and Libraries](#%EF%B8%8F-quantum-programming-frameworks-and-libraries)
 - [Search Engines](#-search-engines)
 - [Servers](#%EF%B8%8F-servers)
@@ -129,6 +134,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🤖 Artificial Intelligence and Bots
 
+AI assistants, chatbots, and machine learning platforms.
+
 | Name            | Badge                                                                                                                          | Markdown                                                                                                                         |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Amazon Alexa    | ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)    | `![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)`    |
@@ -153,6 +160,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🔗 Blockchain
 
+Blockchain networks and Web3 platforms.
+
 | Name           | Badge                                                                                                                                | Markdown                                                                                                                               |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Bitcoin        | ![Bitcoin](https://img.shields.io/badge/bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)                             | `![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)`                             |
@@ -167,6 +176,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 📝 Blog
+
+Blogging platforms and publishing tools.
 
 | Name       | Badge                                                                                                               | Markdown                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -185,6 +196,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 🌐 Browsers
+
+Web browsers.
 
 | Name          | Badge                                                                                                                       | Markdown                                                                                                                      |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -206,6 +219,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 📐 CAD
 
+Computer-aided design software.
+
 | Name            | Badge                                                                                                                                  | Markdown                                                                                                                                 |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Altium Designer | ![Altium Designer](https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white) | `![Altium Designer](https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)` |
@@ -225,6 +240,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🔬 CI
 
+Continuous integration and deployment services.
+
 | Name           | Badge                                                                                                                                 | Markdown                                                                                                                                |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | ChipperCI      | ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white)                    | `![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white)`                    |
@@ -240,6 +257,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 📲 CD
 
+Deployment services.
+
 | Name           | Badge                                                                                                                          | Markdown                                                                                                                         |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Octopus Deploy | ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) | `![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)` |
@@ -247,6 +266,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 📂 Cloud Storage
+
+Cloud file storage and sync services.
 
 | Name               | Badge                                                                                                                       | Markdown                                                                                                                      |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -265,6 +286,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 💲 Cryptocurrency
+
+Cryptocurrency exchanges and tokens.
 
 | Name         | Badge                                                                                                                       | Markdown                                                                                                                      |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -290,6 +313,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 💾 Databases
+
+Database management systems.
 
 | Name                 | Badge                                                                                                                                                 | Markdown                                                                                                                                                |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -324,6 +349,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 🎨 Design
+
+Design tools and creative software.
 
 | Name                    | Badge                                                                                                                                                                | Markdown                                                                                                                                                               |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -367,6 +394,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🧑‍💻 Developer/Forums
 
+Developer communities and forums.
+
 | Name            | Badge                                                                                                                                  | Markdown                                                                                                                                 |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Backstage       | ![Backstage](https://img.shields.io/badge/Backstage-%237A3CF8.svg?style=for-the-badge&logo=backstage&logoColor=white)                  | `![Backstage](https://img.shields.io/badge/Backstage-%237A3CF8.svg?style=for-the-badge&logo=backstage&logoColor=white)`                  |
@@ -390,6 +419,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 📑 Documentation Platforms
 
+Documentation and knowledge bases.
+
 | Name          | Badge                                                                                                                           | Markdown                                                                                                                          |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Bookstack     | ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)           | `![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)`           |
@@ -409,6 +440,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 🎓 Education
+
+Learning platforms and coding bootcamps.
 
 | Name             | Badge                                                                                                                                    | Markdown                                                                                                                                   |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -442,6 +475,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 💰 Funding
 
+Payment platforms and financial services.
+
 | Name            | Badge                                                                                                                               | Markdown                                                                                                                              |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Amazon Pay      | ![Amazon Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=for-the-badge&logo=Amazon-Pay&logoColor=white)                | `![Amazon Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=for-the-badge&logo=Amazon-Pay&logoColor=white)`                |
@@ -462,6 +497,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 📚 Frameworks, Platforms and Libraries
+
+Web frameworks, libraries, and development platforms.
 
 | Name               | Badge                                                                                                                                           | Markdown                                                                                                                                          |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -646,6 +683,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🎮 Gaming
 
+Game engines and gaming platforms.
+
 | Name                   | Badge                                                                                                                                             | Markdown                                                                                                                                            |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AMD                    | ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)                                               | `![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)`                                               |
@@ -676,6 +715,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🌏 Geospatial
 
+Geographic information systems.
+
 | Name                | Badge                                                                                                                                           | Markdown                                                                                                                                          |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Google Earth Engine | ![GoogleEarthEngine](https://img.shields.io/badge/google%20earth%20engine-%234285F4?style=for-the-badge&logo=googleearthengine&logoColor=white) | `![GoogleEarthEngine](https://img.shields.io/badge/google%20earth%20engine-%234285F4?style=for-the-badge&logo=googleearthengine&logoColor=white)` |
@@ -684,6 +725,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 🕹️ Game Consoles
+
+Video game consoles and handheld devices.
 
 | Name             | Badge                                                                                                                                 | Markdown                                                                                                                                |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -704,6 +747,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🖥️ Hardware
 
+Computer hardware manufacturers.
+
 | Name      | Badge                                                                                                                 | Markdown                                                                                                                |
 | --------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Adafruit  | ![Adafruit](https://img.shields.io/badge/Adafruit-%23000000.svg?style=for-the-badge&logo=adafruit&logoColor=white)    | `![Adafruit](https://img.shields.io/badge/Adafruit-%23000000.svg?style=for-the-badge&logo=adafruit&logoColor=white)`    |
@@ -713,6 +758,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### ☁️ Hosting/SaaS
+
+Cloud providers, hosting services, and SaaS platforms.
 
 | Name           | Badge                                                                                                                                              | Markdown                                                                                                                                             |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -748,6 +795,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 💻 IDEs/Editors
+
+Code editors and integrated development environments.
 
 | Name               | Badge                                                                                                                                             | Markdown                                                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -795,6 +844,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 📋 Languages
+
+Programming languages and scripting tools.
 
 | Name             | Badge                                                                                                                                        | Markdown                                                                                                                                       |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -862,6 +913,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🖥️ ML/DL
 
+Machine learning and deep learning frameworks.
+
 | Name              | Badge                                                                                                                             | Markdown                                                                                                                            |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Keras             | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)                         | `![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)`                         |
@@ -884,6 +937,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🎶 Music
 
+Music streaming and audio production.
+
 | Name          | Badge                                                                                                                      | Markdown                                                                                                                     |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Apple Music   | ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)       | `![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)`       |
@@ -901,6 +956,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🏢 Office
 
+Office productivity suites.
+
 | Name                 | Badge                                                                                                                                            | Markdown                                                                                                                                           |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Google Sheets        | ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)                   | `![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)`                   |
@@ -917,6 +974,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 🎛️ Operating System
+
+Operating systems and Linux distributions.
 
 | Name            | Badge                                                                                                                                    | Markdown                                                                                                                                   |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -968,6 +1027,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🎋 ORM
 
+Object-relational mapping tools.
+
 | Name       | Badge                                                                                                                    | Markdown                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | Doctrine   | ![Doctrine](https://img.shields.io/badge/Doctrine-%23326CE5?style=for-the-badge&logo=doctrine&logoColor=white)           | `![Doctrine](https://img.shields.io/badge/Doctrine-%23326CE5?style=for-the-badge&logo=doctrine&logoColor=white`            |
@@ -983,80 +1044,98 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🥅 Other
 
+Miscellaneous tools and services that don't fit other categories.
+
 | Name                  | Badge                                                                                                                                             | Markdown                                                                                                                                         |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Accessibility         | ![Accessibility](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white)                 | `![Accessibility](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white)`              |
 | Airbnb                | ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)                                      | `![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)`                                   |
 | Alfred                | ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred)                                                      | `![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred)`                                                   |
-| Ansible               | ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)                                   | `![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)`                                |
 | Apex                  | ![Apex](https://img.shields.io/badge/Apex-blue?style=for-the-badge&logo=salesforce&logoColor=white)                                               | `![Apex](https://img.shields.io/badge/Apex-blue?style=for-the-badge&logo=salesforce&logoColor=white)`                                            |
-| Aqua Sec              | ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8)                                       | `![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8)`                                    |
-| Arduino               | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)                                         | `![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)`                                      |
-| Babel                 | ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)                                                | `![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)`                                             |
-| Bitwarden             | ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)                             | `![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)`                          |
-| Cisco                 | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)                                         | `![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)`                                      |
-| CMake                 | ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)                                         | `![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)`                                      |
 | CodeCov               | ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)                                   | `![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)`                                |
 | Crowdin               | ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white)                                      | `![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white)`                                   |
-| Docker                | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)                                      | `![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)`                                   |
 | ElasticSearch         | ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)                                       | `![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)`                                    |
 | ESLint                | ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)                                             | `![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)`                                          |
-| Espressif             | ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)                                | `![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)`                             |
 | FFmpeg                | ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)                       | `![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)`                    |
 | Google TalkBack       | ![Google TalkBack](https://img.shields.io/badge/Google%20TalkBack-%236636B4.svg?style=for-the-badge&logo=GoogleTalkBack&logoColor=white)          | `![Google TalkBack](https://img.shields.io/badge/Google%20TalkBack-%236636B4.svg?style=for-the-badge&logo=GoogleTalkBack&logoColor=white)`       |
-| Gradle                | ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)                                         | `![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)`                                      |
-| Grafana               | ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)                                   | `![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)`                                |
-| Home Assistant        | ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)            | `![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)`         |
-| Homebridge            | ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)                          | `![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)`                       |
 | JAWS                  | ![JAWS](https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white)                                            | `![JAWS](https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white)`                                         |
 | Jellyfin              | ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)                               | `![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)`                            |
-| Jira                  | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)                                            | `![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)`                                         |
-| Kubernetes            | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)                          | `![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)`                       |
 | Meta                  | ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)                                            | `![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)`                                         |
 | Miro                  | ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black)                                            | `![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black)`                                         |
-| Mosquitto             | ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)                      | `![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)`                   |
 | Narrator              | ![Narrator](https://img.shields.io/badge/Narrator-%230771D0.svg?style=for-the-badge&logo=Narrator&logoColor=white)                                | `![Narrator](https://img.shields.io/badge/Narrator-%230771D0.svg?style=for-the-badge&logo=Narrator&logoColor=white)`                             |
 | Notion                | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)                                      | `![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)`                                   |
 | NVDA                  | ![NVDA](https://img.shields.io/badge/NVDA-%23630093.svg?style=for-the-badge&logo=NVDA&logoColor=white)                                            | `![NVDA](https://img.shields.io/badge/NVDA-%23630093.svg?style=for-the-badge&logo=NVDA&logoColor=white)`                                         |
 | OpenAPI Specification | ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) | `![openapi initiative](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)` |
-| OpenTelemetry         | ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)                       | `![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)`                    |
-| Packer                | ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)                                  | `![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)`                               |
-| Pi-Hole               | ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)                                    | `![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)`                                 |
-| PlatformIO            | ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)                         | `![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)`                      |
 | Plex                  | ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)                                            | `![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)`                                         |
 | Portfolio             | ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)                             | `![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)`                          |
 | Postman               | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)                                          | `![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)`                                       |
 | Power BI              | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)                                        | `![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)`                                     |
 | Prettier              | ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)                                | `![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)`                             |
 | Prezi                 | ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)                                         | `![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)`                                      |
-| Prometheus            | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)                                 | `![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)`                              |
-| Pulumi                | ![Pulumi](https://img.shields.io/badge/Pulumi-%238A3391.svg?style=for-the-badge&logo=Pulumi&logoColor=%23f7bf2a)                                  | `![Pulumi](https://img.shields.io/badge/Pulumi-%238A3391.svg?style=for-the-badge&logo=Pulumi&logoColor=%23f7bf2a)`                               |
 | PyPi                  | ![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)                                           | `![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)`                                        |
-| Rancher               | ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)                                   | `![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)`                                |
-| Raspberry Pi          | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)                                          | `![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)`                                       |
 | Salesforce            | ![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white)                                   | `![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white)`                                |
 | SonarLint             | ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)                                    | `![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)`                                 |
 | SonarQube             | ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)                                    | `![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)`                                 |
-| Splunk                | ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)                                      | `![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)`                                   |
 | Tampermonkey          | ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)                    | `![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)`                 |
-| Terraform             | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)                             | `![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)`                          |
-| TOR                   | ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)                                       | `![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)`                                    |
-| Trello                | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)                                      | `![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)`                                   |
 | Twilio                | ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)                                             | `![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio logoColor=white)`                                          |
 | Uber                  | ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)                                            | `![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)`                                         |
-| Ubiquiti              | ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)                                | `![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)`                             |
-| Vagrant               | ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)                                   | `![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)`                                |
 | VirtualBox            | ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)                          | `![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)`                       |
 | VoiceOver             | ![VoiceOver](https://img.shields.io/badge/VoiceOver-%23484848.svg?style=for-the-badge&logo=VoiceOver&logoColor=white)                             | `![VoiceOver](https://img.shields.io/badge/VoiceOver-%23484848.svg?style=for-the-badge&logo=VoiceOver&logoColor=white)`                          |
 | WCAG                  | ![WCAG](https://img.shields.io/badge/WCAG-%23015A69.svg?style=for-the-badge&logo=WCAG&logoColor=white)                                            | `![WCAG](https://img.shields.io/badge/WCAG-%23015A69.svg?style=for-the-badge&logo=WCAG&logoColor=white)`                                         |
-| Wireguard             | ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)                             | `![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)`                          |
 | XFCE                  | ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)                                            | `![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)`                                         |
 | XO                    | ![XO](https://img.shields.io/badge/XO-%235ED9C7.svg?style=for-the-badge&logo=xo&logoColor=black)                                                  | `![XO](https://img.shields.io/badge/XO-%235ED9C7.svg?style=for-the-badge&logo=xo&logoColor=black)`                                               |
-| Zigbee                | ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)                                      | `![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)`                                   |
+
+
+### ⚙️ DevOps
+
+DevOps tools, containerization, and infrastructure automation.
+
+| Name                  | Badge                                                                                                                                             | Markdown                                                                                                                                         |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+[(Back to top)](#table-of-contents)
+
+### 🔧 Build Tools
+
+Build systems, compilers, and developer tooling.
+
+| Name                  | Badge                                                                                                                                             | Markdown                                                                                                                                         |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+[(Back to top)](#table-of-contents)
+
+### 🏠 Home Automation
+
+Smart home and IoT platforms.
+
+| Name                  | Badge                                                                                                                                             | Markdown                                                                                                                                         |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+[(Back to top)](#table-of-contents)
+
+### 🌐 Networking
+
+Networking hardware, VPN, and network protocols.
+
+| Name                  | Badge                                                                                                                                             | Markdown                                                                                                                                         |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+[(Back to top)](#table-of-contents)
+
+### 🛡️ Security
+
+Security tools, access management, and compliance.
+
+| Name                  | Badge                                                                                                                                             | Markdown                                                                                                                                         |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+[(Back to top)](#table-of-contents)
 
 [(Back to top)](#table-of-contents)
 
 ### 🖥️ Quantum Programming Frameworks and Libraries
+
+Quantum computing platforms.
 
 | Name   | Badge                                                                                                             | Markdown                                                                                                            |
 | ------ | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -1066,6 +1145,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 🔍 Search Engines
+
+Web search engines.
 
 | Name       | Badge                                                                                                                   | Markdown                                                                                                                  |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -1087,6 +1168,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🗄️ Servers
 
+Web servers and application servers.
+
 | Name                             | Badge                                                                                                                                             | Markdown                                                                                                                                            |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Apache                           | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)                                      | `![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)`                                      |
@@ -1106,6 +1189,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 💬 Social
+
+Social media platforms and messaging apps.
 
 | Name            | Badge                                                                                                                                  | Markdown                                                                                                                                 |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1166,6 +1251,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 📱 Smartphone Brands
 
+Mobile device manufacturers.
+
 | Name       | Badge                                                                                                                 | Markdown                                                                                                                |
 | ---------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Apple      | ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)             | `![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)`             |
@@ -1186,6 +1273,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🛍️ Store
 
+App stores and marketplaces.
+
 | Name       | Badge                                                                                                          | Markdown                                                                                                         |
 | ---------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | App Store  | ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) | `![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)` |
@@ -1196,6 +1285,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 📺 Streaming
+
+Video streaming platforms.
 
 | Name             | Badge                                                                                                                             | Markdown                                                                                                                            |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -1221,6 +1312,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 💻 Terminals
 
+Terminal emulators and shell tools.
+
 | Name           | Badge                                                                                                                                     | Markdown                                                                                                                                 |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Alacritty      | ![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white)                         | `![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white)`                      |
@@ -1236,6 +1329,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 🧪 Testing
+
+Testing frameworks and quality assurance tools.
 
 | Name            | Badge                                                                                                                               | Markdown                                                                                                                              |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1256,6 +1351,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🕓 Version Control
 
+Version control systems and code hosting.
+
 | Name              | Badge                                                                                                                           | Markdown                                                                                                                          |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Apache Subversion | ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) | `![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)` |
@@ -1274,6 +1371,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### ⌚️ Wearables
 
+Wearable technology devices.
+
 | Name   | Badge                                                                                                 | Markdown                                                                                                |
 | ------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Fitbit | ![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white) | `![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)` |
@@ -1281,6 +1380,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 ### 💼 Work/Jobs
+
+Job boards, freelancing, and professional networks.
 
 | Name         | Badge                                                                                                                      | Markdown                                                                                                                     |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
