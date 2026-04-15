@@ -1235,8 +1235,6 @@ Security tools, access management, and compliance.
 
 [(Back to top)](#table-of-contents)
 
-[(Back to top)](#table-of-contents)
-
 ### 🖥️ Quantum Programming Frameworks and Libraries
 
 Quantum computing platforms.
