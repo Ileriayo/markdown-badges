@@ -70,6 +70,7 @@ Add badges to your Profile and Projects.
 - [Version Control](#-version-control)
 - [Wearables](#%EF%B8%8F-wearables)
 - [Work/Jobs](#-workjobs)
+
 </details>
 
 # Usage
@@ -91,13 +92,14 @@ To use a badge:
 > <strong>Note:</strong> `for-the-badge` is the style that we chose for appearance purposes. Other styles are available at [https://shields.io/#styles](https://shields.io/#styles) and can be used with the badges here. Thanks, @kingthorin for mentioning this!
 
 Shields.io offers 5 styles, which are:
-| S/N | Types | Styles |
+
+| S/N | Types         | Styles                                                                                                    |
 | :-: | :------------ | :-------------------------------------------------------------------------------------------------------- |
-| 1 | Plastic | ![Plastic](https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic) |
-| 2 | Flat-square | ![Flat-square](https://shields.io/badge/style-flat--square-03650f?logo=appveyor&style=flat-square) |
-| 3 | Flat | ![Flat](https://shields.io/badge/style-flat-03650f?logo=appveyor&style=flat) |
-| 4 | Social | ![Social](https://shields.io/badge/style-social-03650f?logo=appveyor&style=social) |
-| 5 | For-the-badge | ![For-the-badge](https://shields.io/badge/style-for--the--badge-03650f?logo=appveyor&style=for-the-badge) |
+|  1  | Plastic       | ![Plastic](https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic)                     |
+|  2  | Flat-square   | ![Flat-square](https://shields.io/badge/style-flat--square-03650f?logo=appveyor&style=flat-square)        |
+|  3  | Flat          | ![Flat](https://shields.io/badge/style-flat-03650f?logo=appveyor&style=flat)                              |
+|  4  | Social        | ![Social](https://shields.io/badge/style-social-03650f?logo=appveyor&style=social)                        |
+|  5  | For-the-badge | ![For-the-badge](https://shields.io/badge/style-for--the--badge-03650f?logo=appveyor&style=for-the-badge) |
 
 💡 To use a different style: Replace `for-the-badge` in the markdown link with any of the styles above.
 
@@ -1435,7 +1437,7 @@ Testing frameworks and quality assurance tools.
 | Jest            | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)                                 | `![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)`                                 |
 | Mocha           | ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)                              | `![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)`                              |
 | Playwright      | ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)               | `![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)`               |
-| Postman               | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)                                          | `![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)`                                       |
+| Postman         | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)                            | `![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)`                            |
 | Puppeteer       | ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) | `![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=black)`               |
 | Pytest          | ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)                       | `![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)`                       |
 | Selenium        | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)                       | `![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)`                       |
