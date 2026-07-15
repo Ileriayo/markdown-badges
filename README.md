@@ -68,6 +68,7 @@ Add badges to your Profile and Projects.
 - [Terminals](#-terminals)
 - [Testing](#-testing)
 - [Version Control](#-version-control)
+- [VPN](#-vpn)
 - [Wearables](#%EF%B8%8F-wearables)
 - [Work/Jobs](#-workjobs)
 
@@ -1466,6 +1467,23 @@ Version control systems and code hosting.
 | Gitpod            | ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)                       | `![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)`                       |
 | Mercurial         | ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)              | `![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)`              |
 | Perforce Helix    | ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white)      | `![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)`      |
+
+[(Back to top)](#table-of-contents)
+
+### 🕓 VPNs
+
+Virtual private network providers.
+
+| Name                  | Badge                                                                                                                                                     | Markdown                                                                                                                                                    |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ExpressVPN            | ![ExpressVPN](https://img.shields.io/badge/expressvpn-%23DA3940.svg?style=for-the-badge&logo=expressvpn&logoColor=white)                                  | `![ExpressVPN](https://img.shields.io/badge/nordvpn-%234687FF.svg?style=for-the-badge&logo=nordvpn&logoColor=white)`                                        |
+| Mullvad               | ![Mullvad](https://img.shields.io/badge/mullvad-%23294D73.svg?style=for-the-badge&logo=mullvad&logoColor=white)                                           | `![Mullvad](https://img.shields.io/badge/mullvad-%23294D73.svg?style=for-the-badge&logo=mullvad&logoColor=white)`                                           |
+| NordVPN               | ![Nordvpn](https://img.shields.io/badge/nordvpn-%234687FF.svg?style=for-the-badge&logo=nordvpn&logoColor=white)                                           | `![Nordvpn](https://img.shields.io/badge/nordvpn-%234687FF.svg?style=for-the-badge&logo=nordvpn&logoColor=white)`                                           |
+| OpenVPN               | ![OpenVPN](https://img.shields.io/badge/openvpn-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white)                                           | `![OpenVPN](https://img.shields.io/badge/openvpn-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white)`                                           |
+| PrivateInternetAccess | ![PrivateInternetAccess](https://img.shields.io/badge/privateinternetaccess-%231E811F.svg?style=for-the-badge&logo=privateinternetaccess&logoColor=white) | `![PrivateInternetAccess](https://img.shields.io/badge/privateinternetaccess-%231E811F.svg?style=for-the-badge&logo=privateinternetaccess&logoColor=white)` |
+| ProtonVPN             | ![ProtonVPN](https://img.shields.io/badge/protonvpn-%2366DEB1.svg?style=for-the-badge&logo=protonvpn&logoColor=white)                                     | `![ProtonVPN](https://img.shields.io/badge/protonvpn-%2366DEB1.svg?style=for-the-badge&logo=protonvpn&logoColor=white)`                                     |
+| Surfshark             | ![Surfshark](https://img.shields.io/badge/surfshark-%231EBFBF.svg?style=for-the-badge&logo=surfshark&logoColor=white)                                     | `![Surfshark](https://img.shields.io/badge/surfshark-%231EBFBF.svg?style=for-the-badge&logo=surfshark&logoColor=white)`                                     |
+| Wireguard             | ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)                                     | `![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)`                                     |
 
 [(Back to top)](#table-of-contents)
 
