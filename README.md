@@ -68,7 +68,7 @@ Add badges to your Profile and Projects.
 - [Terminals](#-terminals)
 - [Testing](#-testing)
 - [Version Control](#-version-control)
-- [VPN](#-vpn)
+- [VPN](#-vpns)
 - [Wearables](#%EF%B8%8F-wearables)
 - [Work/Jobs](#-workjobs)
 
@@ -1210,14 +1210,14 @@ Smart home and IoT platforms.
 
 ### 🌐 Networking
 
-Networking hardware, VPN, and network protocols.
+Networking hardware and network protocols.
 
-| Name      | Badge                                                                                                                 | Markdown                                                                                                                |
-| --------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Cisco     | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)             | `![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)`             |
-| Pi-Hole   | ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)        | `![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)`        |
-| Ubiquiti  | ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)    | `![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)`    |
-| Wireguard | ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) | `![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)` |
+| Name     | Badge                                                                                                              | Markdown                                                                                                             |
+| -------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| Cisco    | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)          | `![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)`          |
+| Mikrotik | ![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white) | `![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)` |
+| Pi-Hole  | ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)     | `![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)`     |
+| Ubiquiti | ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) | `![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)` |
 
 [(Back to top)](#table-of-contents)
 
@@ -1470,7 +1470,7 @@ Version control systems and code hosting.
 
 [(Back to top)](#table-of-contents)
 
-### 🕓 VPNs
+### 🌐 VPNs
 
 Virtual private network providers.
 
