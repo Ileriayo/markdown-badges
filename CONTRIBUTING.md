@@ -52,8 +52,9 @@ Some Guidelines for starting a new category:
 ## 🖋️ What to do if your badge text needs spaces:
 
 If the badge name needs to have spaces in it ("Google Chrome", "Google Drive", "Read The Docs", etc.) just use the `%20` URL encoding for 'space'. Here are some examples of what that looks like:
-| Badge (no space) | URL (without space encoding) | Badge (space) | URL (with space encoding) |
-| ---------------- | ---------------------------- | ------------- | ------------------------- |
+
+| Badge (no space)                                                                                                            | URL (without space encoding)                                                                                                  | Badge (space)                                                                                                                  | URL (with space encoding)                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | ![Google Chrome](https://img.shields.io/badge/GoogleChrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | `![Google Chrome](https://img.shields.io/badge/GoogleChrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)` | ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | `![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)` |
 
 <hr />
