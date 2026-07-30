@@ -83,6 +83,7 @@ To use a badge:
   2. Enter the name of the badge you need.
   3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
 - You could also visit the live site at [ileriayo.github.io/markdown-badges/](https://ileriayo.github.io/markdown-badges/)
+- As this repo is focused on badges with [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) icons we do not add badges without them. For making badges without icons, you can use [shields.io](https://shields.io/).
 
 # Tips
 
