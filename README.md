@@ -27,6 +27,7 @@ Add badges to your Profile and Projects.
 - [CI](#-ci)
 - [Cloud Storage](#-cloud-storage)
 - [Cryptocurrency](#-cryptocurrency)
+- [DE/WM](#%EF%B8%8F-dewm)
 - [Databases](#-databases)
 - [Design](#-design)
 - [Developer/Forums](#%E2%80%8D-developerforums)
@@ -312,6 +313,26 @@ Cryptocurrency exchanges and tokens.
 | Tether       | ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)                       | `![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)`                       |
 | Xrp          | ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)                                 | `![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)`                                 |
 | Z Cash       | ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)                         | `![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)`                         |
+
+[(Back to top)](#table-of-contents)
+
+### 🖥️ DE/WM
+
+Desktop Environments & Window Managers
+
+| Name       | Badge                                                                                                                     | Markdown                                                                                                                    |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| awesomeWM  | ![awesomeWM](https://img.shields.io/badge/AwesomeWM-%23535D6C.svg?style=for-the-badge&logo=awesomewm&logoColor=white)     | `![awesomeWM](https://img.shields.io/badge/AwesomeWM-%23535D6C.svg?style=for-the-badge&logo=awesomewm&logoColor=white)`     |
+| bspwm      | ![bspwm](https://img.shields.io/badge/bspwm-%232E2E2E.svg?style=for-the-badge&logo=bspwm&logoColor=white)                 | `![bspwm](https://img.shields.io/badge/bspwm-%232E2E2E.svg?style=for-the-badge&logo=bspwm&logoColor=white)`                 |
+| Cinnamon   | ![Cinnamon](https://img.shields.io/badge/Cinnamon-%23DC682E.svg?style=for-the-badge&logo=cinnamon&logoColor=white)        | `![Cinnamon](https://img.shields.io/badge/Cinnamon-%23DC682E.svg?style=for-the-badge&logo=cinnamon&logoColor=white)`        |
+| dwm        | ![dwm](https://img.shields.io/badge/dwm-%231177AA.svg?style=for-the-badge&logo=dwm&logoColor=white)                       | `![dwm](https://img.shields.io/badge/dwm-%231177AA.svg?style=for-the-badge&logo=dwm&logoColor=white)`                       |
+| GNOME      | ![GNOME](https://img.shields.io/badge/GNOME-%234A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white)                 | `![GNOME](https://img.shields.io/badge/GNOME-%234A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white)`                 |
+| Hyprland   | ![Hyprland](https://img.shields.io/badge/Hyprland-%2358E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=black)        | `![Hyprland](https://img.shields.io/badge/Hyprland-%2358E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=black)`        |
+| i3         | ![i3](https://img.shields.io/badge/i3-%2352C0FF.svg?style=for-the-badge&logo=i3&logoColor=white)                          | `![i3](https://img.shields.io/badge/i3-%2352C0FF.svg?style=for-the-badge&logo=i3&logoColor=white)`                          |
+| KDE Plasma | ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=for-the-badge&logo=kdeplasma&logoColor=white) | `![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=for-the-badge&logo=kdeplasma&logoColor=white)` |
+| Niri       | ![Niri](https://img.shields.io/badge/Niri-%23D55C44.svg?style=for-the-badge&logo=niri&logoColor=white)                    | `![Niri](https://img.shields.io/badge/Niri-%23D55C44.svg?style=for-the-badge&logo=niri&logoColor=white)`                    |
+| Sway       | ![Sway](https://img.shields.io/badge/Sway-%2368751C.svg?style=for-the-badge&logo=sway&logoColor=white)                    | `![Sway](https://img.shields.io/badge/Sway-%2368751C.svg?style=for-the-badge&logo=sway&logoColor=white)`                    |
+| XFCE       | ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)                    | `![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)`                    |
 
 [(Back to top)](#table-of-contents)
 
@@ -1071,7 +1092,6 @@ Miscellaneous tools and services that don't fit other categories.
 | Twilio                | ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)                                             | `![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio logoColor=white)`                                          |
 | Uber                  | ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)                                            | `![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)`                                         |
 | VirtualBox            | ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)                          | `![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)`                       |
-| XFCE                  | ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)                                            | `![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)`                                         |
 | XO                    | ![XO](https://img.shields.io/badge/XO-%235ED9C7.svg?style=for-the-badge&logo=xo&logoColor=black)                                                  | `![XO](https://img.shields.io/badge/XO-%235ED9C7.svg?style=for-the-badge&logo=xo&logoColor=black)`                                               |
 
 ### ⚙️ DevOps
